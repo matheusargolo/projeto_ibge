@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "nome_analise": "Ultimo periodo: remuneracao media por tipo de ocupacao classificada",
+    "descricao": "Compara remuneracao media ponderada entre ocupacoes classificadas como exigentes de nivel superior vs nao exigentes (VD4019 e VD4020).",
+    "gerado_em": "2026-05-03 17:51:44 -0300",
+    "fuso_horario": "America/Sao_Paulo",
+    "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
+    "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
+    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario.",
+    "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",
+    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada.",
+    "remuneracao_escolha": "Foram calculadas duas metricas: VD4019 (rendimento habitual em todos os trabalhos) e VD4020 (rendimento efetivo em todos os trabalhos).",
+    "filtro_remuneracao": "Medias de remuneracao usam apenas rendimentos positivos (>0), com peso valido e ocupacao informada."
+  },
+  "tabela": [
+    {
+      "tipo_ocupacao_classificada": "ocupacoes_marcadas_como_exigem_nivel_superior",
+      "registros_com_ocupacao_e_peso_valido": 26575,
+      "registros_com_rendimento_habitual": 26544,
+      "registros_com_rendimento_efetivo": 26420,
+      "rendimento_habitual_medio_ponderado": 7802.20811358,
+      "rendimento_efetivo_medio_ponderado": 8135.93913312
+    },
+    {
+      "tipo_ocupacao_classificada": "ocupacoes_marcadas_como_nao_exigem_nivel_superior",
+      "registros_com_ocupacao_e_peso_valido": 198376,
+      "registros_com_rendimento_habitual": 193847,
+      "registros_com_rendimento_efetivo": 189181,
+      "rendimento_habitual_medio_ponderado": 2983.86974171,
+      "rendimento_efetivo_medio_ponderado": 3124.84801729
+    }
+  ],
+  "ultimo_periodo": {
+    "ano": 2025,
+    "trimestre": 4,
+    "periodo": "2025-T4"
+  }
+}

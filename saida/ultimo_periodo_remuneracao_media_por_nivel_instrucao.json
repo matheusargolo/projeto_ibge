@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "nome_analise": "Ultimo periodo: remuneracao media por nivel de instrucao",
+    "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por nivel de instrucao (VD4019 e VD4020).",
+    "gerado_em": "2026-05-03 17:50:50 -0300",
+    "fuso_horario": "America/Sao_Paulo",
+    "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
+    "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
+    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario.",
+    "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",
+    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada.",
+    "remuneracao_escolha": "Foram calculadas duas metricas: VD4019 (rendimento habitual em todos os trabalhos) e VD4020 (rendimento efetivo em todos os trabalhos).",
+    "filtro_remuneracao": "Medias de remuneracao usam apenas rendimentos positivos (>0), com peso valido e ocupacao informada."
+  },
+  "tabela": [
+    {
+      "nivel_instrucao_codigo": "1",
+      "nivel_instrucao": "Sem instrucao e menos de 1 ano de estudo",
+      "registros_com_ocupacao_e_peso_valido": 5124,
+      "registros_com_rendimento_habitual": 4946,
+      "rendimento_habitual_medio_ponderado": 1702.85034102,
+      "registros_com_rendimento_efetivo": 4654,
+      "rendimento_efetivo_medio_ponderado": 1814.47713124
+    },
+    {
+      "nivel_instrucao_codigo": "2",
+      "nivel_instrucao": "Fundamental incompleto ou equivalente",
+      "registros_com_ocupacao_e_peso_valido": 46316,
+      "registros_com_rendimento_habitual": 44674,
+      "rendimento_habitual_medio_ponderado": 1936.13003436,
+      "registros_com_rendimento_efetivo": 42685,
+      "rendimento_efetivo_medio_ponderado": 2003.34226566
+    },
+    {
+      "nivel_instrucao_codigo": "3",
+      "nivel_instrucao": "Fundamental completo ou equivalente",
+      "registros_com_ocupacao_e_peso_valido": 15614,
+      "registros_com_rendimento_habitual": 15141,
+      "rendimento_habitual_medio_ponderado": 2343.72262865,
+      "registros_com_rendimento_efetivo": 14730,
+      "rendimento_efetivo_medio_ponderado": 2365.82768144
+    },
+    {
+      "nivel_instrucao_codigo": "4",
+      "nivel_instrucao": "Medio incompleto ou equivalente",
+      "registros_com_ocupacao_e_peso_valido": 14542,
+      "registros_com_rendimento_habitual": 14020,
+      "rendimento_habitual_medio_ponderado": 2139.26054327,
+      "registros_com_rendimento_efetivo": 13637,
+      "rendimento_efetivo_medio_ponderado": 2219.94537834
+    },
+    {
+      "nivel_instrucao_codigo": "5",
+      "nivel_instrucao": "Medio completo ou equivalente",
+      "registros_com_ocupacao_e_peso_valido": 78813,
+      "registros_com_rendimento_habitual": 77561,
+      "rendimento_habitual_medio_ponderado": 2641.63974688,
+      "registros_com_rendimento_efetivo": 76365,
+      "rendimento_efetivo_medio_ponderado": 2760.09033742
+    },
+    {
+      "nivel_instrucao_codigo": "6",
+      "nivel_instrucao": "Superior incompleto ou equivalente",
+      "registros_com_ocupacao_e_peso_valido": 12992,
+      "registros_com_rendimento_habitual": 12766,
+      "rendimento_habitual_medio_ponderado": 3198.89606022,
+      "registros_com_rendimento_efetivo": 12598,
+      "rendimento_efetivo_medio_ponderado": 3362.07527434
+    },
+    {
+      "nivel_instrucao_codigo": "7",
+      "nivel_instrucao": "Superior completo",
+      "registros_com_ocupacao_e_peso_valido": 51580,
+      "registros_com_rendimento_habitual": 51311,
+      "rendimento_habitual_medio_ponderado": 7031.40028345,
+      "registros_com_rendimento_efetivo": 50959,
+      "rendimento_efetivo_medio_ponderado": 7362.77652264
+    }
+  ],
+  "ultimo_periodo": {
+    "ano": 2025,
+    "trimestre": 4,
+    "periodo": "2025-T4"
+  }
+}

@@ -1,0 +1,570 @@
+"Ano","Trimestre","cor_ou_raca","nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade","peso","total_ponderado","percentual"
+2012,4,"Amarela","Superior completo",222072.79197651,791533.58243036,28.056
+2012,4,"Amarela","Fundamental incompleto ou equivalente",208615.70034695,791533.58243036,26.3559
+2012,4,"Amarela","Médio completo ou equivalente",165323.66406815,791533.58243036,20.8865
+2012,4,"Amarela","Fundamental completo ou equivalente",69081.65331786,791533.58243036,8.7276
+2012,4,"Amarela","Superior incompleto ou equivalente",59307.69530196,791533.58243036,7.4928
+2012,4,"Amarela","Médio incompleto ou equivalente",33606.32197437,791533.58243036,4.2457
+2012,4,"Amarela","Sem instrução e menos de 1 ano de estudo",33525.75544456,791533.58243036,4.2355
+2012,4,"Branca","Fundamental incompleto ou equivalente",29871109.5885286,83297744.4085594,35.8606
+2012,4,"Branca","Médio completo ou equivalente",19172157.1966173,83297744.4085594,23.0164
+2012,4,"Branca","Superior completo",11557749.9604592,83297744.4085594,13.8752
+2012,4,"Branca","Fundamental completo ou equivalente",7753624.47926466,83297744.4085594,9.3083
+2012,4,"Branca","Sem instrução e menos de 1 ano de estudo",5834001.45163511,83297744.4085594,7.0038
+2012,4,"Branca","Médio incompleto ou equivalente",4955163.12298307,83297744.4085594,5.9487
+2012,4,"Branca","Superior incompleto ou equivalente",4153938.60907145,83297744.4085594,4.9869
+2012,4,"Ignorado","Médio completo ou equivalente",406.73535266,554.21116093,73.39
+2012,4,"Ignorado","Fundamental incompleto ou equivalente",147.47580827,554.21116093,26.61
+2012,4,"Indígena","Fundamental incompleto ou equivalente",133681.16848106,302046.69540306,44.2584
+2012,4,"Indígena","Médio completo ou equivalente",52162.71926169,302046.69540306,17.2698
+2012,4,"Indígena","Fundamental completo ou equivalente",35964.94038077,302046.69540306,11.9071
+2012,4,"Indígena","Sem instrução e menos de 1 ano de estudo",34860.61425498,302046.69540306,11.5415
+2012,4,"Indígena","Médio incompleto ou equivalente",19326.75402466,302046.69540306,6.3986
+2012,4,"Indígena","Superior completo",13916.57187148,302046.69540306,4.6074
+2012,4,"Indígena","Superior incompleto ou equivalente",12133.92712842,302046.69540306,4.0172
+2012,4,"Parda","Fundamental incompleto ou equivalente",39311697.2908179,85792344.7931664,45.8219
+2012,4,"Parda","Médio completo ou equivalente",16884140.7434465,85792344.7931664,19.6802
+2012,4,"Parda","Sem instrução e menos de 1 ano de estudo",9757628.4259725,85792344.7931664,11.3735
+2012,4,"Parda","Fundamental completo ou equivalente",8372420.03347439,85792344.7931664,9.7589
+2012,4,"Parda","Médio incompleto ou equivalente",5750673.5025888,85792344.7931664,6.703
+2012,4,"Parda","Superior completo",3671578.28491684,85792344.7931664,4.2796
+2012,4,"Parda","Superior incompleto ou equivalente",2044206.51194948,85792344.7931664,2.3827
+2012,4,"Preta","Fundamental incompleto ou equivalente",5667369.5299137,13096218.3092828,43.2749
+2012,4,"Preta","Médio completo ou equivalente",2840060.88378974,13096218.3092828,21.6861
+2012,4,"Preta","Fundamental completo ou equivalente",1370725.05630272,13096218.3092828,10.4666
+2012,4,"Preta","Sem instrução e menos de 1 ano de estudo",1366982.7980002,13096218.3092828,10.438
+2012,4,"Preta","Médio incompleto ou equivalente",865367.3975568,13096218.3092828,6.6078
+2012,4,"Preta","Superior completo",606978.01922347,13096218.3092828,4.6348
+2012,4,"Preta","Superior incompleto ou equivalente",378734.62449616,13096218.3092828,2.8919
+2013,4,"Amarela","Superior completo",254955.70510261,865480.84706192,29.4583
+2013,4,"Amarela","Médio completo ou equivalente",228260.39661826,865480.84706192,26.3738
+2013,4,"Amarela","Fundamental incompleto ou equivalente",190852.78372176,865480.84706192,22.0516
+2013,4,"Amarela","Fundamental completo ou equivalente",61245.06544259,865480.84706192,7.0764
+2013,4,"Amarela","Superior incompleto ou equivalente",58920.88235429,865480.84706192,6.8079
+2013,4,"Amarela","Médio incompleto ou equivalente",38458.921269,865480.84706192,4.4436
+2013,4,"Amarela","Sem instrução e menos de 1 ano de estudo",32787.09255341,865480.84706192,3.7883
+2013,4,"Branca","Fundamental incompleto ou equivalente",29015948.7414311,84097228.8911033,34.5029
+2013,4,"Branca","Médio completo ou equivalente",19826143.845901,84097228.8911033,23.5753
+2013,4,"Branca","Superior completo",11856609.9764114,84097228.8911033,14.0987
+2013,4,"Branca","Fundamental completo ou equivalente",7994814.46855572,84097228.8911033,9.5066
+2013,4,"Branca","Sem instrução e menos de 1 ano de estudo",6007899.72590106,84097228.8911033,7.144
+2013,4,"Branca","Médio incompleto ou equivalente",5073327.63449037,84097228.8911033,6.0327
+2013,4,"Branca","Superior incompleto ou equivalente",4322484.49841278,84097228.8911033,5.1399
+2013,4,"Indígena","Fundamental incompleto ou equivalente",105569.40126952,240901.94522655,43.8226
+2013,4,"Indígena","Médio completo ou equivalente",41421.66298819,240901.94522655,17.1944
+2013,4,"Indígena","Sem instrução e menos de 1 ano de estudo",29482.42301608,240901.94522655,12.2383
+2013,4,"Indígena","Fundamental completo ou equivalente",25949.30687898,240901.94522655,10.7717
+2013,4,"Indígena","Superior completo",17875.48459199,240901.94522655,7.4202
+2013,4,"Indígena","Médio incompleto ou equivalente",14553.86701235,240901.94522655,6.0414
+2013,4,"Indígena","Superior incompleto ou equivalente",6049.79946944,240901.94522655,2.5113
+2013,4,"Parda","Fundamental incompleto ou equivalente",38761788.6305138,86359350.0429737,44.8843
+2013,4,"Parda","Médio completo ou equivalente",17411325.9438147,86359350.0429737,20.1615
+2013,4,"Parda","Sem instrução e menos de 1 ano de estudo",9628619.53500249,86359350.0429737,11.1495
+2013,4,"Parda","Fundamental completo ou equivalente",8572154.03212,86359350.0429737,9.9261
+2013,4,"Parda","Médio incompleto ou equivalente",5934884.08507388,86359350.0429737,6.8723
+2013,4,"Parda","Superior completo",3879613.3986496,86359350.0429737,4.4924
+2013,4,"Parda","Superior incompleto ou equivalente",2170964.41779928,86359350.0429737,2.5139
+2013,4,"Preta","Fundamental incompleto ou equivalente",5498622.63695189,13319423.2736453,41.2827
+2013,4,"Preta","Médio completo ou equivalente",3158421.55451801,13319423.2736453,23.7129
+2013,4,"Preta","Fundamental completo ou equivalente",1417117.68538391,13319423.2736453,10.6395
+2013,4,"Preta","Sem instrução e menos de 1 ano de estudo",1330492.94244073,13319423.2736453,9.9891
+2013,4,"Preta","Médio incompleto ou equivalente",885960.39462286,13319423.2736453,6.6516
+2013,4,"Preta","Superior completo",657784.85657771,13319423.2736453,4.9385
+2013,4,"Preta","Superior incompleto ou equivalente",371023.20315019,13319423.2736453,2.7856
+2014,4,"Amarela","Superior completo",325671.47871097,928166.56728214,35.0876
+2014,4,"Amarela","Fundamental incompleto ou equivalente",205738.42584909,928166.56728214,22.1661
+2014,4,"Amarela","Médio completo ou equivalente",192012.10820366,928166.56728214,20.6872
+2014,4,"Amarela","Fundamental completo ou equivalente",64589.71456832,928166.56728214,6.9588
+2014,4,"Amarela","Superior incompleto ou equivalente",57514.79484819,928166.56728214,6.1966
+2014,4,"Amarela","Médio incompleto ou equivalente",41795.8244399,928166.56728214,4.5031
+2014,4,"Amarela","Sem instrução e menos de 1 ano de estudo",40844.22066201,928166.56728214,4.4005
+2014,4,"Branca","Fundamental incompleto ou equivalente",28293205.4157179,83585213.3412661,33.8495
+2014,4,"Branca","Médio completo ou equivalente",20055638.8454943,83585213.3412661,23.9942
+2014,4,"Branca","Superior completo",12409997.3852389,83585213.3412661,14.8471
+2014,4,"Branca","Fundamental completo ou equivalente",7881251.29365308,83585213.3412661,9.429
+2014,4,"Branca","Sem instrução e menos de 1 ano de estudo",5595350.40793732,83585213.3412661,6.6942
+2014,4,"Branca","Médio incompleto ou equivalente",4892976.56585525,83585213.3412661,5.8539
+2014,4,"Branca","Superior incompleto ou equivalente",4456793.42736926,83585213.3412661,5.332
+2014,4,"Ignorado","Fundamental incompleto ou equivalente",124941.26180398,272651.53047192,45.8245
+2014,4,"Ignorado","Médio completo ou equivalente",40287.47665054,272651.53047192,14.7762
+2014,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",37934.7307475,272651.53047192,13.9133
+2014,4,"Ignorado","Fundamental completo ou equivalente",21845.98337,272651.53047192,8.0124
+2014,4,"Ignorado","Superior completo",21529.05957287,272651.53047192,7.8962
+2014,4,"Ignorado","Médio incompleto ou equivalente",18331.65656428,272651.53047192,6.7235
+2014,4,"Ignorado","Superior incompleto ou equivalente",7781.36176275,272651.53047192,2.854
+2014,4,"Indígena","Fundamental incompleto ou equivalente",89171.94695921,225668.3759882,39.5146
+2014,4,"Indígena","Médio completo ou equivalente",47673.76967723,225668.3759882,21.1256
+2014,4,"Indígena","Sem instrução e menos de 1 ano de estudo",25915.79443064,225668.3759882,11.484
+2014,4,"Indígena","Fundamental completo ou equivalente",23516.38762683,225668.3759882,10.4208
+2014,4,"Indígena","Superior completo",19581.6657191,225668.3759882,8.6772
+2014,4,"Indígena","Médio incompleto ou equivalente",10722.69382302,225668.3759882,4.7515
+2014,4,"Indígena","Superior incompleto ou equivalente",9086.11775217,225668.3759882,4.0263
+2014,4,"Parda","Fundamental incompleto ou equivalente",38338797.3476956,87805038.2583767,43.6636
+2014,4,"Parda","Médio completo ou equivalente",18362094.2726965,87805038.2583767,20.9123
+2014,4,"Parda","Sem instrução e menos de 1 ano de estudo",9368441.40659859,87805038.2583767,10.6696
+2014,4,"Parda","Fundamental completo ou equivalente",8741911.2940896,87805038.2583767,9.956
+2014,4,"Parda","Médio incompleto ou equivalente",6119240.99110362,87805038.2583767,6.9691
+2014,4,"Parda","Superior completo",4385532.9389067,87805038.2583767,4.9946
+2014,4,"Parda","Superior incompleto ou equivalente",2489020.0072861,87805038.2583767,2.8347
+2014,4,"Preta","Fundamental incompleto ou equivalente",5519140.80124009,13530228.9267388,40.7912
+2014,4,"Preta","Médio completo ou equivalente",3162953.05269422,13530228.9267388,23.3769
+2014,4,"Preta","Fundamental completo ou equivalente",1464632.81029832,13530228.9267388,10.8249
+2014,4,"Preta","Sem instrução e menos de 1 ano de estudo",1242141.25832908,13530228.9267388,9.1805
+2014,4,"Preta","Médio incompleto ou equivalente",983697.1339566,13530228.9267388,7.2704
+2014,4,"Preta","Superior completo",719712.15963585,13530228.9267388,5.3193
+2014,4,"Preta","Superior incompleto ou equivalente",437951.71058459,13530228.9267388,3.2368
+2015,4,"Amarela","Superior completo",349832.48640285,1028453.55165273,34.0154
+2015,4,"Amarela","Médio completo ou equivalente",254676.22949355,1028453.55165273,24.763
+2015,4,"Amarela","Fundamental incompleto ou equivalente",218109.74419304,1028453.55165273,21.2075
+2015,4,"Amarela","Superior incompleto ou equivalente",64770.49094927,1028453.55165273,6.2979
+2015,4,"Amarela","Fundamental completo ou equivalente",56048.84415269,1028453.55165273,5.4498
+2015,4,"Amarela","Médio incompleto ou equivalente",44511.73288421,1028453.55165273,4.328
+2015,4,"Amarela","Sem instrução e menos de 1 ano de estudo",40504.02357712,1028453.55165273,3.9383
+2015,4,"Branca","Fundamental incompleto ou equivalente",27752844.1339325,84058893.919327,33.016
+2015,4,"Branca","Médio completo ou equivalente",20624593.4921554,84058893.919327,24.5359
+2015,4,"Branca","Superior completo",13510065.1399202,84058893.919327,16.0721
+2015,4,"Branca","Fundamental completo ou equivalente",7181698.31029667,84058893.919327,8.5437
+2015,4,"Branca","Sem instrução e menos de 1 ano de estudo",5774247.57921022,84058893.919327,6.8693
+2015,4,"Branca","Médio incompleto ou equivalente",4923507.52461591,84058893.919327,5.8572
+2015,4,"Branca","Superior incompleto ou equivalente",4291937.73919615,84058893.919327,5.1059
+2015,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",16022.21632462,26066.10946751,61.4676
+2015,4,"Ignorado","Fundamental incompleto ou equivalente",4766.08909878,26066.10946751,18.2846
+2015,4,"Ignorado","Superior completo",1719.72579966,26066.10946751,6.5976
+2015,4,"Ignorado","Médio completo ou equivalente",1675.46910048,26066.10946751,6.4278
+2015,4,"Ignorado","Médio incompleto ou equivalente",1136.82309984,26066.10946751,4.3613
+2015,4,"Ignorado","Fundamental completo ou equivalente",745.78604413,26066.10946751,2.8611
+2015,4,"Indígena","Fundamental incompleto ou equivalente",168454.96637888,401790.75060283,41.926
+2015,4,"Indígena","Médio completo ou equivalente",82769.5220736,401790.75060283,20.6002
+2015,4,"Indígena","Sem instrução e menos de 1 ano de estudo",53115.40087792,401790.75060283,13.2197
+2015,4,"Indígena","Fundamental completo ou equivalente",35932.33289854,401790.75060283,8.943
+2015,4,"Indígena","Médio incompleto ou equivalente",26412.34297448,401790.75060283,6.5737
+2015,4,"Indígena","Superior completo",24211.46994649,401790.75060283,6.0259
+2015,4,"Indígena","Superior incompleto ou equivalente",10894.71545292,401790.75060283,2.7115
+2015,4,"Parda","Fundamental incompleto ou equivalente",37159600.7542128,87203779.1536725,42.6124
+2015,4,"Parda","Médio completo ou equivalente",19040702.0161549,87203779.1536725,21.8347
+2015,4,"Parda","Sem instrução e menos de 1 ano de estudo",9408655.95129893,87203779.1536725,10.7893
+2015,4,"Parda","Fundamental completo ou equivalente",7967948.03440622,87203779.1536725,9.1372
+2015,4,"Parda","Médio incompleto ou equivalente",6262648.80821269,87203779.1536725,7.1816
+2015,4,"Parda","Superior completo",4790356.53377166,87203779.1536725,5.4933
+2015,4,"Parda","Superior incompleto ou equivalente",2573867.05561522,87203779.1536725,2.9516
+2015,4,"Preta","Fundamental incompleto ou equivalente",5981875.39833614,14985875.5153687,39.9168
+2015,4,"Preta","Médio completo ou equivalente",3632383.87266302,14985875.5153687,24.2387
+2015,4,"Preta","Sem instrução e menos de 1 ano de estudo",1471085.28140883,14985875.5153687,9.8165
+2015,4,"Preta","Fundamental completo ou equivalente",1437108.77965269,14985875.5153687,9.5898
+2015,4,"Preta","Médio incompleto ou equivalente",1059704.24750191,14985875.5153687,7.0714
+2015,4,"Preta","Superior completo",910102.61351341,14985875.5153687,6.0731
+2015,4,"Preta","Superior incompleto ou equivalente",493615.3222927,14985875.5153687,3.2939
+2016,4,"Amarela","Superior completo",384553.86779856,1108230.4709411,34.6998
+2016,4,"Amarela","Médio completo ou equivalente",258372.99327825,1108230.4709411,23.314
+2016,4,"Amarela","Fundamental incompleto ou equivalente",230133.78140755,1108230.4709411,20.7659
+2016,4,"Amarela","Fundamental completo ou equivalente",74317.09187506,1108230.4709411,6.7059
+2016,4,"Amarela","Superior incompleto ou equivalente",70241.9095326,1108230.4709411,6.3382
+2016,4,"Amarela","Médio incompleto ou equivalente",47570.74596062,1108230.4709411,4.2925
+2016,4,"Amarela","Sem instrução e menos de 1 ano de estudo",43040.08108846,1108230.4709411,3.8837
+2016,4,"Branca","Fundamental incompleto ou equivalente",26471824.4286199,82079215.4056009,32.2516
+2016,4,"Branca","Médio completo ou equivalente",20325129.8459837,82079215.4056009,24.7628
+2016,4,"Branca","Superior completo",13756960.2222298,82079215.4056009,16.7606
+2016,4,"Branca","Fundamental completo ou equivalente",6887352.11313486,82079215.4056009,8.3911
+2016,4,"Branca","Sem instrução e menos de 1 ano de estudo",5420139.18379074,82079215.4056009,6.6035
+2016,4,"Branca","Médio incompleto ou equivalente",4947478.39814229,82079215.4056009,6.0277
+2016,4,"Branca","Superior incompleto ou equivalente",4270331.21369963,82079215.4056009,5.2027
+2016,4,"Ignorado","Fundamental incompleto ou equivalente",5464.88831584,14149.88413015,38.6214
+2016,4,"Ignorado","Superior incompleto ou equivalente",2338.27959234,14149.88413015,16.5251
+2016,4,"Ignorado","Médio incompleto ou equivalente",1811.94171436,14149.88413015,12.8053
+2016,4,"Ignorado","Superior completo",1728.09002106,14149.88413015,12.2128
+2016,4,"Ignorado","Fundamental completo ou equivalente",1277.73978806,14149.88413015,9.03
+2016,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",881.27632016,14149.88413015,6.2282
+2016,4,"Ignorado","Médio completo ou equivalente",647.66837833,14149.88413015,4.5772
+2016,4,"Indígena","Fundamental incompleto ou equivalente",195411.28699919,496944.72408368,39.3225
+2016,4,"Indígena","Médio completo ou equivalente",107129.10215411,496944.72408368,21.5575
+2016,4,"Indígena","Sem instrução e menos de 1 ano de estudo",55541.33593512,496944.72408368,11.1766
+2016,4,"Indígena","Fundamental completo ou equivalente",43808.70668905,496944.72408368,8.8156
+2016,4,"Indígena","Superior completo",39231.51357183,496944.72408368,7.8945
+2016,4,"Indígena","Médio incompleto ou equivalente",35431.76985746,496944.72408368,7.1299
+2016,4,"Indígena","Superior incompleto ou equivalente",20391.00887692,496944.72408368,4.1033
+2016,4,"Parda","Fundamental incompleto ou equivalente",37411853.3857247,89568379.4637317,41.769
+2016,4,"Parda","Médio completo ou equivalente",19971714.2597066,89568379.4637317,22.2977
+2016,4,"Parda","Sem instrução e menos de 1 ano de estudo",9327453.66454513,89568379.4637317,10.4138
+2016,4,"Parda","Fundamental completo ou equivalente",7927739.99763724,89568379.4637317,8.851
+2016,4,"Parda","Médio incompleto ou equivalente",6835907.69782225,89568379.4637317,7.6321
+2016,4,"Parda","Superior completo",5331417.21785672,89568379.4637317,5.9523
+2016,4,"Parda","Superior incompleto ou equivalente",2762293.24043898,89568379.4637317,3.084
+2016,4,"Preta","Fundamental incompleto ou equivalente",6039108.04618153,15807006.0516169,38.2053
+2016,4,"Preta","Médio completo ou equivalente",4022745.9722112,15807006.0516169,25.4491
+2016,4,"Preta","Sem instrução e menos de 1 ano de estudo",1460571.34926646,15807006.0516169,9.24
+2016,4,"Preta","Fundamental completo ou equivalente",1424831.88896788,15807006.0516169,9.0139
+2016,4,"Preta","Médio incompleto ou equivalente",1262981.50104661,15807006.0516169,7.99
+2016,4,"Preta","Superior completo",1044005.86932958,15807006.0516169,6.6047
+2016,4,"Preta","Superior incompleto ou equivalente",552761.42461365,15807006.0516169,3.4969
+2017,4,"Amarela","Superior completo",349394.26549718,1124832.1809315,31.0619
+2017,4,"Amarela","Médio completo ou equivalente",269614.28261535,1124832.1809315,23.9693
+2017,4,"Amarela","Fundamental incompleto ou equivalente",267933.9897429,1124832.1809315,23.8199
+2017,4,"Amarela","Fundamental completo ou equivalente",79447.17425439,1124832.1809315,7.063
+2017,4,"Amarela","Superior incompleto ou equivalente",73463.80488425,1124832.1809315,6.5311
+2017,4,"Amarela","Sem instrução e menos de 1 ano de estudo",45031.35362735,1124832.1809315,4.0034
+2017,4,"Amarela","Médio incompleto ou equivalente",39947.31031008,1124832.1809315,3.5514
+2017,4,"Branca","Fundamental incompleto ou equivalente",26474113.3070488,81637778.2078322,32.4288
+2017,4,"Branca","Médio completo ou equivalente",19941227.392217,81637778.2078322,24.4265
+2017,4,"Branca","Superior completo",14094047.6427893,81637778.2078322,17.2641
+2017,4,"Branca","Fundamental completo ou equivalente",6459122.02287423,81637778.2078322,7.9119
+2017,4,"Branca","Sem instrução e menos de 1 ano de estudo",5199681.31605304,81637778.2078322,6.3692
+2017,4,"Branca","Médio incompleto ou equivalente",4948706.40526444,81637778.2078322,6.0618
+2017,4,"Branca","Superior incompleto ou equivalente",4520880.12158547,81637778.2078322,5.5377
+2017,4,"Ignorado","Superior completo",8952.51483317,19580.24303725,45.7222
+2017,4,"Ignorado","Fundamental incompleto ou equivalente",3369.47229754,19580.24303725,17.2085
+2017,4,"Ignorado","Superior incompleto ou equivalente",3163.9542209,19580.24303725,16.1589
+2017,4,"Ignorado","Fundamental completo ou equivalente",1345.09733404,19580.24303725,6.8697
+2017,4,"Ignorado","Médio completo ou equivalente",1009.62315437,19580.24303725,5.1563
+2017,4,"Ignorado","Médio incompleto ou equivalente",984.67838576,19580.24303725,5.0289
+2017,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",754.90281147,19580.24303725,3.8554
+2017,4,"Indígena","Fundamental incompleto ou equivalente",200229.89019318,510829.22622288,39.197
+2017,4,"Indígena","Médio completo ou equivalente",103122.68199044,510829.22622288,20.1873
+2017,4,"Indígena","Sem instrução e menos de 1 ano de estudo",61665.32546614,510829.22622288,12.0716
+2017,4,"Indígena","Superior completo",46022.86347865,510829.22622288,9.0094
+2017,4,"Indígena","Médio incompleto ou equivalente",44189.24763614,510829.22622288,8.6505
+2017,4,"Indígena","Fundamental completo ou equivalente",43348.53904552,510829.22622288,8.4859
+2017,4,"Indígena","Superior incompleto ou equivalente",12250.67841281,510829.22622288,2.3982
+2017,4,"Parda","Fundamental incompleto ou equivalente",37037610.2875972,90158438.134415,41.0806
+2017,4,"Parda","Médio completo ou equivalente",20846222.5699032,90158438.134415,23.1218
+2017,4,"Parda","Sem instrução e menos de 1 ano de estudo",8720973.66127811,90158438.134415,9.6729
+2017,4,"Parda","Fundamental completo ou equivalente",7720413.95538649,90158438.134415,8.5632
+2017,4,"Parda","Médio incompleto ou equivalente",6927660.49267442,90158438.134415,7.6839
+2017,4,"Parda","Superior completo",5828771.7803245,90158438.134415,6.465
+2017,4,"Parda","Superior incompleto ou equivalente",3076785.38725109,90158438.134415,3.4126
+2017,4,"Preta","Fundamental incompleto ou equivalente",6383885.29416751,16954790.0077564,37.6524
+2017,4,"Preta","Médio completo ou equivalente",4408999.86602015,16954790.0077564,26.0044
+2017,4,"Preta","Fundamental completo ou equivalente",1483679.39936081,16954790.0077564,8.7508
+2017,4,"Preta","Sem instrução e menos de 1 ano de estudo",1446871.56734395,16954790.0077564,8.5337
+2017,4,"Preta","Médio incompleto ou equivalente",1353211.3314341,16954790.0077564,7.9813
+2017,4,"Preta","Superior completo",1215775.83259518,16954790.0077564,7.1707
+2017,4,"Preta","Superior incompleto ou equivalente",662366.71683468,16954790.0077564,3.9067
+2018,4,"Amarela","Superior completo",361769.04118669,1317730.27440633,27.454
+2018,4,"Amarela","Fundamental incompleto ou equivalente",345163.00337609,1317730.27440633,26.1938
+2018,4,"Amarela","Médio completo ou equivalente",332338.37834046,1317730.27440633,25.2205
+2018,4,"Amarela","Fundamental completo ou equivalente",81190.8429631,1317730.27440633,6.1614
+2018,4,"Amarela","Superior incompleto ou equivalente",77008.30206144,1317730.27440633,5.844
+2018,4,"Amarela","Sem instrução e menos de 1 ano de estudo",62815.34256965,1317730.27440633,4.7669
+2018,4,"Amarela","Médio incompleto ou equivalente",57445.3639089,1317730.27440633,4.3594
+2018,4,"Branca","Fundamental incompleto ou equivalente",25665841.1209065,81241891.6114767,31.5919
+2018,4,"Branca","Médio completo ou equivalente",20115695.0716369,81241891.6114767,24.7602
+2018,4,"Branca","Superior completo",14788714.6960295,81241891.6114767,18.2033
+2018,4,"Branca","Fundamental completo ou equivalente",6093810.79739648,81241891.6114767,7.5008
+2018,4,"Branca","Sem instrução e menos de 1 ano de estudo",4926129.75221427,81241891.6114767,6.0635
+2018,4,"Branca","Médio incompleto ou equivalente",4894960.83848952,81241891.6114767,6.0252
+2018,4,"Branca","Superior incompleto ou equivalente",4756739.33480345,81241891.6114767,5.855
+2018,4,"Ignorado","Fundamental incompleto ou equivalente",378.82429372,688.90848449,54.9891
+2018,4,"Ignorado","Médio completo ou equivalente",220.3921383,688.90848449,31.9915
+2018,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",89.69205247,688.90848449,13.0194
+2018,4,"Indígena","Fundamental incompleto ou equivalente",275286.73515321,715059.03488494,38.4985
+2018,4,"Indígena","Médio completo ou equivalente",157246.02824733,715059.03488494,21.9906
+2018,4,"Indígena","Fundamental completo ou equivalente",70730.01712835,715059.03488494,9.8915
+2018,4,"Indígena","Sem instrução e menos de 1 ano de estudo",70596.83740465,715059.03488494,9.8729
+2018,4,"Indígena","Médio incompleto ou equivalente",59477.76628593,715059.03488494,8.3179
+2018,4,"Indígena","Superior completo",56499.10222639,715059.03488494,7.9013
+2018,4,"Indígena","Superior incompleto ou equivalente",25222.54843908,715059.03488494,3.5273
+2018,4,"Parda","Fundamental incompleto ou equivalente",36463846.1958798,90260658.3770518,40.3984
+2018,4,"Parda","Médio completo ou equivalente",21303787.4163816,90260658.3770518,23.6025
+2018,4,"Parda","Sem instrução e menos de 1 ano de estudo",8232190.50266167,90260658.3770518,9.1205
+2018,4,"Parda","Fundamental completo ou equivalente",7335638.97685073,90260658.3770518,8.1272
+2018,4,"Parda","Médio incompleto ou equivalente",7020885.79038758,90260658.3770518,7.7785
+2018,4,"Parda","Superior completo",6579581.92564754,90260658.3770518,7.2895
+2018,4,"Parda","Superior incompleto ou equivalente",3324727.56924288,90260658.3770518,3.6835
+2018,4,"Preta","Fundamental incompleto ou equivalente",6700113.82636681,18134288.7939272,36.9472
+2018,4,"Preta","Médio completo ou equivalente",4848862.76220428,18134288.7939272,26.7386
+2018,4,"Preta","Sem instrução e menos de 1 ano de estudo",1483050.31145358,18134288.7939272,8.1782
+2018,4,"Preta","Fundamental completo ou equivalente",1479070.50725697,18134288.7939272,8.1562
+2018,4,"Preta","Superior completo",1466448.37601872,18134288.7939272,8.0866
+2018,4,"Preta","Médio incompleto ou equivalente",1427679.34671439,18134288.7939272,7.8728
+2018,4,"Preta","Superior incompleto ou equivalente",729063.66391246,18134288.7939272,4.0204
+2019,4,"Amarela","Superior completo",354946.41538296,1243733.7752099,28.5388
+2019,4,"Amarela","Médio completo ou equivalente",328958.20814902,1243733.7752099,26.4492
+2019,4,"Amarela","Fundamental incompleto ou equivalente",276145.60708723,1243733.7752099,22.203
+2019,4,"Amarela","Superior incompleto ou equivalente",85211.41906756,1243733.7752099,6.8513
+2019,4,"Amarela","Fundamental completo ou equivalente",71898.52146888,1243733.7752099,5.7809
+2019,4,"Amarela","Médio incompleto ou equivalente",69938.43715309,1243733.7752099,5.6233
+2019,4,"Amarela","Sem instrução e menos de 1 ano de estudo",56635.16690116,1243733.7752099,4.5536
+2019,4,"Branca","Fundamental incompleto ou equivalente",24772762.0163968,80447083.5091822,30.7939
+2019,4,"Branca","Médio completo ou equivalente",20155008.2099643,80447083.5091822,25.0537
+2019,4,"Branca","Superior completo",15230431.2328115,80447083.5091822,18.9322
+2019,4,"Branca","Fundamental completo ou equivalente",6012219.85315815,80447083.5091822,7.4735
+2019,4,"Branca","Sem instrução e menos de 1 ano de estudo",4816223.27416714,80447083.5091822,5.9868
+2019,4,"Branca","Médio incompleto ou equivalente",4797742.31866612,80447083.5091822,5.9638
+2019,4,"Branca","Superior incompleto ou equivalente",4662696.60401827,80447083.5091822,5.796
+2019,4,"Ignorado","Superior completo",8256.4359664,31695.38385176,26.0493
+2019,4,"Ignorado","Médio completo ou equivalente",8106.50570799,31695.38385176,25.5763
+2019,4,"Ignorado","Fundamental incompleto ou equivalente",7840.99575165,31695.38385176,24.7386
+2019,4,"Ignorado","Superior incompleto ou equivalente",3146.2725171,31695.38385176,9.9266
+2019,4,"Ignorado","Fundamental completo ou equivalente",2143.22135473,31695.38385176,6.7619
+2019,4,"Ignorado","Médio incompleto ou equivalente",1295.85714165,31695.38385176,4.0885
+2019,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",906.09541224,31695.38385176,2.8588
+2019,4,"Indígena","Fundamental incompleto ou equivalente",267337.82359524,694775.51728215,38.4783
+2019,4,"Indígena","Médio completo ou equivalente",171292.54883858,694775.51728215,24.6544
+2019,4,"Indígena","Médio incompleto ou equivalente",63408.5091684,694775.51728215,9.1265
+2019,4,"Indígena","Sem instrução e menos de 1 ano de estudo",62487.89652029,694775.51728215,8.994
+2019,4,"Indígena","Superior completo",52297.10315698,694775.51728215,7.5272
+2019,4,"Indígena","Fundamental completo ou equivalente",51622.71571889,694775.51728215,7.4301
+2019,4,"Indígena","Superior incompleto ou equivalente",26328.92028377,694775.51728215,3.7896
+2019,4,"Parda","Fundamental incompleto ou equivalente",36082018.9069481,91799746.6625151,39.3051
+2019,4,"Parda","Médio completo ou equivalente",22337479.3396902,91799746.6625151,24.3328
+2019,4,"Parda","Sem instrução e menos de 1 ano de estudo",8372106.92385656,91799746.6625151,9.12
+2019,4,"Parda","Fundamental completo ou equivalente",7344318.29933257,91799746.6625151,8.0004
+2019,4,"Parda","Superior completo",7129018.31982442,91799746.6625151,7.7658
+2019,4,"Parda","Médio incompleto ou equivalente",7098154.555226,91799746.6625151,7.7322
+2019,4,"Parda","Superior incompleto ou equivalente",3436650.31763732,91799746.6625151,3.7436
+2019,4,"Preta","Fundamental incompleto ou equivalente",6746951.84766488,18750324.152605,35.9831
+2019,4,"Preta","Médio completo ou equivalente",5226234.23828195,18750324.152605,27.8728
+2019,4,"Preta","Fundamental completo ou equivalente",1524779.66672062,18750324.152605,8.132
+2019,4,"Preta","Sem instrução e menos de 1 ano de estudo",1512773.18008929,18750324.152605,8.068
+2019,4,"Preta","Superior completo",1496933.56856806,18750324.152605,7.9835
+2019,4,"Preta","Médio incompleto ou equivalente",1461223.1784721,18750324.152605,7.7931
+2019,4,"Preta","Superior incompleto ou equivalente",781428.47280811,18750324.152605,4.1675
+2020,4,"Amarela","Superior completo",424824.88267473,1384684.27738135,30.6803
+2020,4,"Amarela","Médio completo ou equivalente",388278.95305843,1384684.27738135,28.041
+2020,4,"Amarela","Fundamental incompleto ou equivalente",245844.08980719,1384684.27738135,17.7545
+2020,4,"Amarela","Superior incompleto ou equivalente",107482.9899518,1384684.27738135,7.7623
+2020,4,"Amarela","Fundamental completo ou equivalente",81057.55244125,1384684.27738135,5.8539
+2020,4,"Amarela","Sem instrução e menos de 1 ano de estudo",70695.9093145,1384684.27738135,5.1056
+2020,4,"Amarela","Médio incompleto ou equivalente",66499.90013345,1384684.27738135,4.8025
+2020,4,"Branca","Fundamental incompleto ou equivalente",24545854.2717825,84607988.7580665,29.0113
+2020,4,"Branca","Médio completo ou equivalente",21120089.4072756,84607988.7580665,24.9623
+2020,4,"Branca","Superior completo",17538391.7534214,84607988.7580665,20.729
+2020,4,"Branca","Fundamental completo ou equivalente",6265256.75616632,84607988.7580665,7.405
+2020,4,"Branca","Superior incompleto ou equivalente",5248609.50280545,84607988.7580665,6.2034
+2020,4,"Branca","Médio incompleto ou equivalente",4978642.74242018,84607988.7580665,5.8844
+2020,4,"Branca","Sem instrução e menos de 1 ano de estudo",4911144.32419502,84607988.7580665,5.8046
+2020,4,"Ignorado","Superior completo",16355.41103565,50534.80063598,32.3646
+2020,4,"Ignorado","Fundamental incompleto ou equivalente",15532.27519744,50534.80063598,30.7358
+2020,4,"Ignorado","Médio completo ou equivalente",11164.59561988,50534.80063598,22.0929
+2020,4,"Ignorado","Médio incompleto ou equivalente",3095.12383406,50534.80063598,6.1247
+2020,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",1926.89991168,50534.80063598,3.813
+2020,4,"Ignorado","Fundamental completo ou equivalente",1247.86888849,50534.80063598,2.4693
+2020,4,"Ignorado","Superior incompleto ou equivalente",1212.62614878,50534.80063598,2.3996
+2020,4,"Indígena","Fundamental incompleto ou equivalente",216226.76914157,617715.13876465,35.0043
+2020,4,"Indígena","Médio completo ou equivalente",150794.48011596,617715.13876465,24.4117
+2020,4,"Indígena","Sem instrução e menos de 1 ano de estudo",71467.27221427,617715.13876465,11.5696
+2020,4,"Indígena","Médio incompleto ou equivalente",58745.37488697,617715.13876465,9.5101
+2020,4,"Indígena","Superior completo",57173.17866754,617715.13876465,9.2556
+2020,4,"Indígena","Fundamental completo ou equivalente",45469.10483546,617715.13876465,7.3609
+2020,4,"Indígena","Superior incompleto ou equivalente",17838.95890288,617715.13876465,2.8879
+2020,4,"Parda","Fundamental incompleto ou equivalente",33565893.1870803,90151627.4281727,37.2327
+2020,4,"Parda","Médio completo ou equivalente",23183756.6531667,90151627.4281727,25.7164
+2020,4,"Parda","Sem instrução e menos de 1 ano de estudo",7949013.06864612,90151627.4281727,8.8174
+2020,4,"Parda","Superior completo",7643079.47654136,90151627.4281727,8.478
+2020,4,"Parda","Fundamental completo ou equivalente",7364876.5153895,90151627.4281727,8.1694
+2020,4,"Parda","Médio incompleto ou equivalente",6897088.52595554,90151627.4281727,7.6505
+2020,4,"Parda","Superior incompleto ou equivalente",3547920.00139323,90151627.4281727,3.9355
+2020,4,"Preta","Fundamental incompleto ou equivalente",5679743.70577092,17490607.610474,32.4731
+2020,4,"Preta","Médio completo ou equivalente",5104700.7714142,17490607.610474,29.1854
+2020,4,"Preta","Superior completo",1725191.93658532,17490607.610474,9.8635
+2020,4,"Preta","Fundamental completo ou equivalente",1409250.29265384,17490607.610474,8.0572
+2020,4,"Preta","Médio incompleto ou equivalente",1376834.1222422,17490607.610474,7.8718
+2020,4,"Preta","Sem instrução e menos de 1 ano de estudo",1358361.77308652,17490607.610474,7.7662
+2020,4,"Preta","Superior incompleto ou equivalente",836525.00872101,17490607.610474,4.7827
+2021,4,"Amarela","Superior completo",382894.10218674,1476518.42222437,25.9322
+2021,4,"Amarela","Médio completo ou equivalente",366382.13585094,1476518.42222437,24.8139
+2021,4,"Amarela","Fundamental incompleto ou equivalente",361654.97985214,1476518.42222437,24.4938
+2021,4,"Amarela","Fundamental completo ou equivalente",105776.36326469,1476518.42222437,7.1639
+2021,4,"Amarela","Superior incompleto ou equivalente",96757.87509923,1476518.42222437,6.5531
+2021,4,"Amarela","Médio incompleto ou equivalente",86546.82445525,1476518.42222437,5.8615
+2021,4,"Amarela","Sem instrução e menos de 1 ano de estudo",76506.14151538,1476518.42222437,5.1815
+2021,4,"Branca","Fundamental incompleto ou equivalente",24694711.3823129,84142300.7838771,29.3487
+2021,4,"Branca","Médio completo ou equivalente",21488967.2844146,84142300.7838771,25.5388
+2021,4,"Branca","Superior completo",16552235.3143943,84142300.7838771,19.6717
+2021,4,"Branca","Fundamental completo ou equivalente",6146598.03464449,84142300.7838771,7.305
+2021,4,"Branca","Sem instrução e menos de 1 ano de estudo",5474181.98874258,84142300.7838771,6.5059
+2021,4,"Branca","Médio incompleto ou equivalente",5144888.61578574,84142300.7838771,6.1145
+2021,4,"Branca","Superior incompleto ou equivalente",4640718.16358257,84142300.7838771,5.5153
+2021,4,"Ignorado","Fundamental incompleto ou equivalente",21845.02635061,58201.77754607,37.5333
+2021,4,"Ignorado","Superior completo",16532.05985776,58201.77754607,28.4047
+2021,4,"Ignorado","Médio completo ou equivalente",11542.22448761,58201.77754607,19.8314
+2021,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",2921.83198848,58201.77754607,5.0202
+2021,4,"Ignorado","Fundamental completo ou equivalente",2153.10668451,58201.77754607,3.6994
+2021,4,"Ignorado","Médio incompleto ou equivalente",2002.78830474,58201.77754607,3.4411
+2021,4,"Ignorado","Superior incompleto ou equivalente",1204.73987236,58201.77754607,2.0699
+2021,4,"Indígena","Fundamental incompleto ou equivalente",277152.20046235,779677.20757661,35.547
+2021,4,"Indígena","Médio completo ou equivalente",190604.79215547,779677.20757661,24.4466
+2021,4,"Indígena","Sem instrução e menos de 1 ano de estudo",92793.35462962,779677.20757661,11.9015
+2021,4,"Indígena","Médio incompleto ou equivalente",66780.08735703,779677.20757661,8.5651
+2021,4,"Indígena","Fundamental completo ou equivalente",57358.31264717,779677.20757661,7.3567
+2021,4,"Indígena","Superior completo",55752.70604112,779677.20757661,7.1507
+2021,4,"Indígena","Superior incompleto ou equivalente",39235.75428385,779677.20757661,5.0323
+2021,4,"Parda","Fundamental incompleto ou equivalente",33191475.5062851,89575351.7676288,37.0543
+2021,4,"Parda","Médio completo ou equivalente",22932742.155281,89575351.7676288,25.6016
+2021,4,"Parda","Sem instrução e menos de 1 ano de estudo",8357061.66062394,89575351.7676288,9.3296
+2021,4,"Parda","Superior completo",7530525.40422456,89575351.7676288,8.4069
+2021,4,"Parda","Médio incompleto ou equivalente",7255480.3894392,89575351.7676288,8.0999
+2021,4,"Parda","Fundamental completo ou equivalente",7161216.63384539,89575351.7676288,7.9946
+2021,4,"Parda","Superior incompleto ou equivalente",3146850.01792956,89575351.7676288,3.5131
+2021,4,"Preta","Fundamental incompleto ou equivalente",6480600.82703231,19558347.0509848,33.1347
+2021,4,"Preta","Médio completo ou equivalente",5606309.96130206,19558347.0509848,28.6645
+2021,4,"Preta","Superior completo",1820526.75488914,19558347.0509848,9.3082
+2021,4,"Preta","Sem instrução e menos de 1 ano de estudo",1639045.34544471,19558347.0509848,8.3803
+2021,4,"Preta","Fundamental completo ou equivalente",1612382.08882596,19558347.0509848,8.244
+2021,4,"Preta","Médio incompleto ou equivalente",1580512.71923217,19558347.0509848,8.081
+2021,4,"Preta","Superior incompleto ou equivalente",818969.35425849,19558347.0509848,4.1873
+2022,4,"Amarela","Superior completo",414484.2237527,1430506.01539757,28.9747
+2022,4,"Amarela","Médio completo ou equivalente",336171.64387921,1430506.01539757,23.5002
+2022,4,"Amarela","Fundamental incompleto ou equivalente",333302.47357058,1430506.01539757,23.2996
+2022,4,"Amarela","Fundamental completo ou equivalente",93897.84532428,1430506.01539757,6.564
+2022,4,"Amarela","Médio incompleto ou equivalente",88570.95935346,1430506.01539757,6.1916
+2022,4,"Amarela","Superior incompleto ou equivalente",84690.65920777,1430506.01539757,5.9203
+2022,4,"Amarela","Sem instrução e menos de 1 ano de estudo",79388.21030957,1430506.01539757,5.5497
+2022,4,"Branca","Fundamental incompleto ou equivalente",23997757.0210875,84000338.2615401,28.5686
+2022,4,"Branca","Médio completo ou equivalente",21599450.8820396,84000338.2615401,25.7135
+2022,4,"Branca","Superior completo",17134234.8440456,84000338.2615401,20.3978
+2022,4,"Branca","Fundamental completo ou equivalente",5856136.13410149,84000338.2615401,6.9716
+2022,4,"Branca","Sem instrução e menos de 1 ano de estudo",5612733.68748457,84000338.2615401,6.6818
+2022,4,"Branca","Médio incompleto ou equivalente",5222639.35346398,84000338.2615401,6.2174
+2022,4,"Branca","Superior incompleto ou equivalente",4577386.3393173,84000338.2615401,5.4492
+2022,4,"Ignorado","Superior completo",18011.0277022,37450.458778,48.0929
+2022,4,"Ignorado","Médio completo ou equivalente",7726.349488,37450.458778,20.6309
+2022,4,"Ignorado","Fundamental incompleto ou equivalente",5340.92672146,37450.458778,14.2613
+2022,4,"Ignorado","Médio incompleto ou equivalente",3531.45115602,37450.458778,9.4297
+2022,4,"Ignorado","Superior incompleto ou equivalente",1259.92133423,37450.458778,3.3642
+2022,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",955.51610585,37450.458778,2.5514
+2022,4,"Ignorado","Fundamental completo ou equivalente",625.26627024,37450.458778,1.6696
+2022,4,"Indígena","Fundamental incompleto ou equivalente",283966.28191758,830744.08100995,34.1822
+2022,4,"Indígena","Médio completo ou equivalente",213758.20206257,830744.08100995,25.7309
+2022,4,"Indígena","Sem instrução e menos de 1 ano de estudo",86917.7084238,830744.08100995,10.4626
+2022,4,"Indígena","Fundamental completo ou equivalente",71335.17895807,830744.08100995,8.5869
+2022,4,"Indígena","Superior completo",70385.33160099,830744.08100995,8.4726
+2022,4,"Indígena","Médio incompleto ou equivalente",63995.39537725,830744.08100995,7.7034
+2022,4,"Indígena","Superior incompleto ou equivalente",40385.98266969,830744.08100995,4.8614
+2022,4,"Parda","Fundamental incompleto ou equivalente",32529064.2772211,89606146.3548374,36.3023
+2022,4,"Parda","Médio completo ou equivalente",23469493.9591606,89606146.3548374,26.1918
+2022,4,"Parda","Sem instrução e menos de 1 ano de estudo",8356006.87063304,89606146.3548374,9.3253
+2022,4,"Parda","Superior completo",7943436.41852014,89606146.3548374,8.8648
+2022,4,"Parda","Médio incompleto ou equivalente",7120992.78115118,89606146.3548374,7.947
+2022,4,"Parda","Fundamental completo ou equivalente",6951720.94836195,89606146.3548374,7.7581
+2022,4,"Parda","Superior incompleto ou equivalente",3235431.09978936,89606146.3548374,3.6107
+2022,4,"Preta","Fundamental incompleto ou equivalente",6791519.35167986,20979577.8387577,32.372
+2022,4,"Preta","Médio completo ou equivalente",6129190.30768812,20979577.8387577,29.215
+2022,4,"Preta","Superior completo",2121696.64744479,20979577.8387577,10.1132
+2022,4,"Preta","Sem instrução e menos de 1 ano de estudo",1773354.96493453,20979577.8387577,8.4528
+2022,4,"Preta","Médio incompleto ou equivalente",1745423.72015329,20979577.8387577,8.3196
+2022,4,"Preta","Fundamental completo ou equivalente",1540741.4667403,20979577.8387577,7.344
+2022,4,"Preta","Superior incompleto ou equivalente",877651.38011685,20979577.8387577,4.1834
+2023,4,"Amarela","Superior completo",410586.02823115,1400332.4979908,29.3206
+2023,4,"Amarela","Médio completo ou equivalente",382365.21404667,1400332.4979908,27.3053
+2023,4,"Amarela","Fundamental incompleto ou equivalente",300236.5009314,1400332.4979908,21.4404
+2023,4,"Amarela","Superior incompleto ou equivalente",87270.04583859,1400332.4979908,6.2321
+2023,4,"Amarela","Sem instrução e menos de 1 ano de estudo",79123.05512996,1400332.4979908,5.6503
+2023,4,"Amarela","Fundamental completo ou equivalente",71112.19085611,1400332.4979908,5.0782
+2023,4,"Amarela","Médio incompleto ou equivalente",69639.46295692,1400332.4979908,4.9731
+2023,4,"Branca","Fundamental incompleto ou equivalente",23316788.0514533,83970185.5972139,27.7679
+2023,4,"Branca","Médio completo ou equivalente",21842167.2394209,83970185.5972139,26.0118
+2023,4,"Branca","Superior completo",17867839.7768736,83970185.5972139,21.2788
+2023,4,"Branca","Fundamental completo ou equivalente",5929478.57037716,83970185.5972139,7.0614
+2023,4,"Branca","Sem instrução e menos de 1 ano de estudo",5535557.45415008,83970185.5972139,6.5923
+2023,4,"Branca","Médio incompleto ou equivalente",4876964.04852276,83970185.5972139,5.808
+2023,4,"Branca","Superior incompleto ou equivalente",4601390.45641611,83970185.5972139,5.4798
+2023,4,"Ignorado","Superior completo",10506.38663707,29871.3267249,35.1721
+2023,4,"Ignorado","Médio completo ou equivalente",7341.41473314,29871.3267249,24.5768
+2023,4,"Ignorado","Fundamental incompleto ou equivalente",6246.11242273,29871.3267249,20.9101
+2023,4,"Ignorado","Médio incompleto ou equivalente",1984.33946702,29871.3267249,6.643
+2023,4,"Ignorado","Superior incompleto ou equivalente",1458.16362955,29871.3267249,4.8815
+2023,4,"Ignorado","Fundamental completo ou equivalente",1382.37298277,29871.3267249,4.6278
+2023,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",952.53685262,29871.3267249,3.1888
+2023,4,"Indígena","Fundamental incompleto ou equivalente",311674.10194857,857192.10786498,36.3599
+2023,4,"Indígena","Médio completo ou equivalente",222507.44199321,857192.10786498,25.9577
+2023,4,"Indígena","Sem instrução e menos de 1 ano de estudo",83278.09964871,857192.10786498,9.7152
+2023,4,"Indígena","Médio incompleto ou equivalente",73032.16127477,857192.10786498,8.5199
+2023,4,"Indígena","Superior completo",66961.80551437,857192.10786498,7.8118
+2023,4,"Indígena","Fundamental completo ou equivalente",66691.17798383,857192.10786498,7.7802
+2023,4,"Indígena","Superior incompleto ou equivalente",33047.31950152,857192.10786498,3.8553
+2023,4,"Parda","Fundamental incompleto ou equivalente",31899411.1684604,90748827.7872759,35.1513
+2023,4,"Parda","Médio completo ou equivalente",24738725.2967008,90748827.7872759,27.2607
+2023,4,"Parda","Superior completo",8378899.32517705,90748827.7872759,9.2331
+2023,4,"Parda","Sem instrução e menos de 1 ano de estudo",8285226.2497995,90748827.7872759,9.1298
+2023,4,"Parda","Médio incompleto ou equivalente",7193897.53356163,90748827.7872759,7.9273
+2023,4,"Parda","Fundamental completo ou equivalente",6909816.91460025,90748827.7872759,7.6142
+2023,4,"Parda","Superior incompleto ou equivalente",3342851.29897631,90748827.7872759,3.6836
+2023,4,"Preta","Fundamental incompleto ou equivalente",6903429.92037489,21200289.692483,32.5629
+2023,4,"Preta","Médio completo ou equivalente",6358865.79685018,21200289.692483,29.9942
+2023,4,"Preta","Superior completo",2147001.27074874,21200289.692483,10.1272
+2023,4,"Preta","Médio incompleto ou equivalente",1678742.91327802,21200289.692483,7.9185
+2023,4,"Preta","Sem instrução e menos de 1 ano de estudo",1671567.55359101,21200289.692483,7.8846
+2023,4,"Preta","Fundamental completo ou equivalente",1607266.66577751,21200289.692483,7.5813
+2023,4,"Preta","Superior incompleto ou equivalente",833415.57186266,21200289.692483,3.9312
+2024,4,"Amarela","Superior completo",418744.8673154,1259644.94698066,33.2431
+2024,4,"Amarela","Médio completo ou equivalente",336031.55112726,1259644.94698066,26.6767
+2024,4,"Amarela","Fundamental incompleto ou equivalente",260553.74284831,1259644.94698066,20.6847
+2024,4,"Amarela","Fundamental completo ou equivalente",68804.91171653,1259644.94698066,5.4622
+2024,4,"Amarela","Sem instrução e menos de 1 ano de estudo",65445.57850539,1259644.94698066,5.1956
+2024,4,"Amarela","Médio incompleto ou equivalente",57402.80202743,1259644.94698066,4.5571
+2024,4,"Amarela","Superior incompleto ou equivalente",52661.49344034,1259644.94698066,4.1807
+2024,4,"Branca","Fundamental incompleto ou equivalente",22768885.0006288,84057008.3565241,27.0874
+2024,4,"Branca","Médio completo ou equivalente",22513531.898364,84057008.3565241,26.7836
+2024,4,"Branca","Superior completo",18510806.6109722,84057008.3565241,22.0217
+2024,4,"Branca","Fundamental completo ou equivalente",5596109.64565198,84057008.3565241,6.6575
+2024,4,"Branca","Sem instrução e menos de 1 ano de estudo",5303210.18658597,84057008.3565241,6.3091
+2024,4,"Branca","Médio incompleto ou equivalente",4782460.67754125,84057008.3565241,5.6895
+2024,4,"Branca","Superior incompleto ou equivalente",4582004.3367798,84057008.3565241,5.4511
+2024,4,"Ignorado","Médio completo ou equivalente",6737.91798781,18403.79585864,36.6116
+2024,4,"Ignorado","Fundamental incompleto ou equivalente",5802.035338,18403.79585864,31.5263
+2024,4,"Ignorado","Superior completo",4850.81014549,18403.79585864,26.3577
+2024,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",771.0978923,18403.79585864,4.1899
+2024,4,"Ignorado","Superior incompleto ou equivalente",241.93449504,18403.79585864,1.3146
+2024,4,"Indígena","Fundamental incompleto ou equivalente",320236.8206351,928166.377093,34.5021
+2024,4,"Indígena","Médio completo ou equivalente",242014.55596131,928166.377093,26.0745
+2024,4,"Indígena","Superior completo",92534.16604062,928166.377093,9.9696
+2024,4,"Indígena","Sem instrução e menos de 1 ano de estudo",92436.92102008,928166.377093,9.9591
+2024,4,"Indígena","Médio incompleto ou equivalente",78396.79101253,928166.377093,8.4464
+2024,4,"Indígena","Fundamental completo ou equivalente",66163.2030169,928166.377093,7.1284
+2024,4,"Indígena","Superior incompleto ou equivalente",36383.91940646,928166.377093,3.92
+2024,4,"Parda","Fundamental incompleto ou equivalente",31441852.4134257,91610694.628246,34.3212
+2024,4,"Parda","Médio completo ou equivalente",26064221.7417582,91610694.628246,28.4511
+2024,4,"Parda","Superior completo",9101207.74552036,91610694.628246,9.9347
+2024,4,"Parda","Sem instrução e menos de 1 ano de estudo",7656315.02353537,91610694.628246,8.3574
+2024,4,"Parda","Médio incompleto ou equivalente",7168144.02876897,91610694.628246,7.8246
+2024,4,"Parda","Fundamental completo ou equivalente",6835122.59434492,91610694.628246,7.4611
+2024,4,"Parda","Superior incompleto ou equivalente",3343831.08089246,91610694.628246,3.65
+2024,4,"Preta","Fundamental incompleto ou equivalente",6777118.7783118,21586367.8974586,31.3954
+2024,4,"Preta","Médio completo ou equivalente",6711802.47912027,21586367.8974586,31.0928
+2024,4,"Preta","Superior completo",2202930.80207493,21586367.8974586,10.2052
+2024,4,"Preta","Médio incompleto ou equivalente",1701902.51683789,21586367.8974586,7.8842
+2024,4,"Preta","Sem instrução e menos de 1 ano de estudo",1672184.67588477,21586367.8974586,7.7465
+2024,4,"Preta","Fundamental completo ou equivalente",1655065.75599073,21586367.8974586,7.6672
+2024,4,"Preta","Superior incompleto ou equivalente",865362.88923824,21586367.8974586,4.0088
+2025,4,"Amarela","Superior completo",425064.74668037,1233259.05020775,34.4668
+2025,4,"Amarela","Médio completo ou equivalente",330212.80435201,1233259.05020775,26.7756
+2025,4,"Amarela","Fundamental incompleto ou equivalente",230830.00732293,1233259.05020775,18.7171
+2025,4,"Amarela","Superior incompleto ou equivalente",72376.25876293,1233259.05020775,5.8687
+2025,4,"Amarela","Médio incompleto ou equivalente",61673.02850906,1233259.05020775,5.0008
+2025,4,"Amarela","Sem instrução e menos de 1 ano de estudo",57379.2544628,1233259.05020775,4.6527
+2025,4,"Amarela","Fundamental completo ou equivalente",55722.95011765,1233259.05020775,4.5183
+2025,4,"Branca","Fundamental incompleto ou equivalente",22624471.8287926,85087681.0203886,26.5896
+2025,4,"Branca","Médio completo ou equivalente",22567987.9252207,85087681.0203886,26.5232
+2025,4,"Branca","Superior completo",19815923.2332145,85087681.0203886,23.2888
+2025,4,"Branca","Fundamental completo ou equivalente",5377871.30325377,85087681.0203886,6.3204
+2025,4,"Branca","Sem instrução e menos de 1 ano de estudo",5028620.41894275,85087681.0203886,5.9099
+2025,4,"Branca","Superior incompleto ou equivalente",4952529.0056595,85087681.0203886,5.8205
+2025,4,"Branca","Médio incompleto ou equivalente",4720277.30530489,85087681.0203886,5.5475
+2025,4,"Ignorado","Superior completo",5625.10226835,18599.32763249,30.2436
+2025,4,"Ignorado","Médio completo ou equivalente",5043.87358454,18599.32763249,27.1186
+2025,4,"Ignorado","Fundamental incompleto ou equivalente",2710.41853844,18599.32763249,14.5727
+2025,4,"Ignorado","Superior incompleto ou equivalente",1880.9003572,18599.32763249,10.1127
+2025,4,"Ignorado","Fundamental completo ou equivalente",1763.53072472,18599.32763249,9.4817
+2025,4,"Ignorado","Médio incompleto ou equivalente",1274.60962584,18599.32763249,6.853
+2025,4,"Ignorado","Sem instrução e menos de 1 ano de estudo",300.8925334,18599.32763249,1.6178
+2025,4,"Indígena","Fundamental incompleto ou equivalente",264501.56759121,855254.45810179,30.9267
+2025,4,"Indígena","Médio completo ou equivalente",243070.31094358,855254.45810179,28.4208
+2025,4,"Indígena","Superior completo",103862.86595573,855254.45810179,12.1441
+2025,4,"Indígena","Sem instrução e menos de 1 ano de estudo",82813.03971071,855254.45810179,9.6829
+2025,4,"Indígena","Fundamental completo ou equivalente",55742.45122503,855254.45810179,6.5176
+2025,4,"Indígena","Médio incompleto ou equivalente",54511.97988921,855254.45810179,6.3738
+2025,4,"Indígena","Superior incompleto ou equivalente",50752.24278632,855254.45810179,5.9342
+2025,4,"Parda","Fundamental incompleto ou equivalente",31119659.6263504,91799597.8781224,33.8996
+2025,4,"Parda","Médio completo ou equivalente",26316366.0055753,91799597.8781224,28.6672
+2025,4,"Parda","Superior completo",9574914.77996606,91799597.8781224,10.4302
+2025,4,"Parda","Sem instrução e menos de 1 ano de estudo",7484716.85822895,91799597.8781224,8.1533
+2025,4,"Parda","Médio incompleto ou equivalente",7074514.22887155,91799597.8781224,7.7065
+2025,4,"Parda","Fundamental completo ou equivalente",6616718.62332141,91799597.8781224,7.2078
+2025,4,"Parda","Superior incompleto ou equivalente",3612707.75580879,91799597.8781224,3.9354
+2025,4,"Preta","Médio completo ou equivalente",6762496.45277016,21606746.2655494,31.2981
+2025,4,"Preta","Fundamental incompleto ou equivalente",6659299.68690821,21606746.2655494,30.8205
+2025,4,"Preta","Superior completo",2399638.34812851,21606746.2655494,11.106
+2025,4,"Preta","Sem instrução e menos de 1 ano de estudo",1649318.63033749,21606746.2655494,7.6334
+2025,4,"Preta","Médio incompleto ou equivalente",1618815.61876322,21606746.2655494,7.4922
+2025,4,"Preta","Fundamental completo ou equivalente",1598585.71513193,21606746.2655494,7.3985
+2025,4,"Preta","Superior incompleto ou equivalente",918591.81350984,21606746.2655494,4.2514

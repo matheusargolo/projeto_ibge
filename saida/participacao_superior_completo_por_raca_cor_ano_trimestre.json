@@ -1,0 +1,3692 @@
+{
+  "metadata": {
+    "gerado_em": "2026-05-03 15:49:45 -0300",
+    "fuso_horario": "America/Sao_Paulo",
+    "arquivos_entrada": ["pnadc_2012_t4_recorte.rds", "pnadc_2013_t4_recorte.rds", "pnadc_2014_t4_recorte.rds", "pnadc_2015_t4_recorte.rds", "pnadc_2016_t4_recorte.rds", "pnadc_2017_t4_recorte.rds", "pnadc_2018_t4_recorte.rds", "pnadc_2019_t4_recorte.rds", "pnadc_2020_t4_recorte.rds", "pnadc_2021_t4_recorte.rds", "pnadc_2022_t4_recorte.rds", "pnadc_2023_t4_recorte.rds", "pnadc_2024_t4_recorte.rds", "pnadc_2025_t4_recorte.rds"],
+    "quantidade_arquivos": 14,
+    "quantidade_cortes": 81,
+    "variavel_nivel_instrucao": "VD3004",
+    "valor_referencia_nivel_instrucao": "Superior completo",
+    "variavel_peso": "V1028",
+    "variavel_dimensao": "V2010",
+    "nome_campo_dimensao": "cor_ou_raca",
+    "descricao": "Participacao percentual, por periodo, de pessoas com superior completo distribuidas por cor ou raca (com pesos)."
+  },
+  "cortes": [
+    {
+      "ano": 2012,
+      "trimestre": 4,
+      "periodo": "2012-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 222072.79197651,
+      "percentual": 1.3817,
+      "resumo": {
+        "registros_superior_completo_total": 340,
+        "registros_superior_completo_validos": 340,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16072295.62844752
+      }
+    },
+    {
+      "ano": 2012,
+      "trimestre": 4,
+      "periodo": "2012-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 11557749.96045922,
+      "percentual": 71.911,
+      "resumo": {
+        "registros_superior_completo_total": 23764,
+        "registros_superior_completo_validos": 23764,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16072295.62844752
+      }
+    },
+    {
+      "ano": 2012,
+      "trimestre": 4,
+      "periodo": "2012-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 13916.57187148,
+      "percentual": 0.0866,
+      "resumo": {
+        "registros_superior_completo_total": 35,
+        "registros_superior_completo_validos": 35,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16072295.62844752
+      }
+    },
+    {
+      "ano": 2012,
+      "trimestre": 4,
+      "periodo": "2012-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 3671578.28491684,
+      "percentual": 22.8441,
+      "resumo": {
+        "registros_superior_completo_total": 10492,
+        "registros_superior_completo_validos": 10492,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16072295.62844752
+      }
+    },
+    {
+      "ano": 2012,
+      "trimestre": 4,
+      "periodo": "2012-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 606978.01922347,
+      "percentual": 3.7765,
+      "resumo": {
+        "registros_superior_completo_total": 1443,
+        "registros_superior_completo_validos": 1443,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16072295.62844752
+      }
+    },
+    {
+      "ano": 2013,
+      "trimestre": 4,
+      "periodo": "2013-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 254955.70510261,
+      "percentual": 1.5297,
+      "resumo": {
+        "registros_superior_completo_total": 365,
+        "registros_superior_completo_validos": 365,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16666839.42133327
+      }
+    },
+    {
+      "ano": 2013,
+      "trimestre": 4,
+      "periodo": "2013-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 11856609.97641136,
+      "percentual": 71.1389,
+      "resumo": {
+        "registros_superior_completo_total": 25076,
+        "registros_superior_completo_validos": 25076,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16666839.42133327
+      }
+    },
+    {
+      "ano": 2013,
+      "trimestre": 4,
+      "periodo": "2013-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 17875.48459199,
+      "percentual": 0.1073,
+      "resumo": {
+        "registros_superior_completo_total": 50,
+        "registros_superior_completo_validos": 50,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16666839.42133327
+      }
+    },
+    {
+      "ano": 2013,
+      "trimestre": 4,
+      "periodo": "2013-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 3879613.3986496,
+      "percentual": 23.2774,
+      "resumo": {
+        "registros_superior_completo_total": 11429,
+        "registros_superior_completo_validos": 11429,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16666839.42133327
+      }
+    },
+    {
+      "ano": 2013,
+      "trimestre": 4,
+      "periodo": "2013-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 657784.85657771,
+      "percentual": 3.9467,
+      "resumo": {
+        "registros_superior_completo_total": 1622,
+        "registros_superior_completo_validos": 1622,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 16666839.42133327
+      }
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 325671.47871097,
+      "percentual": 1.8212,
+      "resumo": {
+        "registros_superior_completo_total": 415,
+        "registros_superior_completo_validos": 415,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 17882024.68778444
+      }
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 12409997.38523895,
+      "percentual": 69.3993,
+      "resumo": {
+        "registros_superior_completo_total": 26718,
+        "registros_superior_completo_validos": 26718,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 17882024.68778444
+      }
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 21529.05957287,
+      "percentual": 0.1204,
+      "resumo": {
+        "registros_superior_completo_total": 52,
+        "registros_superior_completo_validos": 52,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 17882024.68778444
+      }
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 19581.6657191,
+      "percentual": 0.1095,
+      "resumo": {
+        "registros_superior_completo_total": 54,
+        "registros_superior_completo_validos": 54,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 17882024.68778444
+      }
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 4385532.9389067,
+      "percentual": 24.5248,
+      "resumo": {
+        "registros_superior_completo_total": 12944,
+        "registros_superior_completo_validos": 12944,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 17882024.68778444
+      }
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 719712.15963585,
+      "percentual": 4.0248,
+      "resumo": {
+        "registros_superior_completo_total": 1722,
+        "registros_superior_completo_validos": 1722,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 17882024.68778444
+      }
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 349832.48640285,
+      "percentual": 1.7861,
+      "resumo": {
+        "registros_superior_completo_total": 432,
+        "registros_superior_completo_validos": 432,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 19586287.96935431
+      }
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 13510065.13992024,
+      "percentual": 68.9772,
+      "resumo": {
+        "registros_superior_completo_total": 27997,
+        "registros_superior_completo_validos": 27997,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 19586287.96935431
+      }
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 1719.72579966,
+      "percentual": 0.0088,
+      "resumo": {
+        "registros_superior_completo_total": 4,
+        "registros_superior_completo_validos": 4,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 19586287.96935431
+      }
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 24211.46994649,
+      "percentual": 0.1236,
+      "resumo": {
+        "registros_superior_completo_total": 63,
+        "registros_superior_completo_validos": 63,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 19586287.96935431
+      }
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 4790356.53377166,
+      "percentual": 24.4577,
+      "resumo": {
+        "registros_superior_completo_total": 13566,
+        "registros_superior_completo_validos": 13566,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 19586287.96935431
+      }
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 910102.61351341,
+      "percentual": 4.6466,
+      "resumo": {
+        "registros_superior_completo_total": 2101,
+        "registros_superior_completo_validos": 2101,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 19586287.96935431
+      }
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 384553.86779856,
+      "percentual": 1.8706,
+      "resumo": {
+        "registros_superior_completo_total": 536,
+        "registros_superior_completo_validos": 536,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 20557896.78080759
+      }
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 13756960.22222984,
+      "percentual": 66.9181,
+      "resumo": {
+        "registros_superior_completo_total": 28774,
+        "registros_superior_completo_validos": 28774,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 20557896.78080759
+      }
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 1728.09002106,
+      "percentual": 0.0084,
+      "resumo": {
+        "registros_superior_completo_total": 5,
+        "registros_superior_completo_validos": 5,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 20557896.78080759
+      }
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 39231.51357183,
+      "percentual": 0.1908,
+      "resumo": {
+        "registros_superior_completo_total": 96,
+        "registros_superior_completo_validos": 96,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 20557896.78080759
+      }
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 5331417.21785672,
+      "percentual": 25.9337,
+      "resumo": {
+        "registros_superior_completo_total": 15083,
+        "registros_superior_completo_validos": 15083,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 20557896.78080759
+      }
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 1044005.86932958,
+      "percentual": 5.0784,
+      "resumo": {
+        "registros_superior_completo_total": 2464,
+        "registros_superior_completo_validos": 2464,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 20557896.78080759
+      }
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 349394.26549718,
+      "percentual": 1.6218,
+      "resumo": {
+        "registros_superior_completo_total": 518,
+        "registros_superior_completo_validos": 518,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 21542964.89951796
+      }
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 14094047.64278928,
+      "percentual": 65.423,
+      "resumo": {
+        "registros_superior_completo_total": 30172,
+        "registros_superior_completo_validos": 30172,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 21542964.89951796
+      }
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 8952.51483317,
+      "percentual": 0.0416,
+      "resumo": {
+        "registros_superior_completo_total": 18,
+        "registros_superior_completo_validos": 18,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 21542964.89951796
+      }
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 46022.86347865,
+      "percentual": 0.2136,
+      "resumo": {
+        "registros_superior_completo_total": 130,
+        "registros_superior_completo_validos": 130,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 21542964.89951796
+      }
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 5828771.7803245,
+      "percentual": 27.0565,
+      "resumo": {
+        "registros_superior_completo_total": 16328,
+        "registros_superior_completo_validos": 16328,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 21542964.89951796
+      }
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 1215775.83259518,
+      "percentual": 5.6435,
+      "resumo": {
+        "registros_superior_completo_total": 2958,
+        "registros_superior_completo_validos": 2958,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 21542964.89951796
+      }
+    },
+    {
+      "ano": 2018,
+      "trimestre": 4,
+      "periodo": "2018-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 361769.04118669,
+      "percentual": 1.5558,
+      "resumo": {
+        "registros_superior_completo_total": 527,
+        "registros_superior_completo_validos": 527,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 23253013.14110889
+      }
+    },
+    {
+      "ano": 2018,
+      "trimestre": 4,
+      "periodo": "2018-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 14788714.69602955,
+      "percentual": 63.5991,
+      "resumo": {
+        "registros_superior_completo_total": 31408,
+        "registros_superior_completo_validos": 31408,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 23253013.14110889
+      }
+    },
+    {
+      "ano": 2018,
+      "trimestre": 4,
+      "periodo": "2018-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 56499.10222639,
+      "percentual": 0.243,
+      "resumo": {
+        "registros_superior_completo_total": 168,
+        "registros_superior_completo_validos": 168,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 23253013.14110889
+      }
+    },
+    {
+      "ano": 2018,
+      "trimestre": 4,
+      "periodo": "2018-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 6579581.92564754,
+      "percentual": 28.2956,
+      "resumo": {
+        "registros_superior_completo_total": 17873,
+        "registros_superior_completo_validos": 17873,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 23253013.14110889
+      }
+    },
+    {
+      "ano": 2018,
+      "trimestre": 4,
+      "periodo": "2018-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 1466448.37601872,
+      "percentual": 6.3065,
+      "resumo": {
+        "registros_superior_completo_total": 3341,
+        "registros_superior_completo_validos": 3341,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 23253013.14110889
+      }
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 354946.41538296,
+      "percentual": 1.4624,
+      "resumo": {
+        "registros_superior_completo_total": 530,
+        "registros_superior_completo_validos": 530,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 24271883.07571032
+      }
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 15230431.2328115,
+      "percentual": 62.7493,
+      "resumo": {
+        "registros_superior_completo_total": 31736,
+        "registros_superior_completo_validos": 31736,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 24271883.07571032
+      }
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 8256.4359664,
+      "percentual": 0.034,
+      "resumo": {
+        "registros_superior_completo_total": 21,
+        "registros_superior_completo_validos": 21,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 24271883.07571032
+      }
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 52297.10315698,
+      "percentual": 0.2155,
+      "resumo": {
+        "registros_superior_completo_total": 145,
+        "registros_superior_completo_validos": 145,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 24271883.07571032
+      }
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 7129018.31982442,
+      "percentual": 29.3715,
+      "resumo": {
+        "registros_superior_completo_total": 18624,
+        "registros_superior_completo_validos": 18624,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 24271883.07571032
+      }
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 1496933.56856806,
+      "percentual": 6.1674,
+      "resumo": {
+        "registros_superior_completo_total": 3464,
+        "registros_superior_completo_validos": 3464,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 24271883.07571032
+      }
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 424824.88267473,
+      "percentual": 1.5502,
+      "resumo": {
+        "registros_superior_completo_total": 357,
+        "registros_superior_completo_validos": 357,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27405016.63892595
+      }
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 17538391.75342135,
+      "percentual": 63.997,
+      "resumo": {
+        "registros_superior_completo_total": 22479,
+        "registros_superior_completo_validos": 22479,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27405016.63892595
+      }
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 16355.41103565,
+      "percentual": 0.0597,
+      "resumo": {
+        "registros_superior_completo_total": 8,
+        "registros_superior_completo_validos": 8,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27405016.63892595
+      }
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 57173.17866754,
+      "percentual": 0.2086,
+      "resumo": {
+        "registros_superior_completo_total": 98,
+        "registros_superior_completo_validos": 98,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27405016.63892595
+      }
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 7643079.47654136,
+      "percentual": 27.8893,
+      "resumo": {
+        "registros_superior_completo_total": 13170,
+        "registros_superior_completo_validos": 13170,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27405016.63892595
+      }
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 1725191.93658532,
+      "percentual": 6.2952,
+      "resumo": {
+        "registros_superior_completo_total": 2367,
+        "registros_superior_completo_validos": 2367,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27405016.63892595
+      }
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 382894.10218674,
+      "percentual": 1.4526,
+      "resumo": {
+        "registros_superior_completo_total": 465,
+        "registros_superior_completo_validos": 465,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 26358466.34159361
+      }
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 16552235.31439429,
+      "percentual": 62.7967,
+      "resumo": {
+        "registros_superior_completo_total": 28427,
+        "registros_superior_completo_validos": 28427,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 26358466.34159361
+      }
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 16532.05985776,
+      "percentual": 0.0627,
+      "resumo": {
+        "registros_superior_completo_total": 22,
+        "registros_superior_completo_validos": 22,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 26358466.34159361
+      }
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 55752.70604112,
+      "percentual": 0.2115,
+      "resumo": {
+        "registros_superior_completo_total": 123,
+        "registros_superior_completo_validos": 123,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 26358466.34159361
+      }
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 7530525.40422456,
+      "percentual": 28.5697,
+      "resumo": {
+        "registros_superior_completo_total": 16334,
+        "registros_superior_completo_validos": 16334,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 26358466.34159361
+      }
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 1820526.75488914,
+      "percentual": 6.9068,
+      "resumo": {
+        "registros_superior_completo_total": 3294,
+        "registros_superior_completo_validos": 3294,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 26358466.34159361
+      }
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 414484.2237527,
+      "percentual": 1.4962,
+      "resumo": {
+        "registros_superior_completo_total": 586,
+        "registros_superior_completo_validos": 586,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27702248.49306642
+      }
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 17134234.8440456,
+      "percentual": 61.8514,
+      "resumo": {
+        "registros_superior_completo_total": 31225,
+        "registros_superior_completo_validos": 31225,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27702248.49306642
+      }
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 18011.0277022,
+      "percentual": 0.065,
+      "resumo": {
+        "registros_superior_completo_total": 25,
+        "registros_superior_completo_validos": 25,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27702248.49306642
+      }
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 70385.33160099,
+      "percentual": 0.2541,
+      "resumo": {
+        "registros_superior_completo_total": 169,
+        "registros_superior_completo_validos": 169,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27702248.49306642
+      }
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 7943436.41852014,
+      "percentual": 28.6743,
+      "resumo": {
+        "registros_superior_completo_total": 17947,
+        "registros_superior_completo_validos": 17947,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27702248.49306642
+      }
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 2121696.64744479,
+      "percentual": 7.6589,
+      "resumo": {
+        "registros_superior_completo_total": 3963,
+        "registros_superior_completo_validos": 3963,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 27702248.49306642
+      }
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 410586.02823115,
+      "percentual": 1.4216,
+      "resumo": {
+        "registros_superior_completo_total": 566,
+        "registros_superior_completo_validos": 566,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 28881794.59318198
+      }
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 17867839.7768736,
+      "percentual": 61.8654,
+      "resumo": {
+        "registros_superior_completo_total": 32184,
+        "registros_superior_completo_validos": 32184,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 28881794.59318198
+      }
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 10506.38663707,
+      "percentual": 0.0364,
+      "resumo": {
+        "registros_superior_completo_total": 18,
+        "registros_superior_completo_validos": 18,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 28881794.59318198
+      }
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 66961.80551437,
+      "percentual": 0.2318,
+      "resumo": {
+        "registros_superior_completo_total": 190,
+        "registros_superior_completo_validos": 190,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 28881794.59318198
+      }
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 8378899.32517705,
+      "percentual": 29.011,
+      "resumo": {
+        "registros_superior_completo_total": 18466,
+        "registros_superior_completo_validos": 18466,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 28881794.59318198
+      }
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 2147001.27074874,
+      "percentual": 7.4338,
+      "resumo": {
+        "registros_superior_completo_total": 4038,
+        "registros_superior_completo_validos": 4038,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 28881794.59318198
+      }
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 418744.8673154,
+      "percentual": 1.3806,
+      "resumo": {
+        "registros_superior_completo_total": 561,
+        "registros_superior_completo_validos": 561,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 30331075.00206902
+      }
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 18510806.61097222,
+      "percentual": 61.0292,
+      "resumo": {
+        "registros_superior_completo_total": 33278,
+        "registros_superior_completo_validos": 33278,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 30331075.00206902
+      }
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 4850.81014549,
+      "percentual": 0.016,
+      "resumo": {
+        "registros_superior_completo_total": 15,
+        "registros_superior_completo_validos": 15,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 30331075.00206902
+      }
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 92534.16604062,
+      "percentual": 0.3051,
+      "resumo": {
+        "registros_superior_completo_total": 203,
+        "registros_superior_completo_validos": 203,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 30331075.00206902
+      }
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 9101207.74552036,
+      "percentual": 30.0062,
+      "resumo": {
+        "registros_superior_completo_total": 19620,
+        "registros_superior_completo_validos": 19620,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 30331075.00206902
+      }
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 2202930.80207493,
+      "percentual": 7.2629,
+      "resumo": {
+        "registros_superior_completo_total": 4163,
+        "registros_superior_completo_validos": 4163,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 30331075.00206902
+      }
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "dimensao": "Amarela",
+      "peso_ponderado_superior_completo": 425064.74668037,
+      "percentual": 1.315,
+      "resumo": {
+        "registros_superior_completo_total": 630,
+        "registros_superior_completo_validos": 630,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 32325029.07621348
+      }
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "dimensao": "Branca",
+      "peso_ponderado_superior_completo": 19815923.23321446,
+      "percentual": 61.3021,
+      "resumo": {
+        "registros_superior_completo_total": 38351,
+        "registros_superior_completo_validos": 38351,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 32325029.07621348
+      }
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "dimensao": "Ignorado",
+      "peso_ponderado_superior_completo": 5625.10226835,
+      "percentual": 0.0174,
+      "resumo": {
+        "registros_superior_completo_total": 12,
+        "registros_superior_completo_validos": 12,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 32325029.07621348
+      }
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "dimensao": "Indígena",
+      "peso_ponderado_superior_completo": 103862.86595573,
+      "percentual": 0.3213,
+      "resumo": {
+        "registros_superior_completo_total": 234,
+        "registros_superior_completo_validos": 234,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 32325029.07621348
+      }
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "dimensao": "Parda",
+      "peso_ponderado_superior_completo": 9574914.77996606,
+      "percentual": 29.6207,
+      "resumo": {
+        "registros_superior_completo_total": 22214,
+        "registros_superior_completo_validos": 22214,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 32325029.07621348
+      }
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "dimensao": "Preta",
+      "peso_ponderado_superior_completo": 2399638.34812851,
+      "percentual": 7.4235,
+      "resumo": {
+        "registros_superior_completo_total": 4645,
+        "registros_superior_completo_validos": 4645,
+        "registros_superior_completo_excluidos": 0,
+        "perc_superior_completo_excluidos": 0,
+        "total_ponderado_superior_completo_periodo": 32325029.07621348
+      }
+    }
+  ],
+  "series_por_dimensao": [
+    {
+      "dimensao": "Amarela",
+      "pontos": [
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "percentual": 1.3817,
+          "peso_ponderado_superior_completo": 222072.79197651,
+          "total_ponderado_superior_completo_periodo": 16072295.62844752
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "percentual": 1.5297,
+          "peso_ponderado_superior_completo": 254955.70510261,
+          "total_ponderado_superior_completo_periodo": 16666839.42133327
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "percentual": 1.8212,
+          "peso_ponderado_superior_completo": 325671.47871097,
+          "total_ponderado_superior_completo_periodo": 17882024.68778444
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "percentual": 1.7861,
+          "peso_ponderado_superior_completo": 349832.48640285,
+          "total_ponderado_superior_completo_periodo": 19586287.96935431
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "percentual": 1.8706,
+          "peso_ponderado_superior_completo": 384553.86779856,
+          "total_ponderado_superior_completo_periodo": 20557896.78080759
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "percentual": 1.6218,
+          "peso_ponderado_superior_completo": 349394.26549718,
+          "total_ponderado_superior_completo_periodo": 21542964.89951796
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "percentual": 1.5558,
+          "peso_ponderado_superior_completo": 361769.04118669,
+          "total_ponderado_superior_completo_periodo": 23253013.14110889
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "percentual": 1.4624,
+          "peso_ponderado_superior_completo": 354946.41538296,
+          "total_ponderado_superior_completo_periodo": 24271883.07571032
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "percentual": 1.5502,
+          "peso_ponderado_superior_completo": 424824.88267473,
+          "total_ponderado_superior_completo_periodo": 27405016.63892595
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "percentual": 1.4526,
+          "peso_ponderado_superior_completo": 382894.10218674,
+          "total_ponderado_superior_completo_periodo": 26358466.34159361
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "percentual": 1.4962,
+          "peso_ponderado_superior_completo": 414484.2237527,
+          "total_ponderado_superior_completo_periodo": 27702248.49306642
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "percentual": 1.4216,
+          "peso_ponderado_superior_completo": 410586.02823115,
+          "total_ponderado_superior_completo_periodo": 28881794.59318198
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "percentual": 1.3806,
+          "peso_ponderado_superior_completo": 418744.8673154,
+          "total_ponderado_superior_completo_periodo": 30331075.00206902
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "percentual": 1.315,
+          "peso_ponderado_superior_completo": 425064.74668037,
+          "total_ponderado_superior_completo_periodo": 32325029.07621348
+        }
+      ]
+    },
+    {
+      "dimensao": "Branca",
+      "pontos": [
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "percentual": 71.911,
+          "peso_ponderado_superior_completo": 11557749.96045922,
+          "total_ponderado_superior_completo_periodo": 16072295.62844752
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "percentual": 71.1389,
+          "peso_ponderado_superior_completo": 11856609.97641136,
+          "total_ponderado_superior_completo_periodo": 16666839.42133327
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "percentual": 69.3993,
+          "peso_ponderado_superior_completo": 12409997.38523895,
+          "total_ponderado_superior_completo_periodo": 17882024.68778444
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "percentual": 68.9772,
+          "peso_ponderado_superior_completo": 13510065.13992024,
+          "total_ponderado_superior_completo_periodo": 19586287.96935431
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "percentual": 66.9181,
+          "peso_ponderado_superior_completo": 13756960.22222984,
+          "total_ponderado_superior_completo_periodo": 20557896.78080759
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "percentual": 65.423,
+          "peso_ponderado_superior_completo": 14094047.64278928,
+          "total_ponderado_superior_completo_periodo": 21542964.89951796
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "percentual": 63.5991,
+          "peso_ponderado_superior_completo": 14788714.69602955,
+          "total_ponderado_superior_completo_periodo": 23253013.14110889
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "percentual": 62.7493,
+          "peso_ponderado_superior_completo": 15230431.2328115,
+          "total_ponderado_superior_completo_periodo": 24271883.07571032
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "percentual": 63.997,
+          "peso_ponderado_superior_completo": 17538391.75342135,
+          "total_ponderado_superior_completo_periodo": 27405016.63892595
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "percentual": 62.7967,
+          "peso_ponderado_superior_completo": 16552235.31439429,
+          "total_ponderado_superior_completo_periodo": 26358466.34159361
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "percentual": 61.8514,
+          "peso_ponderado_superior_completo": 17134234.8440456,
+          "total_ponderado_superior_completo_periodo": 27702248.49306642
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "percentual": 61.8654,
+          "peso_ponderado_superior_completo": 17867839.7768736,
+          "total_ponderado_superior_completo_periodo": 28881794.59318198
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "percentual": 61.0292,
+          "peso_ponderado_superior_completo": 18510806.61097222,
+          "total_ponderado_superior_completo_periodo": 30331075.00206902
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "percentual": 61.3021,
+          "peso_ponderado_superior_completo": 19815923.23321446,
+          "total_ponderado_superior_completo_periodo": 32325029.07621348
+        }
+      ]
+    },
+    {
+      "dimensao": "Ignorado",
+      "pontos": [
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "percentual": 0.1204,
+          "peso_ponderado_superior_completo": 21529.05957287,
+          "total_ponderado_superior_completo_periodo": 17882024.68778444
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "percentual": 0.0088,
+          "peso_ponderado_superior_completo": 1719.72579966,
+          "total_ponderado_superior_completo_periodo": 19586287.96935431
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "percentual": 0.0084,
+          "peso_ponderado_superior_completo": 1728.09002106,
+          "total_ponderado_superior_completo_periodo": 20557896.78080759
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "percentual": 0.0416,
+          "peso_ponderado_superior_completo": 8952.51483317,
+          "total_ponderado_superior_completo_periodo": 21542964.89951796
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "percentual": 0.034,
+          "peso_ponderado_superior_completo": 8256.4359664,
+          "total_ponderado_superior_completo_periodo": 24271883.07571032
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "percentual": 0.0597,
+          "peso_ponderado_superior_completo": 16355.41103565,
+          "total_ponderado_superior_completo_periodo": 27405016.63892595
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "percentual": 0.0627,
+          "peso_ponderado_superior_completo": 16532.05985776,
+          "total_ponderado_superior_completo_periodo": 26358466.34159361
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "percentual": 0.065,
+          "peso_ponderado_superior_completo": 18011.0277022,
+          "total_ponderado_superior_completo_periodo": 27702248.49306642
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "percentual": 0.0364,
+          "peso_ponderado_superior_completo": 10506.38663707,
+          "total_ponderado_superior_completo_periodo": 28881794.59318198
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "percentual": 0.016,
+          "peso_ponderado_superior_completo": 4850.81014549,
+          "total_ponderado_superior_completo_periodo": 30331075.00206902
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "percentual": 0.0174,
+          "peso_ponderado_superior_completo": 5625.10226835,
+          "total_ponderado_superior_completo_periodo": 32325029.07621348
+        }
+      ]
+    },
+    {
+      "dimensao": "Indígena",
+      "pontos": [
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "percentual": 0.0866,
+          "peso_ponderado_superior_completo": 13916.57187148,
+          "total_ponderado_superior_completo_periodo": 16072295.62844752
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "percentual": 0.1073,
+          "peso_ponderado_superior_completo": 17875.48459199,
+          "total_ponderado_superior_completo_periodo": 16666839.42133327
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "percentual": 0.1095,
+          "peso_ponderado_superior_completo": 19581.6657191,
+          "total_ponderado_superior_completo_periodo": 17882024.68778444
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "percentual": 0.1236,
+          "peso_ponderado_superior_completo": 24211.46994649,
+          "total_ponderado_superior_completo_periodo": 19586287.96935431
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "percentual": 0.1908,
+          "peso_ponderado_superior_completo": 39231.51357183,
+          "total_ponderado_superior_completo_periodo": 20557896.78080759
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "percentual": 0.2136,
+          "peso_ponderado_superior_completo": 46022.86347865,
+          "total_ponderado_superior_completo_periodo": 21542964.89951796
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "percentual": 0.243,
+          "peso_ponderado_superior_completo": 56499.10222639,
+          "total_ponderado_superior_completo_periodo": 23253013.14110889
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "percentual": 0.2155,
+          "peso_ponderado_superior_completo": 52297.10315698,
+          "total_ponderado_superior_completo_periodo": 24271883.07571032
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "percentual": 0.2086,
+          "peso_ponderado_superior_completo": 57173.17866754,
+          "total_ponderado_superior_completo_periodo": 27405016.63892595
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "percentual": 0.2115,
+          "peso_ponderado_superior_completo": 55752.70604112,
+          "total_ponderado_superior_completo_periodo": 26358466.34159361
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "percentual": 0.2541,
+          "peso_ponderado_superior_completo": 70385.33160099,
+          "total_ponderado_superior_completo_periodo": 27702248.49306642
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "percentual": 0.2318,
+          "peso_ponderado_superior_completo": 66961.80551437,
+          "total_ponderado_superior_completo_periodo": 28881794.59318198
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "percentual": 0.3051,
+          "peso_ponderado_superior_completo": 92534.16604062,
+          "total_ponderado_superior_completo_periodo": 30331075.00206902
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "percentual": 0.3213,
+          "peso_ponderado_superior_completo": 103862.86595573,
+          "total_ponderado_superior_completo_periodo": 32325029.07621348
+        }
+      ]
+    },
+    {
+      "dimensao": "Parda",
+      "pontos": [
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "percentual": 22.8441,
+          "peso_ponderado_superior_completo": 3671578.28491684,
+          "total_ponderado_superior_completo_periodo": 16072295.62844752
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "percentual": 23.2774,
+          "peso_ponderado_superior_completo": 3879613.3986496,
+          "total_ponderado_superior_completo_periodo": 16666839.42133327
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "percentual": 24.5248,
+          "peso_ponderado_superior_completo": 4385532.9389067,
+          "total_ponderado_superior_completo_periodo": 17882024.68778444
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "percentual": 24.4577,
+          "peso_ponderado_superior_completo": 4790356.53377166,
+          "total_ponderado_superior_completo_periodo": 19586287.96935431
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "percentual": 25.9337,
+          "peso_ponderado_superior_completo": 5331417.21785672,
+          "total_ponderado_superior_completo_periodo": 20557896.78080759
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "percentual": 27.0565,
+          "peso_ponderado_superior_completo": 5828771.7803245,
+          "total_ponderado_superior_completo_periodo": 21542964.89951796
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "percentual": 28.2956,
+          "peso_ponderado_superior_completo": 6579581.92564754,
+          "total_ponderado_superior_completo_periodo": 23253013.14110889
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "percentual": 29.3715,
+          "peso_ponderado_superior_completo": 7129018.31982442,
+          "total_ponderado_superior_completo_periodo": 24271883.07571032
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "percentual": 27.8893,
+          "peso_ponderado_superior_completo": 7643079.47654136,
+          "total_ponderado_superior_completo_periodo": 27405016.63892595
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "percentual": 28.5697,
+          "peso_ponderado_superior_completo": 7530525.40422456,
+          "total_ponderado_superior_completo_periodo": 26358466.34159361
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "percentual": 28.6743,
+          "peso_ponderado_superior_completo": 7943436.41852014,
+          "total_ponderado_superior_completo_periodo": 27702248.49306642
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "percentual": 29.011,
+          "peso_ponderado_superior_completo": 8378899.32517705,
+          "total_ponderado_superior_completo_periodo": 28881794.59318198
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "percentual": 30.0062,
+          "peso_ponderado_superior_completo": 9101207.74552036,
+          "total_ponderado_superior_completo_periodo": 30331075.00206902
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "percentual": 29.6207,
+          "peso_ponderado_superior_completo": 9574914.77996606,
+          "total_ponderado_superior_completo_periodo": 32325029.07621348
+        }
+      ]
+    },
+    {
+      "dimensao": "Preta",
+      "pontos": [
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "percentual": 3.7765,
+          "peso_ponderado_superior_completo": 606978.01922347,
+          "total_ponderado_superior_completo_periodo": 16072295.62844752
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "percentual": 3.9467,
+          "peso_ponderado_superior_completo": 657784.85657771,
+          "total_ponderado_superior_completo_periodo": 16666839.42133327
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "percentual": 4.0248,
+          "peso_ponderado_superior_completo": 719712.15963585,
+          "total_ponderado_superior_completo_periodo": 17882024.68778444
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "percentual": 4.6466,
+          "peso_ponderado_superior_completo": 910102.61351341,
+          "total_ponderado_superior_completo_periodo": 19586287.96935431
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "percentual": 5.0784,
+          "peso_ponderado_superior_completo": 1044005.86932958,
+          "total_ponderado_superior_completo_periodo": 20557896.78080759
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "percentual": 5.6435,
+          "peso_ponderado_superior_completo": 1215775.83259518,
+          "total_ponderado_superior_completo_periodo": 21542964.89951796
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "percentual": 6.3065,
+          "peso_ponderado_superior_completo": 1466448.37601872,
+          "total_ponderado_superior_completo_periodo": 23253013.14110889
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "percentual": 6.1674,
+          "peso_ponderado_superior_completo": 1496933.56856806,
+          "total_ponderado_superior_completo_periodo": 24271883.07571032
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "percentual": 6.2952,
+          "peso_ponderado_superior_completo": 1725191.93658532,
+          "total_ponderado_superior_completo_periodo": 27405016.63892595
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "percentual": 6.9068,
+          "peso_ponderado_superior_completo": 1820526.75488914,
+          "total_ponderado_superior_completo_periodo": 26358466.34159361
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "percentual": 7.6589,
+          "peso_ponderado_superior_completo": 2121696.64744479,
+          "total_ponderado_superior_completo_periodo": 27702248.49306642
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "percentual": 7.4338,
+          "peso_ponderado_superior_completo": 2147001.27074874,
+          "total_ponderado_superior_completo_periodo": 28881794.59318198
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "percentual": 7.2629,
+          "peso_ponderado_superior_completo": 2202930.80207493,
+          "total_ponderado_superior_completo_periodo": 30331075.00206902
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "percentual": 7.4235,
+          "peso_ponderado_superior_completo": 2399638.34812851,
+          "total_ponderado_superior_completo_periodo": 32325029.07621348
+        }
+      ]
+    }
+  ],
+  "tabela_participacao": [
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 11557749.96045922,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752,
+      "percentual": 71.911
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 3671578.28491684,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752,
+      "percentual": 22.8441
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 606978.01922347,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752,
+      "percentual": 3.7765
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 222072.79197651,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752,
+      "percentual": 1.3817
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 13916.57187148,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752,
+      "percentual": 0.0866
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 11856609.97641136,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327,
+      "percentual": 71.1389
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 3879613.3986496,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327,
+      "percentual": 23.2774
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 657784.85657771,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327,
+      "percentual": 3.9467
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 254955.70510261,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327,
+      "percentual": 1.5297
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 17875.48459199,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327,
+      "percentual": 0.1073
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 12409997.38523895,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444,
+      "percentual": 69.3993
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 4385532.9389067,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444,
+      "percentual": 24.5248
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 719712.15963585,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444,
+      "percentual": 4.0248
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 325671.47871097,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444,
+      "percentual": 1.8212
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 21529.05957287,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444,
+      "percentual": 0.1204
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 19581.6657191,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444,
+      "percentual": 0.1095
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 13510065.13992024,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431,
+      "percentual": 68.9772
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 4790356.53377166,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431,
+      "percentual": 24.4577
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 910102.61351341,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431,
+      "percentual": 4.6466
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 349832.48640285,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431,
+      "percentual": 1.7861
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 24211.46994649,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431,
+      "percentual": 0.1236
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 1719.72579966,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431,
+      "percentual": 0.0088
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 13756960.22222984,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759,
+      "percentual": 66.9181
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 5331417.21785672,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759,
+      "percentual": 25.9337
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 1044005.86932958,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759,
+      "percentual": 5.0784
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 384553.86779856,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759,
+      "percentual": 1.8706
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 39231.51357183,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759,
+      "percentual": 0.1908
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 1728.09002106,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759,
+      "percentual": 0.0084
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 14094047.64278928,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796,
+      "percentual": 65.423
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 5828771.7803245,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796,
+      "percentual": 27.0565
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 1215775.83259518,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796,
+      "percentual": 5.6435
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 349394.26549718,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796,
+      "percentual": 1.6218
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 46022.86347865,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796,
+      "percentual": 0.2136
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 8952.51483317,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796,
+      "percentual": 0.0416
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 14788714.69602955,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889,
+      "percentual": 63.5991
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 6579581.92564754,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889,
+      "percentual": 28.2956
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 1466448.37601872,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889,
+      "percentual": 6.3065
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 361769.04118669,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889,
+      "percentual": 1.5558
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 56499.10222639,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889,
+      "percentual": 0.243
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 15230431.2328115,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032,
+      "percentual": 62.7493
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 7129018.31982442,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032,
+      "percentual": 29.3715
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 1496933.56856806,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032,
+      "percentual": 6.1674
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 354946.41538296,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032,
+      "percentual": 1.4624
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 52297.10315698,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032,
+      "percentual": 0.2155
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 8256.4359664,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032,
+      "percentual": 0.034
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 17538391.75342135,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595,
+      "percentual": 63.997
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 7643079.47654136,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595,
+      "percentual": 27.8893
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 1725191.93658532,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595,
+      "percentual": 6.2952
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 424824.88267473,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595,
+      "percentual": 1.5502
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 57173.17866754,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595,
+      "percentual": 0.2086
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 16355.41103565,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595,
+      "percentual": 0.0597
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 16552235.31439429,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361,
+      "percentual": 62.7967
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 7530525.40422456,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361,
+      "percentual": 28.5697
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 1820526.75488914,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361,
+      "percentual": 6.9068
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 382894.10218674,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361,
+      "percentual": 1.4526
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 55752.70604112,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361,
+      "percentual": 0.2115
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 16532.05985776,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361,
+      "percentual": 0.0627
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 17134234.8440456,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642,
+      "percentual": 61.8514
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 7943436.41852014,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642,
+      "percentual": 28.6743
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 2121696.64744479,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642,
+      "percentual": 7.6589
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 414484.2237527,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642,
+      "percentual": 1.4962
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 70385.33160099,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642,
+      "percentual": 0.2541
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 18011.0277022,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642,
+      "percentual": 0.065
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 17867839.7768736,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198,
+      "percentual": 61.8654
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 8378899.32517705,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198,
+      "percentual": 29.011
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 2147001.27074874,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198,
+      "percentual": 7.4338
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 410586.02823115,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198,
+      "percentual": 1.4216
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 66961.80551437,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198,
+      "percentual": 0.2318
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 10506.38663707,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198,
+      "percentual": 0.0364
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 18510806.61097222,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902,
+      "percentual": 61.0292
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 9101207.74552036,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902,
+      "percentual": 30.0062
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 2202930.80207493,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902,
+      "percentual": 7.2629
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 418744.8673154,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902,
+      "percentual": 1.3806
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 92534.16604062,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902,
+      "percentual": 0.3051
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 4850.81014549,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902,
+      "percentual": 0.016
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Branca",
+      "peso_ponderado_superior_completo": 19815923.23321446,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348,
+      "percentual": 61.3021
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Parda",
+      "peso_ponderado_superior_completo": 9574914.77996606,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348,
+      "percentual": 29.6207
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Preta",
+      "peso_ponderado_superior_completo": 2399638.34812851,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348,
+      "percentual": 7.4235
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Amarela",
+      "peso_ponderado_superior_completo": 425064.74668037,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348,
+      "percentual": 1.315
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Indígena",
+      "peso_ponderado_superior_completo": 103862.86595573,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348,
+      "percentual": 0.3213
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Ignorado",
+      "peso_ponderado_superior_completo": 5625.10226835,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348,
+      "percentual": 0.0174
+    }
+  ],
+  "tabela_resumo_dimensao": [
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 340,
+      "registros_superior_completo_validos": 340,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 23764,
+      "registros_superior_completo_validos": 23764,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 35,
+      "registros_superior_completo_validos": 35,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 10492,
+      "registros_superior_completo_validos": 10492,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 1443,
+      "registros_superior_completo_validos": 1443,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16072295.62844752
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 365,
+      "registros_superior_completo_validos": 365,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 25076,
+      "registros_superior_completo_validos": 25076,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 50,
+      "registros_superior_completo_validos": 50,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 11429,
+      "registros_superior_completo_validos": 11429,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 1622,
+      "registros_superior_completo_validos": 1622,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 16666839.42133327
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 415,
+      "registros_superior_completo_validos": 415,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 26718,
+      "registros_superior_completo_validos": 26718,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 52,
+      "registros_superior_completo_validos": 52,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 54,
+      "registros_superior_completo_validos": 54,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 12944,
+      "registros_superior_completo_validos": 12944,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 1722,
+      "registros_superior_completo_validos": 1722,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 17882024.68778444
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 432,
+      "registros_superior_completo_validos": 432,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 27997,
+      "registros_superior_completo_validos": 27997,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 4,
+      "registros_superior_completo_validos": 4,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 63,
+      "registros_superior_completo_validos": 63,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 13566,
+      "registros_superior_completo_validos": 13566,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 2101,
+      "registros_superior_completo_validos": 2101,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 19586287.96935431
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 536,
+      "registros_superior_completo_validos": 536,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 28774,
+      "registros_superior_completo_validos": 28774,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 5,
+      "registros_superior_completo_validos": 5,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 96,
+      "registros_superior_completo_validos": 96,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 15083,
+      "registros_superior_completo_validos": 15083,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 2464,
+      "registros_superior_completo_validos": 2464,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 20557896.78080759
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 518,
+      "registros_superior_completo_validos": 518,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 30172,
+      "registros_superior_completo_validos": 30172,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 18,
+      "registros_superior_completo_validos": 18,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 130,
+      "registros_superior_completo_validos": 130,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 16328,
+      "registros_superior_completo_validos": 16328,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 2958,
+      "registros_superior_completo_validos": 2958,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 21542964.89951796
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 527,
+      "registros_superior_completo_validos": 527,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 31408,
+      "registros_superior_completo_validos": 31408,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 168,
+      "registros_superior_completo_validos": 168,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 17873,
+      "registros_superior_completo_validos": 17873,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 3341,
+      "registros_superior_completo_validos": 3341,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 23253013.14110889
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 530,
+      "registros_superior_completo_validos": 530,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 31736,
+      "registros_superior_completo_validos": 31736,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 21,
+      "registros_superior_completo_validos": 21,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 145,
+      "registros_superior_completo_validos": 145,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 18624,
+      "registros_superior_completo_validos": 18624,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 3464,
+      "registros_superior_completo_validos": 3464,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 24271883.07571032
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 357,
+      "registros_superior_completo_validos": 357,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 22479,
+      "registros_superior_completo_validos": 22479,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 8,
+      "registros_superior_completo_validos": 8,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 98,
+      "registros_superior_completo_validos": 98,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 13170,
+      "registros_superior_completo_validos": 13170,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 2367,
+      "registros_superior_completo_validos": 2367,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27405016.63892595
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 465,
+      "registros_superior_completo_validos": 465,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 28427,
+      "registros_superior_completo_validos": 28427,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 22,
+      "registros_superior_completo_validos": 22,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 123,
+      "registros_superior_completo_validos": 123,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 16334,
+      "registros_superior_completo_validos": 16334,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 3294,
+      "registros_superior_completo_validos": 3294,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 26358466.34159361
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 586,
+      "registros_superior_completo_validos": 586,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 31225,
+      "registros_superior_completo_validos": 31225,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 25,
+      "registros_superior_completo_validos": 25,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 169,
+      "registros_superior_completo_validos": 169,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 17947,
+      "registros_superior_completo_validos": 17947,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 3963,
+      "registros_superior_completo_validos": 3963,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 27702248.49306642
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 566,
+      "registros_superior_completo_validos": 566,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 32184,
+      "registros_superior_completo_validos": 32184,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 18,
+      "registros_superior_completo_validos": 18,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 190,
+      "registros_superior_completo_validos": 190,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 18466,
+      "registros_superior_completo_validos": 18466,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 4038,
+      "registros_superior_completo_validos": 4038,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 28881794.59318198
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 561,
+      "registros_superior_completo_validos": 561,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 33278,
+      "registros_superior_completo_validos": 33278,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 15,
+      "registros_superior_completo_validos": 15,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 203,
+      "registros_superior_completo_validos": 203,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 19620,
+      "registros_superior_completo_validos": 19620,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 4163,
+      "registros_superior_completo_validos": 4163,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 30331075.00206902
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Amarela",
+      "registros_superior_completo_total": 630,
+      "registros_superior_completo_validos": 630,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Branca",
+      "registros_superior_completo_total": 38351,
+      "registros_superior_completo_validos": 38351,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Ignorado",
+      "registros_superior_completo_total": 12,
+      "registros_superior_completo_validos": 12,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Indígena",
+      "registros_superior_completo_total": 234,
+      "registros_superior_completo_validos": 234,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Parda",
+      "registros_superior_completo_total": 22214,
+      "registros_superior_completo_validos": 22214,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "cor_ou_raca": "Preta",
+      "registros_superior_completo_total": 4645,
+      "registros_superior_completo_validos": 4645,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "total_ponderado_superior_completo_periodo": 32325029.07621348
+    }
+  ],
+  "tabela_resumo_arquivo": [
+    {
+      "arquivo": "pnadc_2012_t4_recorte.rds",
+      "ano_trimestre_nome": "2012T4",
+      "registros_total": 555935,
+      "registros_superior_completo": 36074,
+      "registros_superior_completo_validos": 36074,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2013_t4_recorte.rds",
+      "ano_trimestre_nome": "2013T4",
+      "registros_total": 569242,
+      "registros_superior_completo": 38542,
+      "registros_superior_completo_validos": 38542,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2014_t4_recorte.rds",
+      "ano_trimestre_nome": "2014T4",
+      "registros_total": 574987,
+      "registros_superior_completo": 41905,
+      "registros_superior_completo_validos": 41905,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2015_t4_recorte.rds",
+      "ano_trimestre_nome": "2015T4",
+      "registros_total": 562871,
+      "registros_superior_completo": 44163,
+      "registros_superior_completo_validos": 44163,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2016_t4_recorte.rds",
+      "ano_trimestre_nome": "2016T4",
+      "registros_total": 570556,
+      "registros_superior_completo": 46958,
+      "registros_superior_completo_validos": 46958,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2017_t4_recorte.rds",
+      "ano_trimestre_nome": "2017T4",
+      "registros_total": 561288,
+      "registros_superior_completo": 50124,
+      "registros_superior_completo_validos": 50124,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2018_t4_recorte.rds",
+      "ano_trimestre_nome": "2018T4",
+      "registros_total": 554211,
+      "registros_superior_completo": 53317,
+      "registros_superior_completo_validos": 53317,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2019_t4_recorte.rds",
+      "ano_trimestre_nome": "2019T4",
+      "registros_total": 542802,
+      "registros_superior_completo": 54520,
+      "registros_superior_completo_validos": 54520,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2020_t4_recorte.rds",
+      "ano_trimestre_nome": "2020T4",
+      "registros_total": 335566,
+      "registros_superior_completo": 38479,
+      "registros_superior_completo_validos": 38479,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2021_t4_recorte.rds",
+      "ano_trimestre_nome": "2021T4",
+      "registros_total": 461795,
+      "registros_superior_completo": 48665,
+      "registros_superior_completo_validos": 48665,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2022_t4_recorte.rds",
+      "ano_trimestre_nome": "2022T4",
+      "registros_total": 478091,
+      "registros_superior_completo": 53915,
+      "registros_superior_completo_validos": 53915,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2023_t4_recorte.rds",
+      "ano_trimestre_nome": "2023T4",
+      "registros_total": 473206,
+      "registros_superior_completo": 55462,
+      "registros_superior_completo_validos": 55462,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2024_t4_recorte.rds",
+      "ano_trimestre_nome": "2024T4",
+      "registros_total": 469334,
+      "registros_superior_completo": 57840,
+      "registros_superior_completo_validos": 57840,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    },
+    {
+      "arquivo": "pnadc_2025_t4_recorte.rds",
+      "ano_trimestre_nome": "2025T4",
+      "registros_total": 498494,
+      "registros_superior_completo": 66086,
+      "registros_superior_completo_validos": 66086,
+      "registros_superior_completo_excluidos": 0,
+      "perc_superior_completo_excluidos": 0,
+      "registros_superior_sem_dimensao": 0,
+      "registros_superior_peso_invalido": 0
+    }
+  ]
+}

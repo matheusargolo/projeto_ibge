@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "nome_analise": "Ultimo periodo: remuneracao media sobreeducados, nao sobreeducados e superior",
+    "descricao": "Compara tres grupos no ultimo periodo: 1) sobreeducados; 2) nao sobreeducados (superior completo em ocupacao classificada como exigente de superior); 3) superior completo em todas as ocupacoes.",
+    "gerado_em": "2026-05-03 17:51:35 -0300",
+    "fuso_horario": "America/Sao_Paulo",
+    "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
+    "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
+    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario.",
+    "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",
+    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada.",
+    "remuneracao_escolha": "Foram calculadas duas metricas: VD4019 (rendimento habitual em todos os trabalhos) e VD4020 (rendimento efetivo em todos os trabalhos).",
+    "filtro_remuneracao": "Medias de remuneracao usam apenas rendimentos positivos (>0), com peso valido e ocupacao informada."
+  },
+  "tabela": [
+    {
+      "grupo": "sobreeducados",
+      "registros_com_ocupacao_e_peso_valido": 26676,
+      "registros_com_rendimento_habitual": 26431,
+      "registros_com_rendimento_efetivo": 26185,
+      "rendimento_habitual_medio_ponderado": 6046.61988482,
+      "rendimento_efetivo_medio_ponderado": 6361.47552589
+    },
+    {
+      "grupo": "nao_sobreeducados_superior_em_ocupacao_classificada",
+      "registros_com_ocupacao_e_peso_valido": 24894,
+      "registros_com_rendimento_habitual": 24872,
+      "registros_com_rendimento_efetivo": 24766,
+      "rendimento_habitual_medio_ponderado": 8083.48946658,
+      "rendimento_efetivo_medio_ponderado": 8428.98116095
+    },
+    {
+      "grupo": "superior_completo_todas_ocupacoes",
+      "registros_com_ocupacao_e_peso_valido": 51580,
+      "registros_com_rendimento_habitual": 51311,
+      "registros_com_rendimento_efetivo": 50959,
+      "rendimento_habitual_medio_ponderado": 7031.40028345,
+      "rendimento_efetivo_medio_ponderado": 7362.77652264
+    }
+  ],
+  "ultimo_periodo": {
+    "ano": 2025,
+    "trimestre": 4,
+    "periodo": "2025-T4"
+  }
+}

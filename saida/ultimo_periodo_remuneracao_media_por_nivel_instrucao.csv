@@ -1,0 +1,8 @@
+"nivel_instrucao_codigo","nivel_instrucao","registros_com_ocupacao_e_peso_valido","registros_com_rendimento_habitual","rendimento_habitual_medio_ponderado","registros_com_rendimento_efetivo","rendimento_efetivo_medio_ponderado"
+"1","Sem instrucao e menos de 1 ano de estudo",5124,4946,1702.85034102167,4654,1814.47713124415
+"2","Fundamental incompleto ou equivalente",46316,44674,1936.13003436015,42685,2003.34226565934
+"3","Fundamental completo ou equivalente",15614,15141,2343.72262864542,14730,2365.82768143687
+"4","Medio incompleto ou equivalente",14542,14020,2139.26054326958,13637,2219.94537834107
+"5","Medio completo ou equivalente",78813,77561,2641.63974688122,76365,2760.09033742439
+"6","Superior incompleto ou equivalente",12992,12766,3198.89606022394,12598,3362.07527434083
+"7","Superior completo",51580,51311,7031.40028344795,50959,7362.77652264204

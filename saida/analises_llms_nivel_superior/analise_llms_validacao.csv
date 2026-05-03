@@ -1,0 +1,6 @@
+modelo;arquivo;linhas;codigos_unicos;duplicados_codigo;colunas_ok;valores_distintos_nivel_superior;valores_invalidos;codigos_faltantes;codigos_extras
+codex_gpt5;ocupacoes_cod2010_nivel_superior_codex_gpt5.csv;434;434;0;True;0,1;;0;0
+deepseek_v3;ocupacoes_cod2010_nivel_superior_deepseek_v3.csv;434;434;0;True;0,1;;0;0
+gemini_3_1_pro;ocupacoes_cod2010_nivel_superior_gemini_3_1_pro.csv;434;434;0;True;0,1;;0;0
+gpt_5_5_thinking;ocupacoes_cod2010_nivel_superior_gpt_5_5_thinking.csv;434;434;0;True;0,1;;0;0
+grok_xai;ocupacoes_cod2010_nivel_superior_grok_xai.csv;434;434;0;True;0,1;;0;0

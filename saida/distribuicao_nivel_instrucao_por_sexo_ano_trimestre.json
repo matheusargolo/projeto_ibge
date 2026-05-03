@@ -1,0 +1,5607 @@
+{
+  "metadata": {
+    "gerado_em": "2026-05-03 15:38:26 -0300",
+    "fuso_horario": "America/Sao_Paulo",
+    "arquivos_entrada": ["pnadc_2012_t4_recorte.rds", "pnadc_2013_t4_recorte.rds", "pnadc_2014_t4_recorte.rds", "pnadc_2015_t4_recorte.rds", "pnadc_2016_t4_recorte.rds", "pnadc_2017_t4_recorte.rds", "pnadc_2018_t4_recorte.rds", "pnadc_2019_t4_recorte.rds", "pnadc_2020_t4_recorte.rds", "pnadc_2021_t4_recorte.rds", "pnadc_2022_t4_recorte.rds", "pnadc_2023_t4_recorte.rds", "pnadc_2024_t4_recorte.rds", "pnadc_2025_t4_recorte.rds"],
+    "quantidade_arquivos": 14,
+    "quantidade_cortes": 28,
+    "variavel_principal": "VD3004",
+    "rotulo_variavel_principal": "Nivel de instrucao mais elevado alcancado (5 anos ou mais de idade)",
+    "variavel_peso": "V1028",
+    "variavel_dimensao": "V2007",
+    "rotulo_dimensao": "Sexo",
+    "descricao": "Distribuicao percentual ponderada de nivel de instrucao por sexo, ano e trimestre."
+  },
+  "cortes": [
+    {
+      "ano": 2012,
+      "trimestre": 4,
+      "periodo": "2012-T4",
+      "resumo": {
+        "registros_total": 271625,
+        "registros_validos": 251987,
+        "registros_excluidos": 19638,
+        "perc_excluidos": 7.2298,
+        "total_ponderado": 89271662.00000127
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 38217900.605539,
+          "percentual": 42.8108
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 18323741.96277542,
+          "percentual": 20.5258
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8842372.85538533,
+          "percentual": 9.905
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8401434.0366419,
+          "percentual": 9.4111
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 6755610.61332145,
+          "percentual": 7.5675
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 5616687.18861278,
+          "percentual": 6.2917
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3113914.73772538,
+          "percentual": 3.4881
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2012,
+      "trimestre": 4,
+      "periodo": "2012-T4",
+      "resumo": {
+        "registros_total": 284310,
+        "registros_validos": 265456,
+        "registros_excluidos": 18854,
+        "perc_excluidos": 6.6315,
+        "total_ponderado": 94008780.00000167
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 36974720.14835748,
+          "percentual": 39.3311
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 20790509.97976059,
+          "percentual": 22.1155
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 9316685.01512607,
+          "percentual": 9.9104
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8759443.30735507,
+          "percentual": 9.3177
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8625565.00866545,
+          "percentual": 9.1753
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6007449.91051492,
+          "percentual": 6.3903
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3534406.63022209,
+          "percentual": 3.7597
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2013,
+      "trimestre": 4,
+      "periodo": "2013-T4",
+      "resumo": {
+        "registros_total": 279082,
+        "registros_validos": 259145,
+        "registros_excluidos": 19937,
+        "perc_excluidos": 7.1438,
+        "total_ponderado": 90043151.00000578
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 37488104.18362214,
+          "percentual": 41.6335
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 18874803.27488183,
+          "percentual": 20.962
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 9183156.50896738,
+          "percentual": 10.1986
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8405021.48606361,
+          "percentual": 9.3344
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 7017651.70177297,
+          "percentual": 7.7937
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 5850260.98118337,
+          "percentual": 6.4972
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3224152.86351449,
+          "percentual": 3.5807
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2013,
+      "trimestre": 4,
+      "periodo": "2013-T4",
+      "resumo": {
+        "registros_total": 290160,
+        "registros_validos": 270882,
+        "registros_excluidos": 19278,
+        "perc_excluidos": 6.6439,
+        "total_ponderado": 94839234.00000501
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 36084678.01026591,
+          "percentual": 38.0483
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 21790770.12895824,
+          "percentual": 22.9765
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 9649187.7195603,
+          "percentual": 10.1743
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8888124.04941382,
+          "percentual": 9.3718
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8624260.23285016,
+          "percentual": 9.0936
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6096923.92128509,
+          "percentual": 6.4287
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3705289.93767149,
+          "percentual": 3.9069
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "resumo": {
+        "registros_total": 281809,
+        "registros_validos": 262315,
+        "registros_excluidos": 19494,
+        "perc_excluidos": 6.9175,
+        "total_ponderado": 90747787.00006294
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 37079507.76232345,
+          "percentual": 40.86
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 19505616.29820032,
+          "percentual": 21.4943
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 9221942.92112275,
+          "percentual": 10.1622
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8087980.65205535,
+          "percentual": 8.9126
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 7460181.71736425,
+          "percentual": 8.2208
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 5929997.71845541,
+          "percentual": 6.5346
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3462559.93054142,
+          "percentual": 3.8156
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2014,
+      "trimestre": 4,
+      "periodo": "2014-T4",
+      "resumo": {
+        "registros_total": 293178,
+        "registros_validos": 274326,
+        "registros_excluidos": 18852,
+        "perc_excluidos": 6.4302,
+        "total_ponderado": 95599180.00006083
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 35491487.43694249,
+          "percentual": 37.1253
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 22355043.22721606,
+          "percentual": 23.3841
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 10421842.97042019,
+          "percentual": 10.9016
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8975804.5624834,
+          "percentual": 9.389
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8222647.16664979,
+          "percentual": 8.6012
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6136767.14728726,
+          "percentual": 6.4193
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3995587.48906164,
+          "percentual": 4.1795
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "resumo": {
+        "registros_total": 275882,
+        "registros_validos": 257075,
+        "registros_excluidos": 18807,
+        "perc_excluidos": 6.817,
+        "total_ponderado": 91398303.00004439
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 36400811.92818051,
+          "percentual": 39.8266
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 20371138.8245228,
+          "percentual": 22.2883
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8460570.91410377,
+          "percentual": 9.2568
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8348490.21288592,
+          "percentual": 9.1342
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 8207267.59426192,
+          "percentual": 8.9797
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6171932.44497554,
+          "percentual": 6.7528
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3438091.08111393,
+          "percentual": 3.7617
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2015,
+      "trimestre": 4,
+      "periodo": "2015-T4",
+      "resumo": {
+        "registros_total": 286989,
+        "registros_validos": 269104,
+        "registros_excluidos": 17885,
+        "perc_excluidos": 6.2319,
+        "total_ponderado": 96306556.00004685
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 34884839.15797164,
+          "percentual": 36.2227
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 23265661.7771181,
+          "percentual": 24.1579
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 11379020.37509239,
+          "percentual": 11.8154
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8415140.23981172,
+          "percentual": 8.7379
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8218911.17334717,
+          "percentual": 8.5341
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6145989.0343135,
+          "percentual": 6.3817
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3996994.24239233,
+          "percentual": 4.1503
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "resumo": {
+        "registros_total": 279825,
+        "registros_validos": 260826,
+        "registros_excluidos": 18999,
+        "perc_excluidos": 6.7896,
+        "total_ponderado": 92052190.00005156
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 35908772.37735105,
+          "percentual": 39.0091
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 21006046.35763777,
+          "percentual": 22.8197
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 8652228.50641029,
+          "percentual": 9.3993
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8188324.49195822,
+          "percentual": 8.8953
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8155902.7203981,
+          "percentual": 8.8601
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6607456.30212535,
+          "percentual": 7.1779
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3533459.24417077,
+          "percentual": 3.8385
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2016,
+      "trimestre": 4,
+      "periodo": "2016-T4",
+      "resumo": {
+        "registros_total": 290731,
+        "registros_validos": 272721,
+        "registros_excluidos": 18010,
+        "perc_excluidos": 6.1947,
+        "total_ponderado": 97021736.00005285
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 34445023.43989765,
+          "percentual": 35.5024
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 23679693.48407442,
+          "percentual": 24.4066
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 11905668.2743973,
+          "percentual": 12.2711
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 8171003.04613393,
+          "percentual": 8.4218
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8151724.17054797,
+          "percentual": 8.402
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6523725.75241824,
+          "percentual": 6.724
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4144897.83258335,
+          "percentual": 4.2721
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "resumo": {
+        "registros_total": 274650,
+        "registros_validos": 256284,
+        "registros_excluidos": 18366,
+        "perc_excluidos": 6.6871,
+        "total_ponderado": 92687396.00009553
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 36052498.04462074,
+          "percentual": 38.8969
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 21400521.16216751,
+          "percentual": 23.0889
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 8977779.11138969,
+          "percentual": 9.6861
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7943109.62658641,
+          "percentual": 8.5698
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7719065.85813273,
+          "percentual": 8.3281
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6687012.27759391,
+          "percentual": 7.2146
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 3907409.91960454,
+          "percentual": 4.2157
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2017,
+      "trimestre": 4,
+      "periodo": "2017-T4",
+      "resumo": {
+        "registros_total": 286638,
+        "registros_validos": 269076,
+        "registros_excluidos": 17562,
+        "perc_excluidos": 6.1269,
+        "total_ponderado": 97718852.00009969
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 34314644.19642635,
+          "percentual": 35.1157
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 24169675.25373298,
+          "percentual": 24.7339
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 12565185.78812827,
+          "percentual": 12.8585
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7844246.56166907,
+          "percentual": 8.0274
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7755912.26844733,
+          "percentual": 7.937
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6627687.18811103,
+          "percentual": 6.7824
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4441500.74358466,
+          "percentual": 4.5452
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2018,
+      "trimestre": 4,
+      "periodo": "2018-T4",
+      "resumo": {
+        "registros_total": 270663,
+        "registros_validos": 252827,
+        "registros_excluidos": 17836,
+        "perc_excluidos": 6.5897,
+        "total_ponderado": 93290916.00012222
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 35646283.70098142,
+          "percentual": 38.2098
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 22088445.07831643,
+          "percentual": 23.677
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 9626733.02732806,
+          "percentual": 10.319
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7598654.3407734,
+          "percentual": 8.1451
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7291193.06627876,
+          "percentual": 7.8155
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6797792.65230385,
+          "percentual": 7.2867
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4241814.1341403,
+          "percentual": 4.5469
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2018,
+      "trimestre": 4,
+      "periodo": "2018-T4",
+      "resumo": {
+        "registros_total": 283548,
+        "registros_validos": 266430,
+        "registros_excluidos": 17118,
+        "perc_excluidos": 6.0371,
+        "total_ponderado": 98379401.00010929
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 33804346.00499479,
+          "percentual": 34.3612
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 24669704.97063243,
+          "percentual": 25.0761
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 13626280.11378083,
+          "percentual": 13.8507
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7483679.37207753,
+          "percentual": 7.607
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7461786.80082223,
+          "percentual": 7.5847
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6662656.45348247,
+          "percentual": 6.7724
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4670947.28431901,
+          "percentual": 4.7479
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "resumo": {
+        "registros_total": 264525,
+        "registros_validos": 247222,
+        "registros_excluidos": 17303,
+        "perc_excluidos": 6.5412,
+        "total_ponderado": 93908962.00032677
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 34847099.81278699,
+          "percentual": 37.1073
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 22843811.34880053,
+          "percentual": 24.3255
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 10090929.80676477,
+          "percentual": 10.7454
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7661483.21129428,
+          "percentual": 8.1584
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7465557.89428933,
+          "percentual": 7.9498
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6770732.65684826,
+          "percentual": 7.2099
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4229347.26954261,
+          "percentual": 4.5037
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2019,
+      "trimestre": 4,
+      "periodo": "2019-T4",
+      "resumo": {
+        "registros_total": 278277,
+        "registros_validos": 261624,
+        "registros_excluidos": 16653,
+        "perc_excluidos": 5.9843,
+        "total_ponderado": 99058397.00031944
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 33305957.38465692,
+          "percentual": 33.6225
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 25383267.70183143,
+          "percentual": 25.6245
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 14180953.26894555,
+          "percentual": 14.3158
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7355574.64265735,
+          "percentual": 7.4255
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7345499.06645956,
+          "percentual": 7.4153
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6721030.1989791,
+          "percentual": 6.7849
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4766114.73678952,
+          "percentual": 4.8114
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "resumo": {
+        "registros_total": 161858,
+        "registros_validos": 152317,
+        "registros_excluidos": 9541,
+        "perc_excluidos": 5.8947,
+        "total_ponderado": 94531852.00754689
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 32772498.18670243,
+          "percentual": 34.6682
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 23870970.20721934,
+          "percentual": 25.2518
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 11640457.99203752,
+          "percentual": 12.3138
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7682147.10699602,
+          "percentual": 8.1265
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7150626.62340983,
+          "percentual": 7.5643
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6740460.77050908,
+          "percentual": 7.1304
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4674691.12067267,
+          "percentual": 4.9451
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2020,
+      "trimestre": 4,
+      "periodo": "2020-T4",
+      "resumo": {
+        "registros_total": 173708,
+        "registros_validos": 164430,
+        "registros_excluidos": 9278,
+        "perc_excluidos": 5.3411,
+        "total_ponderado": 99771306.00594825
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 31496596.11207749,
+          "percentual": 31.5688
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 26087814.65343141,
+          "percentual": 26.1476
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 15764558.64688843,
+          "percentual": 15.8007
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7485010.98337884,
+          "percentual": 7.5022
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7211982.62395828,
+          "percentual": 7.2285
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6640445.01896332,
+          "percentual": 6.6557
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 5084897.96725048,
+          "percentual": 5.0966
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "resumo": {
+        "registros_total": 223980,
+        "registros_validos": 210419,
+        "registros_excluidos": 13561,
+        "perc_excluidos": 6.0546,
+        "total_ponderado": 95119450.00525922
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 33231053.39213287,
+          "percentual": 34.9361
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 24222604.06076868,
+          "percentual": 25.4655
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 10955193.75560753,
+          "percentual": 11.5173
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7776952.0803846,
+          "percentual": 8.176
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7545982.11321175,
+          "percentual": 7.9332
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 7251589.96998341,
+          "percentual": 7.6237
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4136074.63317038,
+          "percentual": 4.3483
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2021,
+      "trimestre": 4,
+      "periodo": "2021-T4",
+      "resumo": {
+        "registros_total": 237815,
+        "registros_validos": 224859,
+        "registros_excluidos": 12956,
+        "perc_excluidos": 5.4479,
+        "total_ponderado": 100470947.00457859
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 31796386.53016255,
+          "percentual": 31.6473
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 26373944.49272299,
+          "percentual": 26.2503
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 15403272.58598608,
+          "percentual": 15.3311
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7865558.24256011,
+          "percentual": 7.8287
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7539502.42670046,
+          "percentual": 7.5042
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6884621.45459072,
+          "percentual": 6.8524
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4607661.27185568,
+          "percentual": 4.5861
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "resumo": {
+        "registros_total": 232029,
+        "registros_validos": 217895,
+        "registros_excluidos": 14134,
+        "perc_excluidos": 6.0915,
+        "total_ponderado": 95719409.00589503
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 32559653.73146423,
+          "percentual": 34.0157
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 24884138.01523477,
+          "percentual": 25.997
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 11541502.38179638,
+          "percentual": 12.0576
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 8045271.88128353,
+          "percentual": 8.4051
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7313731.00171716,
+          "percentual": 7.6408
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 7231974.8511823,
+          "percentual": 7.5554
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4143137.14321667,
+          "percentual": 4.3284
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2022,
+      "trimestre": 4,
+      "periodo": "2022-T4",
+      "resumo": {
+        "registros_total": 246062,
+        "registros_validos": 232591,
+        "registros_excluidos": 13471,
+        "perc_excluidos": 5.4746,
+        "total_ponderado": 101165354.00442566
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 31381296.60073389,
+          "percentual": 31.0198
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 26871653.32908332,
+          "percentual": 26.5621
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 16160746.11127004,
+          "percentual": 15.9746
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7864085.07660783,
+          "percentual": 7.7735
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7200725.83803917,
+          "percentual": 7.1178
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 7013178.80947288,
+          "percentual": 6.9324
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4673668.23921853,
+          "percentual": 4.6198
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "resumo": {
+        "registros_total": 228456,
+        "registros_validos": 214663,
+        "registros_excluidos": 13793,
+        "perc_excluidos": 6.0375,
+        "total_ponderado": 96347126.00608748
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 31895056.39867012,
+          "percentual": 33.1043
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 25850979.28770817,
+          "percentual": 26.8311
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 12167032.56543804,
+          "percentual": 12.6283
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7867582.33608967,
+          "percentual": 8.1659
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7361776.81457362,
+          "percentual": 7.6409
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 7064566.73497844,
+          "percentual": 7.3324
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4140131.86862942,
+          "percentual": 4.2971
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2023,
+      "trimestre": 4,
+      "periodo": "2023-T4",
+      "resumo": {
+        "registros_total": 244750,
+        "registros_validos": 231488,
+        "registros_excluidos": 13262,
+        "perc_excluidos": 5.4186,
+        "total_ponderado": 101859573.00346602
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 30842729.45692113,
+          "percentual": 30.2797
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 27700993.11603674,
+          "percentual": 27.1953
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 16714762.02774394,
+          "percentual": 16.4096
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7788122.61308221,
+          "percentual": 7.6459
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7223971.07800401,
+          "percentual": 7.0921
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6829693.72408268,
+          "percentual": 6.705
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4759300.98759532,
+          "percentual": 4.6724
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "resumo": {
+        "registros_total": 226358,
+        "registros_validos": 213008,
+        "registros_excluidos": 13350,
+        "perc_excluidos": 5.8977,
+        "total_ponderado": 96944425.00141953
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 31427754.32053669,
+          "percentual": 32.4183
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 26804322.15989204,
+          "percentual": 27.6492
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 12770501.08790173,
+          "percentual": 13.173
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7417159.17591901,
+          "percentual": 7.6509
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7217480.41871901,
+          "percentual": 7.445
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 7199052.05364622,
+          "percentual": 7.426
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4108155.78480483,
+          "percentual": 4.2376
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2024,
+      "trimestre": 4,
+      "periodo": "2024-T4",
+      "resumo": {
+        "registros_total": 242976,
+        "registros_validos": 230157,
+        "registros_excluidos": 12819,
+        "perc_excluidos": 5.2758,
+        "total_ponderado": 102515861.00074147
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 30146694.47065109,
+          "percentual": 29.4069
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 29070017.98442681,
+          "percentual": 28.3566
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 17560573.91416729,
+          "percentual": 17.1296
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7373204.30750487,
+          "percentual": 7.1923
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 7003785.69200205,
+          "percentual": 6.8319
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6589254.76254185,
+          "percentual": 6.4275
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4772329.86944751,
+          "percentual": 4.6552
+        }
+      ],
+      "sexo": "Mulher"
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "resumo": {
+        "registros_total": 240379,
+        "registros_validos": 226182,
+        "registros_excluidos": 14197,
+        "perc_excluidos": 5.9061,
+        "total_ponderado": 97484107.00000195
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 31108597.49250778,
+          "percentual": 31.9115
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 27157161.73689202,
+          "percentual": 27.858
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 13568513.36703907,
+          "percentual": 13.9187
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7190618.20346256,
+          "percentual": 7.3762
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 7068966.64639843,
+          "percentual": 7.2514
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 6907497.25609684,
+          "percentual": 7.0858
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 4482752.29760525,
+          "percentual": 4.5984
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "resumo": {
+        "registros_total": 258115,
+        "registros_validos": 244547,
+        "registros_excluidos": 13568,
+        "perc_excluidos": 5.2566,
+        "total_ponderado": 103117031.00000049
+      },
+      "niveis": [
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+          "peso": 29792875.64299595,
+          "percentual": 28.8923
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+          "peso": 29068015.63555425,
+          "percentual": 28.1893
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+          "peso": 18756515.70917441,
+          "percentual": 18.1895
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+          "peso": 7112530.89075354,
+          "percentual": 6.8975
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+          "peso": 6798907.31767767,
+          "percentual": 6.5934
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+          "peso": 6462100.12456534,
+          "percentual": 6.2668
+        },
+        {
+          "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+          "peso": 5126085.67927933,
+          "percentual": 4.9711
+        }
+      ],
+      "sexo": "Mulher"
+    }
+  ],
+  "series_por_sexo": [
+    {
+      "pontos": [
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 9.905,
+          "peso": 8842372.85538533,
+          "total_ponderado": 89271662.00000127
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 42.8108,
+          "peso": 38217900.605539,
+          "total_ponderado": 89271662.00000127
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 20.5258,
+          "peso": 18323741.96277542,
+          "total_ponderado": 89271662.00000127
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.2917,
+          "peso": 5616687.18861278,
+          "total_ponderado": 89271662.00000127
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 9.4111,
+          "peso": 8401434.0366419,
+          "total_ponderado": 89271662.00000127
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Superior completo",
+          "percentual": 7.5675,
+          "peso": 6755610.61332145,
+          "total_ponderado": 89271662.00000127
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 3.4881,
+          "peso": 3113914.73772538,
+          "total_ponderado": 89271662.00000127
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 10.1986,
+          "peso": 9183156.50896738,
+          "total_ponderado": 90043151.00000578
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 41.6335,
+          "peso": 37488104.18362214,
+          "total_ponderado": 90043151.00000578
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 20.962,
+          "peso": 18874803.27488183,
+          "total_ponderado": 90043151.00000578
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.4972,
+          "peso": 5850260.98118337,
+          "total_ponderado": 90043151.00000578
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 9.3344,
+          "peso": 8405021.48606361,
+          "total_ponderado": 90043151.00000578
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Superior completo",
+          "percentual": 7.7937,
+          "peso": 7017651.70177297,
+          "total_ponderado": 90043151.00000578
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 3.5807,
+          "peso": 3224152.86351449,
+          "total_ponderado": 90043151.00000578
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 10.1622,
+          "peso": 9221942.92112275,
+          "total_ponderado": 90747787.00006294
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 40.86,
+          "peso": 37079507.76232345,
+          "total_ponderado": 90747787.00006294
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 21.4943,
+          "peso": 19505616.29820032,
+          "total_ponderado": 90747787.00006294
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.5346,
+          "peso": 5929997.71845541,
+          "total_ponderado": 90747787.00006294
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.9126,
+          "peso": 8087980.65205535,
+          "total_ponderado": 90747787.00006294
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Superior completo",
+          "percentual": 8.2208,
+          "peso": 7460181.71736425,
+          "total_ponderado": 90747787.00006294
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 3.8156,
+          "peso": 3462559.93054142,
+          "total_ponderado": 90747787.00006294
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 9.2568,
+          "peso": 8460570.91410377,
+          "total_ponderado": 91398303.00004439
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 39.8266,
+          "peso": 36400811.92818051,
+          "total_ponderado": 91398303.00004439
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 22.2883,
+          "peso": 20371138.8245228,
+          "total_ponderado": 91398303.00004439
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.7528,
+          "peso": 6171932.44497554,
+          "total_ponderado": 91398303.00004439
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 9.1342,
+          "peso": 8348490.21288592,
+          "total_ponderado": 91398303.00004439
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Superior completo",
+          "percentual": 8.9797,
+          "peso": 8207267.59426192,
+          "total_ponderado": 91398303.00004439
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 3.7617,
+          "peso": 3438091.08111393,
+          "total_ponderado": 91398303.00004439
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.8953,
+          "peso": 8188324.49195822,
+          "total_ponderado": 92052190.00005156
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 39.0091,
+          "peso": 35908772.37735105,
+          "total_ponderado": 92052190.00005156
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 22.8197,
+          "peso": 21006046.35763777,
+          "total_ponderado": 92052190.00005156
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.1779,
+          "peso": 6607456.30212535,
+          "total_ponderado": 92052190.00005156
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.8601,
+          "peso": 8155902.7203981,
+          "total_ponderado": 92052190.00005156
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Superior completo",
+          "percentual": 9.3993,
+          "peso": 8652228.50641029,
+          "total_ponderado": 92052190.00005156
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 3.8385,
+          "peso": 3533459.24417077,
+          "total_ponderado": 92052190.00005156
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.5698,
+          "peso": 7943109.62658641,
+          "total_ponderado": 92687396.00009553
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 38.8969,
+          "peso": 36052498.04462074,
+          "total_ponderado": 92687396.00009553
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 23.0889,
+          "peso": 21400521.16216751,
+          "total_ponderado": 92687396.00009553
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.2146,
+          "peso": 6687012.27759391,
+          "total_ponderado": 92687396.00009553
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.3281,
+          "peso": 7719065.85813273,
+          "total_ponderado": 92687396.00009553
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Superior completo",
+          "percentual": 9.6861,
+          "peso": 8977779.11138969,
+          "total_ponderado": 92687396.00009553
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.2157,
+          "peso": 3907409.91960454,
+          "total_ponderado": 92687396.00009553
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.1451,
+          "peso": 7598654.3407734,
+          "total_ponderado": 93290916.00012222
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 38.2098,
+          "peso": 35646283.70098142,
+          "total_ponderado": 93290916.00012222
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 23.677,
+          "peso": 22088445.07831643,
+          "total_ponderado": 93290916.00012222
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.2867,
+          "peso": 6797792.65230385,
+          "total_ponderado": 93290916.00012222
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.8155,
+          "peso": 7291193.06627876,
+          "total_ponderado": 93290916.00012222
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Superior completo",
+          "percentual": 10.319,
+          "peso": 9626733.02732806,
+          "total_ponderado": 93290916.00012222
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.5469,
+          "peso": 4241814.1341403,
+          "total_ponderado": 93290916.00012222
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.1584,
+          "peso": 7661483.21129428,
+          "total_ponderado": 93908962.00032677
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 37.1073,
+          "peso": 34847099.81278699,
+          "total_ponderado": 93908962.00032677
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 24.3255,
+          "peso": 22843811.34880053,
+          "total_ponderado": 93908962.00032677
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.2099,
+          "peso": 6770732.65684826,
+          "total_ponderado": 93908962.00032677
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.9498,
+          "peso": 7465557.89428933,
+          "total_ponderado": 93908962.00032677
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Superior completo",
+          "percentual": 10.7454,
+          "peso": 10090929.80676477,
+          "total_ponderado": 93908962.00032677
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.5037,
+          "peso": 4229347.26954261,
+          "total_ponderado": 93908962.00032677
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.1265,
+          "peso": 7682147.10699602,
+          "total_ponderado": 94531852.00754689
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 34.6682,
+          "peso": 32772498.18670243,
+          "total_ponderado": 94531852.00754689
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 25.2518,
+          "peso": 23870970.20721934,
+          "total_ponderado": 94531852.00754689
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.1304,
+          "peso": 6740460.77050908,
+          "total_ponderado": 94531852.00754689
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.5643,
+          "peso": 7150626.62340983,
+          "total_ponderado": 94531852.00754689
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Superior completo",
+          "percentual": 12.3138,
+          "peso": 11640457.99203752,
+          "total_ponderado": 94531852.00754689
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.9451,
+          "peso": 4674691.12067267,
+          "total_ponderado": 94531852.00754689
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.9332,
+          "peso": 7545982.11321175,
+          "total_ponderado": 95119450.00525922
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 34.9361,
+          "peso": 33231053.39213287,
+          "total_ponderado": 95119450.00525922
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 25.4655,
+          "peso": 24222604.06076868,
+          "total_ponderado": 95119450.00525922
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.6237,
+          "peso": 7251589.96998341,
+          "total_ponderado": 95119450.00525922
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.176,
+          "peso": 7776952.0803846,
+          "total_ponderado": 95119450.00525922
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Superior completo",
+          "percentual": 11.5173,
+          "peso": 10955193.75560753,
+          "total_ponderado": 95119450.00525922
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.3483,
+          "peso": 4136074.63317038,
+          "total_ponderado": 95119450.00525922
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.6408,
+          "peso": 7313731.00171716,
+          "total_ponderado": 95719409.00589503
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 34.0157,
+          "peso": 32559653.73146423,
+          "total_ponderado": 95719409.00589503
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 25.997,
+          "peso": 24884138.01523477,
+          "total_ponderado": 95719409.00589503
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.5554,
+          "peso": 7231974.8511823,
+          "total_ponderado": 95719409.00589503
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.4051,
+          "peso": 8045271.88128353,
+          "total_ponderado": 95719409.00589503
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Superior completo",
+          "percentual": 12.0576,
+          "peso": 11541502.38179638,
+          "total_ponderado": 95719409.00589503
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.3284,
+          "peso": 4143137.14321667,
+          "total_ponderado": 95719409.00589503
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.6409,
+          "peso": 7361776.81457362,
+          "total_ponderado": 96347126.00608748
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 33.1043,
+          "peso": 31895056.39867012,
+          "total_ponderado": 96347126.00608748
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 26.8311,
+          "peso": 25850979.28770817,
+          "total_ponderado": 96347126.00608748
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.3324,
+          "peso": 7064566.73497844,
+          "total_ponderado": 96347126.00608748
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.1659,
+          "peso": 7867582.33608967,
+          "total_ponderado": 96347126.00608748
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Superior completo",
+          "percentual": 12.6283,
+          "peso": 12167032.56543804,
+          "total_ponderado": 96347126.00608748
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.2971,
+          "peso": 4140131.86862942,
+          "total_ponderado": 96347126.00608748
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.445,
+          "peso": 7217480.41871901,
+          "total_ponderado": 96944425.00141953
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 32.4183,
+          "peso": 31427754.32053669,
+          "total_ponderado": 96944425.00141953
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 27.6492,
+          "peso": 26804322.15989204,
+          "total_ponderado": 96944425.00141953
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.426,
+          "peso": 7199052.05364622,
+          "total_ponderado": 96944425.00141953
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.6509,
+          "peso": 7417159.17591901,
+          "total_ponderado": 96944425.00141953
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Superior completo",
+          "percentual": 13.173,
+          "peso": 12770501.08790173,
+          "total_ponderado": 96944425.00141953
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.2376,
+          "peso": 4108155.78480483,
+          "total_ponderado": 96944425.00141953
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.0858,
+          "peso": 6907497.25609684,
+          "total_ponderado": 97484107.00000195
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 31.9115,
+          "peso": 31108597.49250778,
+          "total_ponderado": 97484107.00000195
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 27.858,
+          "peso": 27157161.73689202,
+          "total_ponderado": 97484107.00000195
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 7.2514,
+          "peso": 7068966.64639843,
+          "total_ponderado": 97484107.00000195
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.3762,
+          "peso": 7190618.20346256,
+          "total_ponderado": 97484107.00000195
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Superior completo",
+          "percentual": 13.9187,
+          "peso": 13568513.36703907,
+          "total_ponderado": 97484107.00000195
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.5984,
+          "peso": 4482752.29760525,
+          "total_ponderado": 97484107.00000195
+        }
+      ],
+      "sexo": "Homem"
+    },
+    {
+      "pontos": [
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 9.3177,
+          "peso": 8759443.30735507,
+          "total_ponderado": 94008780.00000167
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 39.3311,
+          "peso": 36974720.14835748,
+          "total_ponderado": 94008780.00000167
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 22.1155,
+          "peso": 20790509.97976059,
+          "total_ponderado": 94008780.00000167
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.3903,
+          "peso": 6007449.91051492,
+          "total_ponderado": 94008780.00000167
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 9.1753,
+          "peso": 8625565.00866545,
+          "total_ponderado": 94008780.00000167
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Superior completo",
+          "percentual": 9.9104,
+          "peso": 9316685.01512607,
+          "total_ponderado": 94008780.00000167
+        },
+        {
+          "ano": 2012,
+          "trimestre": 4,
+          "periodo": "2012-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 3.7597,
+          "peso": 3534406.63022209,
+          "total_ponderado": 94008780.00000167
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 9.3718,
+          "peso": 8888124.04941382,
+          "total_ponderado": 94839234.00000501
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 38.0483,
+          "peso": 36084678.01026591,
+          "total_ponderado": 94839234.00000501
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 22.9765,
+          "peso": 21790770.12895824,
+          "total_ponderado": 94839234.00000501
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.4287,
+          "peso": 6096923.92128509,
+          "total_ponderado": 94839234.00000501
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 9.0936,
+          "peso": 8624260.23285016,
+          "total_ponderado": 94839234.00000501
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Superior completo",
+          "percentual": 10.1743,
+          "peso": 9649187.7195603,
+          "total_ponderado": 94839234.00000501
+        },
+        {
+          "ano": 2013,
+          "trimestre": 4,
+          "periodo": "2013-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 3.9069,
+          "peso": 3705289.93767149,
+          "total_ponderado": 94839234.00000501
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 9.389,
+          "peso": 8975804.5624834,
+          "total_ponderado": 95599180.00006083
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 37.1253,
+          "peso": 35491487.43694249,
+          "total_ponderado": 95599180.00006083
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 23.3841,
+          "peso": 22355043.22721606,
+          "total_ponderado": 95599180.00006083
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.4193,
+          "peso": 6136767.14728726,
+          "total_ponderado": 95599180.00006083
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.6012,
+          "peso": 8222647.16664979,
+          "total_ponderado": 95599180.00006083
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Superior completo",
+          "percentual": 10.9016,
+          "peso": 10421842.97042019,
+          "total_ponderado": 95599180.00006083
+        },
+        {
+          "ano": 2014,
+          "trimestre": 4,
+          "periodo": "2014-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.1795,
+          "peso": 3995587.48906164,
+          "total_ponderado": 95599180.00006083
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.5341,
+          "peso": 8218911.17334717,
+          "total_ponderado": 96306556.00004685
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 36.2227,
+          "peso": 34884839.15797164,
+          "total_ponderado": 96306556.00004685
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 24.1579,
+          "peso": 23265661.7771181,
+          "total_ponderado": 96306556.00004685
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.3817,
+          "peso": 6145989.0343135,
+          "total_ponderado": 96306556.00004685
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.7379,
+          "peso": 8415140.23981172,
+          "total_ponderado": 96306556.00004685
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Superior completo",
+          "percentual": 11.8154,
+          "peso": 11379020.37509239,
+          "total_ponderado": 96306556.00004685
+        },
+        {
+          "ano": 2015,
+          "trimestre": 4,
+          "periodo": "2015-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.1503,
+          "peso": 3996994.24239233,
+          "total_ponderado": 96306556.00004685
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.4218,
+          "peso": 8171003.04613393,
+          "total_ponderado": 97021736.00005285
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 35.5024,
+          "peso": 34445023.43989765,
+          "total_ponderado": 97021736.00005285
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 24.4066,
+          "peso": 23679693.48407442,
+          "total_ponderado": 97021736.00005285
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.724,
+          "peso": 6523725.75241824,
+          "total_ponderado": 97021736.00005285
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 8.402,
+          "peso": 8151724.17054797,
+          "total_ponderado": 97021736.00005285
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Superior completo",
+          "percentual": 12.2711,
+          "peso": 11905668.2743973,
+          "total_ponderado": 97021736.00005285
+        },
+        {
+          "ano": 2016,
+          "trimestre": 4,
+          "periodo": "2016-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.2721,
+          "peso": 4144897.83258335,
+          "total_ponderado": 97021736.00005285
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 8.0274,
+          "peso": 7844246.56166907,
+          "total_ponderado": 97718852.00009969
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 35.1157,
+          "peso": 34314644.19642635,
+          "total_ponderado": 97718852.00009969
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 24.7339,
+          "peso": 24169675.25373298,
+          "total_ponderado": 97718852.00009969
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.7824,
+          "peso": 6627687.18811103,
+          "total_ponderado": 97718852.00009969
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.937,
+          "peso": 7755912.26844733,
+          "total_ponderado": 97718852.00009969
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Superior completo",
+          "percentual": 12.8585,
+          "peso": 12565185.78812827,
+          "total_ponderado": 97718852.00009969
+        },
+        {
+          "ano": 2017,
+          "trimestre": 4,
+          "periodo": "2017-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.5452,
+          "peso": 4441500.74358466,
+          "total_ponderado": 97718852.00009969
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.5847,
+          "peso": 7461786.80082223,
+          "total_ponderado": 98379401.00010929
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 34.3612,
+          "peso": 33804346.00499479,
+          "total_ponderado": 98379401.00010929
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 25.0761,
+          "peso": 24669704.97063243,
+          "total_ponderado": 98379401.00010929
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.7724,
+          "peso": 6662656.45348247,
+          "total_ponderado": 98379401.00010929
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.607,
+          "peso": 7483679.37207753,
+          "total_ponderado": 98379401.00010929
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Superior completo",
+          "percentual": 13.8507,
+          "peso": 13626280.11378083,
+          "total_ponderado": 98379401.00010929
+        },
+        {
+          "ano": 2018,
+          "trimestre": 4,
+          "periodo": "2018-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.7479,
+          "peso": 4670947.28431901,
+          "total_ponderado": 98379401.00010929
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.4153,
+          "peso": 7345499.06645956,
+          "total_ponderado": 99058397.00031944
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 33.6225,
+          "peso": 33305957.38465692,
+          "total_ponderado": 99058397.00031944
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 25.6245,
+          "peso": 25383267.70183143,
+          "total_ponderado": 99058397.00031944
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.7849,
+          "peso": 6721030.1989791,
+          "total_ponderado": 99058397.00031944
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.4255,
+          "peso": 7355574.64265735,
+          "total_ponderado": 99058397.00031944
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Superior completo",
+          "percentual": 14.3158,
+          "peso": 14180953.26894555,
+          "total_ponderado": 99058397.00031944
+        },
+        {
+          "ano": 2019,
+          "trimestre": 4,
+          "periodo": "2019-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.8114,
+          "peso": 4766114.73678952,
+          "total_ponderado": 99058397.00031944
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.5022,
+          "peso": 7485010.98337884,
+          "total_ponderado": 99771306.00594825
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 31.5688,
+          "peso": 31496596.11207749,
+          "total_ponderado": 99771306.00594825
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 26.1476,
+          "peso": 26087814.65343141,
+          "total_ponderado": 99771306.00594825
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.6557,
+          "peso": 6640445.01896332,
+          "total_ponderado": 99771306.00594825
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.2285,
+          "peso": 7211982.62395828,
+          "total_ponderado": 99771306.00594825
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Superior completo",
+          "percentual": 15.8007,
+          "peso": 15764558.64688843,
+          "total_ponderado": 99771306.00594825
+        },
+        {
+          "ano": 2020,
+          "trimestre": 4,
+          "periodo": "2020-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 5.0966,
+          "peso": 5084897.96725048,
+          "total_ponderado": 99771306.00594825
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.5042,
+          "peso": 7539502.42670046,
+          "total_ponderado": 100470947.00457859
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 31.6473,
+          "peso": 31796386.53016255,
+          "total_ponderado": 100470947.00457859
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 26.2503,
+          "peso": 26373944.49272299,
+          "total_ponderado": 100470947.00457859
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.8524,
+          "peso": 6884621.45459072,
+          "total_ponderado": 100470947.00457859
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.8287,
+          "peso": 7865558.24256011,
+          "total_ponderado": 100470947.00457859
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Superior completo",
+          "percentual": 15.3311,
+          "peso": 15403272.58598608,
+          "total_ponderado": 100470947.00457859
+        },
+        {
+          "ano": 2021,
+          "trimestre": 4,
+          "periodo": "2021-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.5861,
+          "peso": 4607661.27185568,
+          "total_ponderado": 100470947.00457859
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.1178,
+          "peso": 7200725.83803917,
+          "total_ponderado": 101165354.00442566
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 31.0198,
+          "peso": 31381296.60073389,
+          "total_ponderado": 101165354.00442566
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 26.5621,
+          "peso": 26871653.32908332,
+          "total_ponderado": 101165354.00442566
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.9324,
+          "peso": 7013178.80947288,
+          "total_ponderado": 101165354.00442566
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.7735,
+          "peso": 7864085.07660783,
+          "total_ponderado": 101165354.00442566
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Superior completo",
+          "percentual": 15.9746,
+          "peso": 16160746.11127004,
+          "total_ponderado": 101165354.00442566
+        },
+        {
+          "ano": 2022,
+          "trimestre": 4,
+          "periodo": "2022-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.6198,
+          "peso": 4673668.23921853,
+          "total_ponderado": 101165354.00442566
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 7.0921,
+          "peso": 7223971.07800401,
+          "total_ponderado": 101859573.00346602
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 30.2797,
+          "peso": 30842729.45692113,
+          "total_ponderado": 101859573.00346602
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 27.1953,
+          "peso": 27700993.11603674,
+          "total_ponderado": 101859573.00346602
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.705,
+          "peso": 6829693.72408268,
+          "total_ponderado": 101859573.00346602
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.6459,
+          "peso": 7788122.61308221,
+          "total_ponderado": 101859573.00346602
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Superior completo",
+          "percentual": 16.4096,
+          "peso": 16714762.02774394,
+          "total_ponderado": 101859573.00346602
+        },
+        {
+          "ano": 2023,
+          "trimestre": 4,
+          "periodo": "2023-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.6724,
+          "peso": 4759300.98759532,
+          "total_ponderado": 101859573.00346602
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 6.8319,
+          "peso": 7003785.69200205,
+          "total_ponderado": 102515861.00074147
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 29.4069,
+          "peso": 30146694.47065109,
+          "total_ponderado": 102515861.00074147
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 28.3566,
+          "peso": 29070017.98442681,
+          "total_ponderado": 102515861.00074147
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.4275,
+          "peso": 6589254.76254185,
+          "total_ponderado": 102515861.00074147
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 7.1923,
+          "peso": 7373204.30750487,
+          "total_ponderado": 102515861.00074147
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Superior completo",
+          "percentual": 17.1296,
+          "peso": 17560573.91416729,
+          "total_ponderado": 102515861.00074147
+        },
+        {
+          "ano": 2024,
+          "trimestre": 4,
+          "periodo": "2024-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.6552,
+          "peso": 4772329.86944751,
+          "total_ponderado": 102515861.00074147
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Fundamental completo ou equivalente",
+          "percentual": 6.5934,
+          "peso": 6798907.31767767,
+          "total_ponderado": 103117031.00000049
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Fundamental incompleto ou equivalente",
+          "percentual": 28.8923,
+          "peso": 29792875.64299595,
+          "total_ponderado": 103117031.00000049
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Médio completo ou equivalente",
+          "percentual": 28.1893,
+          "peso": 29068015.63555425,
+          "total_ponderado": 103117031.00000049
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Médio incompleto ou equivalente",
+          "percentual": 6.2668,
+          "peso": 6462100.12456534,
+          "total_ponderado": 103117031.00000049
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Sem instrução e menos de 1 ano de estudo",
+          "percentual": 6.8975,
+          "peso": 7112530.89075354,
+          "total_ponderado": 103117031.00000049
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Superior completo",
+          "percentual": 18.1895,
+          "peso": 18756515.70917441,
+          "total_ponderado": 103117031.00000049
+        },
+        {
+          "ano": 2025,
+          "trimestre": 4,
+          "periodo": "2025-T4",
+          "nivel": "Superior incompleto ou equivalente",
+          "percentual": 4.9711,
+          "peso": 5126085.67927933,
+          "total_ponderado": 103117031.00000049
+        }
+      ],
+      "sexo": "Mulher"
+    }
+  ],
+  "tabela_distribuicao": [
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 38217900.605539,
+      "total_ponderado": 89271662.00000127,
+      "percentual": 42.8108
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 18323741.96277542,
+      "total_ponderado": 89271662.00000127,
+      "percentual": 20.5258
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8842372.85538533,
+      "total_ponderado": 89271662.00000127,
+      "percentual": 9.905
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8401434.0366419,
+      "total_ponderado": 89271662.00000127,
+      "percentual": 9.4111
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 6755610.61332145,
+      "total_ponderado": 89271662.00000127,
+      "percentual": 7.5675
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 5616687.18861278,
+      "total_ponderado": 89271662.00000127,
+      "percentual": 6.2917
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3113914.73772538,
+      "total_ponderado": 89271662.00000127,
+      "percentual": 3.4881
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 36974720.14835748,
+      "total_ponderado": 94008780.00000167,
+      "percentual": 39.3311
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 20790509.97976059,
+      "total_ponderado": 94008780.00000167,
+      "percentual": 22.1155
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 9316685.01512607,
+      "total_ponderado": 94008780.00000167,
+      "percentual": 9.9104
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8759443.30735507,
+      "total_ponderado": 94008780.00000167,
+      "percentual": 9.3177
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8625565.00866545,
+      "total_ponderado": 94008780.00000167,
+      "percentual": 9.1753
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6007449.91051492,
+      "total_ponderado": 94008780.00000167,
+      "percentual": 6.3903
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3534406.63022209,
+      "total_ponderado": 94008780.00000167,
+      "percentual": 3.7597
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 37488104.18362214,
+      "total_ponderado": 90043151.00000578,
+      "percentual": 41.6335
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 18874803.27488183,
+      "total_ponderado": 90043151.00000578,
+      "percentual": 20.962
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 9183156.50896738,
+      "total_ponderado": 90043151.00000578,
+      "percentual": 10.1986
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8405021.48606361,
+      "total_ponderado": 90043151.00000578,
+      "percentual": 9.3344
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 7017651.70177297,
+      "total_ponderado": 90043151.00000578,
+      "percentual": 7.7937
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 5850260.98118337,
+      "total_ponderado": 90043151.00000578,
+      "percentual": 6.4972
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3224152.86351449,
+      "total_ponderado": 90043151.00000578,
+      "percentual": 3.5807
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 36084678.01026591,
+      "total_ponderado": 94839234.00000501,
+      "percentual": 38.0483
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 21790770.12895824,
+      "total_ponderado": 94839234.00000501,
+      "percentual": 22.9765
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 9649187.7195603,
+      "total_ponderado": 94839234.00000501,
+      "percentual": 10.1743
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8888124.04941382,
+      "total_ponderado": 94839234.00000501,
+      "percentual": 9.3718
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8624260.23285016,
+      "total_ponderado": 94839234.00000501,
+      "percentual": 9.0936
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6096923.92128509,
+      "total_ponderado": 94839234.00000501,
+      "percentual": 6.4287
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3705289.93767149,
+      "total_ponderado": 94839234.00000501,
+      "percentual": 3.9069
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 37079507.76232345,
+      "total_ponderado": 90747787.00006294,
+      "percentual": 40.86
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 19505616.29820032,
+      "total_ponderado": 90747787.00006294,
+      "percentual": 21.4943
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 9221942.92112275,
+      "total_ponderado": 90747787.00006294,
+      "percentual": 10.1622
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8087980.65205535,
+      "total_ponderado": 90747787.00006294,
+      "percentual": 8.9126
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 7460181.71736425,
+      "total_ponderado": 90747787.00006294,
+      "percentual": 8.2208
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 5929997.71845541,
+      "total_ponderado": 90747787.00006294,
+      "percentual": 6.5346
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3462559.93054142,
+      "total_ponderado": 90747787.00006294,
+      "percentual": 3.8156
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 35491487.43694249,
+      "total_ponderado": 95599180.00006083,
+      "percentual": 37.1253
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 22355043.22721606,
+      "total_ponderado": 95599180.00006083,
+      "percentual": 23.3841
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 10421842.97042019,
+      "total_ponderado": 95599180.00006083,
+      "percentual": 10.9016
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8975804.5624834,
+      "total_ponderado": 95599180.00006083,
+      "percentual": 9.389
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8222647.16664979,
+      "total_ponderado": 95599180.00006083,
+      "percentual": 8.6012
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6136767.14728726,
+      "total_ponderado": 95599180.00006083,
+      "percentual": 6.4193
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3995587.48906164,
+      "total_ponderado": 95599180.00006083,
+      "percentual": 4.1795
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 36400811.92818051,
+      "total_ponderado": 91398303.00004439,
+      "percentual": 39.8266
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 20371138.8245228,
+      "total_ponderado": 91398303.00004439,
+      "percentual": 22.2883
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8460570.91410377,
+      "total_ponderado": 91398303.00004439,
+      "percentual": 9.2568
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8348490.21288592,
+      "total_ponderado": 91398303.00004439,
+      "percentual": 9.1342
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 8207267.59426192,
+      "total_ponderado": 91398303.00004439,
+      "percentual": 8.9797
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6171932.44497554,
+      "total_ponderado": 91398303.00004439,
+      "percentual": 6.7528
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3438091.08111393,
+      "total_ponderado": 91398303.00004439,
+      "percentual": 3.7617
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 34884839.15797164,
+      "total_ponderado": 96306556.00004685,
+      "percentual": 36.2227
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 23265661.7771181,
+      "total_ponderado": 96306556.00004685,
+      "percentual": 24.1579
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 11379020.37509239,
+      "total_ponderado": 96306556.00004685,
+      "percentual": 11.8154
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8415140.23981172,
+      "total_ponderado": 96306556.00004685,
+      "percentual": 8.7379
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8218911.17334717,
+      "total_ponderado": 96306556.00004685,
+      "percentual": 8.5341
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6145989.0343135,
+      "total_ponderado": 96306556.00004685,
+      "percentual": 6.3817
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3996994.24239233,
+      "total_ponderado": 96306556.00004685,
+      "percentual": 4.1503
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 35908772.37735105,
+      "total_ponderado": 92052190.00005156,
+      "percentual": 39.0091
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 21006046.35763777,
+      "total_ponderado": 92052190.00005156,
+      "percentual": 22.8197
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 8652228.50641029,
+      "total_ponderado": 92052190.00005156,
+      "percentual": 9.3993
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8188324.49195822,
+      "total_ponderado": 92052190.00005156,
+      "percentual": 8.8953
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8155902.7203981,
+      "total_ponderado": 92052190.00005156,
+      "percentual": 8.8601
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6607456.30212535,
+      "total_ponderado": 92052190.00005156,
+      "percentual": 7.1779
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3533459.24417077,
+      "total_ponderado": 92052190.00005156,
+      "percentual": 3.8385
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 34445023.43989765,
+      "total_ponderado": 97021736.00005285,
+      "percentual": 35.5024
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 23679693.48407442,
+      "total_ponderado": 97021736.00005285,
+      "percentual": 24.4066
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 11905668.2743973,
+      "total_ponderado": 97021736.00005285,
+      "percentual": 12.2711
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 8171003.04613393,
+      "total_ponderado": 97021736.00005285,
+      "percentual": 8.4218
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8151724.17054797,
+      "total_ponderado": 97021736.00005285,
+      "percentual": 8.402
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6523725.75241824,
+      "total_ponderado": 97021736.00005285,
+      "percentual": 6.724
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4144897.83258335,
+      "total_ponderado": 97021736.00005285,
+      "percentual": 4.2721
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 36052498.04462074,
+      "total_ponderado": 92687396.00009553,
+      "percentual": 38.8969
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 21400521.16216751,
+      "total_ponderado": 92687396.00009553,
+      "percentual": 23.0889
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 8977779.11138969,
+      "total_ponderado": 92687396.00009553,
+      "percentual": 9.6861
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7943109.62658641,
+      "total_ponderado": 92687396.00009553,
+      "percentual": 8.5698
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7719065.85813273,
+      "total_ponderado": 92687396.00009553,
+      "percentual": 8.3281
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6687012.27759391,
+      "total_ponderado": 92687396.00009553,
+      "percentual": 7.2146
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 3907409.91960454,
+      "total_ponderado": 92687396.00009553,
+      "percentual": 4.2157
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 34314644.19642635,
+      "total_ponderado": 97718852.00009969,
+      "percentual": 35.1157
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 24169675.25373298,
+      "total_ponderado": 97718852.00009969,
+      "percentual": 24.7339
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 12565185.78812827,
+      "total_ponderado": 97718852.00009969,
+      "percentual": 12.8585
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7844246.56166907,
+      "total_ponderado": 97718852.00009969,
+      "percentual": 8.0274
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7755912.26844733,
+      "total_ponderado": 97718852.00009969,
+      "percentual": 7.937
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6627687.18811103,
+      "total_ponderado": 97718852.00009969,
+      "percentual": 6.7824
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4441500.74358466,
+      "total_ponderado": 97718852.00009969,
+      "percentual": 4.5452
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 35646283.70098142,
+      "total_ponderado": 93290916.00012222,
+      "percentual": 38.2098
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 22088445.07831643,
+      "total_ponderado": 93290916.00012222,
+      "percentual": 23.677
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 9626733.02732806,
+      "total_ponderado": 93290916.00012222,
+      "percentual": 10.319
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7598654.3407734,
+      "total_ponderado": 93290916.00012222,
+      "percentual": 8.1451
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7291193.06627876,
+      "total_ponderado": 93290916.00012222,
+      "percentual": 7.8155
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6797792.65230385,
+      "total_ponderado": 93290916.00012222,
+      "percentual": 7.2867
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4241814.1341403,
+      "total_ponderado": 93290916.00012222,
+      "percentual": 4.5469
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 33804346.00499479,
+      "total_ponderado": 98379401.00010929,
+      "percentual": 34.3612
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 24669704.97063243,
+      "total_ponderado": 98379401.00010929,
+      "percentual": 25.0761
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 13626280.11378083,
+      "total_ponderado": 98379401.00010929,
+      "percentual": 13.8507
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7483679.37207753,
+      "total_ponderado": 98379401.00010929,
+      "percentual": 7.607
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7461786.80082223,
+      "total_ponderado": 98379401.00010929,
+      "percentual": 7.5847
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6662656.45348247,
+      "total_ponderado": 98379401.00010929,
+      "percentual": 6.7724
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4670947.28431901,
+      "total_ponderado": 98379401.00010929,
+      "percentual": 4.7479
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 34847099.81278699,
+      "total_ponderado": 93908962.00032677,
+      "percentual": 37.1073
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 22843811.34880053,
+      "total_ponderado": 93908962.00032677,
+      "percentual": 24.3255
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 10090929.80676477,
+      "total_ponderado": 93908962.00032677,
+      "percentual": 10.7454
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7661483.21129428,
+      "total_ponderado": 93908962.00032677,
+      "percentual": 8.1584
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7465557.89428933,
+      "total_ponderado": 93908962.00032677,
+      "percentual": 7.9498
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6770732.65684826,
+      "total_ponderado": 93908962.00032677,
+      "percentual": 7.2099
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4229347.26954261,
+      "total_ponderado": 93908962.00032677,
+      "percentual": 4.5037
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 33305957.38465692,
+      "total_ponderado": 99058397.00031944,
+      "percentual": 33.6225
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 25383267.70183143,
+      "total_ponderado": 99058397.00031944,
+      "percentual": 25.6245
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 14180953.26894555,
+      "total_ponderado": 99058397.00031944,
+      "percentual": 14.3158
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7355574.64265735,
+      "total_ponderado": 99058397.00031944,
+      "percentual": 7.4255
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7345499.06645956,
+      "total_ponderado": 99058397.00031944,
+      "percentual": 7.4153
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6721030.1989791,
+      "total_ponderado": 99058397.00031944,
+      "percentual": 6.7849
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4766114.73678952,
+      "total_ponderado": 99058397.00031944,
+      "percentual": 4.8114
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 32772498.18670243,
+      "total_ponderado": 94531852.00754689,
+      "percentual": 34.6682
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 23870970.20721934,
+      "total_ponderado": 94531852.00754689,
+      "percentual": 25.2518
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 11640457.99203752,
+      "total_ponderado": 94531852.00754689,
+      "percentual": 12.3138
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7682147.10699602,
+      "total_ponderado": 94531852.00754689,
+      "percentual": 8.1265
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7150626.62340983,
+      "total_ponderado": 94531852.00754689,
+      "percentual": 7.5643
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6740460.77050908,
+      "total_ponderado": 94531852.00754689,
+      "percentual": 7.1304
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4674691.12067267,
+      "total_ponderado": 94531852.00754689,
+      "percentual": 4.9451
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 31496596.11207749,
+      "total_ponderado": 99771306.00594825,
+      "percentual": 31.5688
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 26087814.65343141,
+      "total_ponderado": 99771306.00594825,
+      "percentual": 26.1476
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 15764558.64688843,
+      "total_ponderado": 99771306.00594825,
+      "percentual": 15.8007
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7485010.98337884,
+      "total_ponderado": 99771306.00594825,
+      "percentual": 7.5022
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7211982.62395828,
+      "total_ponderado": 99771306.00594825,
+      "percentual": 7.2285
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6640445.01896332,
+      "total_ponderado": 99771306.00594825,
+      "percentual": 6.6557
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 5084897.96725048,
+      "total_ponderado": 99771306.00594825,
+      "percentual": 5.0966
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 33231053.39213287,
+      "total_ponderado": 95119450.00525922,
+      "percentual": 34.9361
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 24222604.06076868,
+      "total_ponderado": 95119450.00525922,
+      "percentual": 25.4655
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 10955193.75560753,
+      "total_ponderado": 95119450.00525922,
+      "percentual": 11.5173
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7776952.0803846,
+      "total_ponderado": 95119450.00525922,
+      "percentual": 8.176
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7545982.11321175,
+      "total_ponderado": 95119450.00525922,
+      "percentual": 7.9332
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 7251589.96998341,
+      "total_ponderado": 95119450.00525922,
+      "percentual": 7.6237
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4136074.63317038,
+      "total_ponderado": 95119450.00525922,
+      "percentual": 4.3483
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 31796386.53016255,
+      "total_ponderado": 100470947.00457859,
+      "percentual": 31.6473
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 26373944.49272299,
+      "total_ponderado": 100470947.00457859,
+      "percentual": 26.2503
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 15403272.58598608,
+      "total_ponderado": 100470947.00457859,
+      "percentual": 15.3311
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7865558.24256011,
+      "total_ponderado": 100470947.00457859,
+      "percentual": 7.8287
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7539502.42670046,
+      "total_ponderado": 100470947.00457859,
+      "percentual": 7.5042
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6884621.45459072,
+      "total_ponderado": 100470947.00457859,
+      "percentual": 6.8524
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4607661.27185568,
+      "total_ponderado": 100470947.00457859,
+      "percentual": 4.5861
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 32559653.73146423,
+      "total_ponderado": 95719409.00589503,
+      "percentual": 34.0157
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 24884138.01523477,
+      "total_ponderado": 95719409.00589503,
+      "percentual": 25.997
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 11541502.38179638,
+      "total_ponderado": 95719409.00589503,
+      "percentual": 12.0576
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 8045271.88128353,
+      "total_ponderado": 95719409.00589503,
+      "percentual": 8.4051
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7313731.00171716,
+      "total_ponderado": 95719409.00589503,
+      "percentual": 7.6408
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 7231974.8511823,
+      "total_ponderado": 95719409.00589503,
+      "percentual": 7.5554
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4143137.14321667,
+      "total_ponderado": 95719409.00589503,
+      "percentual": 4.3284
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 31381296.60073389,
+      "total_ponderado": 101165354.00442566,
+      "percentual": 31.0198
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 26871653.32908332,
+      "total_ponderado": 101165354.00442566,
+      "percentual": 26.5621
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 16160746.11127004,
+      "total_ponderado": 101165354.00442566,
+      "percentual": 15.9746
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7864085.07660783,
+      "total_ponderado": 101165354.00442566,
+      "percentual": 7.7735
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7200725.83803917,
+      "total_ponderado": 101165354.00442566,
+      "percentual": 7.1178
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 7013178.80947288,
+      "total_ponderado": 101165354.00442566,
+      "percentual": 6.9324
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4673668.23921853,
+      "total_ponderado": 101165354.00442566,
+      "percentual": 4.6198
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 31895056.39867012,
+      "total_ponderado": 96347126.00608748,
+      "percentual": 33.1043
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 25850979.28770817,
+      "total_ponderado": 96347126.00608748,
+      "percentual": 26.8311
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 12167032.56543804,
+      "total_ponderado": 96347126.00608748,
+      "percentual": 12.6283
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7867582.33608967,
+      "total_ponderado": 96347126.00608748,
+      "percentual": 8.1659
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7361776.81457362,
+      "total_ponderado": 96347126.00608748,
+      "percentual": 7.6409
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 7064566.73497844,
+      "total_ponderado": 96347126.00608748,
+      "percentual": 7.3324
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4140131.86862942,
+      "total_ponderado": 96347126.00608748,
+      "percentual": 4.2971
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 30842729.45692113,
+      "total_ponderado": 101859573.00346602,
+      "percentual": 30.2797
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 27700993.11603674,
+      "total_ponderado": 101859573.00346602,
+      "percentual": 27.1953
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 16714762.02774394,
+      "total_ponderado": 101859573.00346602,
+      "percentual": 16.4096
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7788122.61308221,
+      "total_ponderado": 101859573.00346602,
+      "percentual": 7.6459
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7223971.07800401,
+      "total_ponderado": 101859573.00346602,
+      "percentual": 7.0921
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6829693.72408268,
+      "total_ponderado": 101859573.00346602,
+      "percentual": 6.705
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4759300.98759532,
+      "total_ponderado": 101859573.00346602,
+      "percentual": 4.6724
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 31427754.32053669,
+      "total_ponderado": 96944425.00141953,
+      "percentual": 32.4183
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 26804322.15989204,
+      "total_ponderado": 96944425.00141953,
+      "percentual": 27.6492
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 12770501.08790173,
+      "total_ponderado": 96944425.00141953,
+      "percentual": 13.173
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7417159.17591901,
+      "total_ponderado": 96944425.00141953,
+      "percentual": 7.6509
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7217480.41871901,
+      "total_ponderado": 96944425.00141953,
+      "percentual": 7.445
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 7199052.05364622,
+      "total_ponderado": 96944425.00141953,
+      "percentual": 7.426
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4108155.78480483,
+      "total_ponderado": 96944425.00141953,
+      "percentual": 4.2376
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 30146694.47065109,
+      "total_ponderado": 102515861.00074147,
+      "percentual": 29.4069
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 29070017.98442681,
+      "total_ponderado": 102515861.00074147,
+      "percentual": 28.3566
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 17560573.91416729,
+      "total_ponderado": 102515861.00074147,
+      "percentual": 17.1296
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7373204.30750487,
+      "total_ponderado": 102515861.00074147,
+      "percentual": 7.1923
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 7003785.69200205,
+      "total_ponderado": 102515861.00074147,
+      "percentual": 6.8319
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6589254.76254185,
+      "total_ponderado": 102515861.00074147,
+      "percentual": 6.4275
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4772329.86944751,
+      "total_ponderado": 102515861.00074147,
+      "percentual": 4.6552
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 31108597.49250778,
+      "total_ponderado": 97484107.00000195,
+      "percentual": 31.9115
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 27157161.73689202,
+      "total_ponderado": 97484107.00000195,
+      "percentual": 27.858
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 13568513.36703907,
+      "total_ponderado": 97484107.00000195,
+      "percentual": 13.9187
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7190618.20346256,
+      "total_ponderado": 97484107.00000195,
+      "percentual": 7.3762
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 7068966.64639843,
+      "total_ponderado": 97484107.00000195,
+      "percentual": 7.2514
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 6907497.25609684,
+      "total_ponderado": 97484107.00000195,
+      "percentual": 7.0858
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 4482752.29760525,
+      "total_ponderado": 97484107.00000195,
+      "percentual": 4.5984
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental incompleto ou equivalente",
+      "peso": 29792875.64299595,
+      "total_ponderado": 103117031.00000049,
+      "percentual": 28.8923
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio completo ou equivalente",
+      "peso": 29068015.63555425,
+      "total_ponderado": 103117031.00000049,
+      "percentual": 28.1893
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior completo",
+      "peso": 18756515.70917441,
+      "total_ponderado": 103117031.00000049,
+      "percentual": 18.1895
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Sem instrução e menos de 1 ano de estudo",
+      "peso": 7112530.89075354,
+      "total_ponderado": 103117031.00000049,
+      "percentual": 6.8975
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Fundamental completo ou equivalente",
+      "peso": 6798907.31767767,
+      "total_ponderado": 103117031.00000049,
+      "percentual": 6.5934
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Médio incompleto ou equivalente",
+      "peso": 6462100.12456534,
+      "total_ponderado": 103117031.00000049,
+      "percentual": 6.2668
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade": "Superior incompleto ou equivalente",
+      "peso": 5126085.67927933,
+      "total_ponderado": 103117031.00000049,
+      "percentual": 4.9711
+    }
+  ],
+  "tabela_resumo_dimensao": [
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Homem",
+      "registros_total": 271625,
+      "registros_validos": 251987,
+      "registros_excluidos": 19638,
+      "perc_excluidos": 7.2298,
+      "total_ponderado": 89271662.00000127
+    },
+    {
+      "Ano": 2012,
+      "Trimestre": 4,
+      "periodo": "2012-T4",
+      "sexo": "Mulher",
+      "registros_total": 284310,
+      "registros_validos": 265456,
+      "registros_excluidos": 18854,
+      "perc_excluidos": 6.6315,
+      "total_ponderado": 94008780.00000167
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Homem",
+      "registros_total": 279082,
+      "registros_validos": 259145,
+      "registros_excluidos": 19937,
+      "perc_excluidos": 7.1438,
+      "total_ponderado": 90043151.00000578
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 4,
+      "periodo": "2013-T4",
+      "sexo": "Mulher",
+      "registros_total": 290160,
+      "registros_validos": 270882,
+      "registros_excluidos": 19278,
+      "perc_excluidos": 6.6439,
+      "total_ponderado": 94839234.00000501
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Homem",
+      "registros_total": 281809,
+      "registros_validos": 262315,
+      "registros_excluidos": 19494,
+      "perc_excluidos": 6.9175,
+      "total_ponderado": 90747787.00006294
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 4,
+      "periodo": "2014-T4",
+      "sexo": "Mulher",
+      "registros_total": 293178,
+      "registros_validos": 274326,
+      "registros_excluidos": 18852,
+      "perc_excluidos": 6.4302,
+      "total_ponderado": 95599180.00006083
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Homem",
+      "registros_total": 275882,
+      "registros_validos": 257075,
+      "registros_excluidos": 18807,
+      "perc_excluidos": 6.817,
+      "total_ponderado": 91398303.00004439
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 4,
+      "periodo": "2015-T4",
+      "sexo": "Mulher",
+      "registros_total": 286989,
+      "registros_validos": 269104,
+      "registros_excluidos": 17885,
+      "perc_excluidos": 6.2319,
+      "total_ponderado": 96306556.00004685
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Homem",
+      "registros_total": 279825,
+      "registros_validos": 260826,
+      "registros_excluidos": 18999,
+      "perc_excluidos": 6.7896,
+      "total_ponderado": 92052190.00005156
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 4,
+      "periodo": "2016-T4",
+      "sexo": "Mulher",
+      "registros_total": 290731,
+      "registros_validos": 272721,
+      "registros_excluidos": 18010,
+      "perc_excluidos": 6.1947,
+      "total_ponderado": 97021736.00005285
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Homem",
+      "registros_total": 274650,
+      "registros_validos": 256284,
+      "registros_excluidos": 18366,
+      "perc_excluidos": 6.6871,
+      "total_ponderado": 92687396.00009553
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 4,
+      "periodo": "2017-T4",
+      "sexo": "Mulher",
+      "registros_total": 286638,
+      "registros_validos": 269076,
+      "registros_excluidos": 17562,
+      "perc_excluidos": 6.1269,
+      "total_ponderado": 97718852.00009969
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Homem",
+      "registros_total": 270663,
+      "registros_validos": 252827,
+      "registros_excluidos": 17836,
+      "perc_excluidos": 6.5897,
+      "total_ponderado": 93290916.00012222
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 4,
+      "periodo": "2018-T4",
+      "sexo": "Mulher",
+      "registros_total": 283548,
+      "registros_validos": 266430,
+      "registros_excluidos": 17118,
+      "perc_excluidos": 6.0371,
+      "total_ponderado": 98379401.00010929
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Homem",
+      "registros_total": 264525,
+      "registros_validos": 247222,
+      "registros_excluidos": 17303,
+      "perc_excluidos": 6.5412,
+      "total_ponderado": 93908962.00032677
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 4,
+      "periodo": "2019-T4",
+      "sexo": "Mulher",
+      "registros_total": 278277,
+      "registros_validos": 261624,
+      "registros_excluidos": 16653,
+      "perc_excluidos": 5.9843,
+      "total_ponderado": 99058397.00031944
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Homem",
+      "registros_total": 161858,
+      "registros_validos": 152317,
+      "registros_excluidos": 9541,
+      "perc_excluidos": 5.8947,
+      "total_ponderado": 94531852.00754689
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 4,
+      "periodo": "2020-T4",
+      "sexo": "Mulher",
+      "registros_total": 173708,
+      "registros_validos": 164430,
+      "registros_excluidos": 9278,
+      "perc_excluidos": 5.3411,
+      "total_ponderado": 99771306.00594825
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Homem",
+      "registros_total": 223980,
+      "registros_validos": 210419,
+      "registros_excluidos": 13561,
+      "perc_excluidos": 6.0546,
+      "total_ponderado": 95119450.00525922
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 4,
+      "periodo": "2021-T4",
+      "sexo": "Mulher",
+      "registros_total": 237815,
+      "registros_validos": 224859,
+      "registros_excluidos": 12956,
+      "perc_excluidos": 5.4479,
+      "total_ponderado": 100470947.00457859
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Homem",
+      "registros_total": 232029,
+      "registros_validos": 217895,
+      "registros_excluidos": 14134,
+      "perc_excluidos": 6.0915,
+      "total_ponderado": 95719409.00589503
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 4,
+      "periodo": "2022-T4",
+      "sexo": "Mulher",
+      "registros_total": 246062,
+      "registros_validos": 232591,
+      "registros_excluidos": 13471,
+      "perc_excluidos": 5.4746,
+      "total_ponderado": 101165354.00442566
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Homem",
+      "registros_total": 228456,
+      "registros_validos": 214663,
+      "registros_excluidos": 13793,
+      "perc_excluidos": 6.0375,
+      "total_ponderado": 96347126.00608748
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 4,
+      "periodo": "2023-T4",
+      "sexo": "Mulher",
+      "registros_total": 244750,
+      "registros_validos": 231488,
+      "registros_excluidos": 13262,
+      "perc_excluidos": 5.4186,
+      "total_ponderado": 101859573.00346602
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Homem",
+      "registros_total": 226358,
+      "registros_validos": 213008,
+      "registros_excluidos": 13350,
+      "perc_excluidos": 5.8977,
+      "total_ponderado": 96944425.00141953
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 4,
+      "periodo": "2024-T4",
+      "sexo": "Mulher",
+      "registros_total": 242976,
+      "registros_validos": 230157,
+      "registros_excluidos": 12819,
+      "perc_excluidos": 5.2758,
+      "total_ponderado": 102515861.00074147
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Homem",
+      "registros_total": 240379,
+      "registros_validos": 226182,
+      "registros_excluidos": 14197,
+      "perc_excluidos": 5.9061,
+      "total_ponderado": 97484107.00000195
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 4,
+      "periodo": "2025-T4",
+      "sexo": "Mulher",
+      "registros_total": 258115,
+      "registros_validos": 244547,
+      "registros_excluidos": 13568,
+      "perc_excluidos": 5.2566,
+      "total_ponderado": 103117031.00000049
+    }
+  ],
+  "tabela_resumo_arquivo": [
+    {
+      "arquivo": "pnadc_2012_t4_recorte.rds",
+      "ano_trimestre_nome": "2012T4",
+      "registros_total": 555935,
+      "registros_validos": 517443,
+      "registros_excluidos": 38492,
+      "perc_excluidos": 6.9238,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2013_t4_recorte.rds",
+      "ano_trimestre_nome": "2013T4",
+      "registros_total": 569242,
+      "registros_validos": 530027,
+      "registros_excluidos": 39215,
+      "perc_excluidos": 6.889,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2014_t4_recorte.rds",
+      "ano_trimestre_nome": "2014T4",
+      "registros_total": 574987,
+      "registros_validos": 536641,
+      "registros_excluidos": 38346,
+      "perc_excluidos": 6.669,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2015_t4_recorte.rds",
+      "ano_trimestre_nome": "2015T4",
+      "registros_total": 562871,
+      "registros_validos": 526179,
+      "registros_excluidos": 36692,
+      "perc_excluidos": 6.5187,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2016_t4_recorte.rds",
+      "ano_trimestre_nome": "2016T4",
+      "registros_total": 570556,
+      "registros_validos": 533547,
+      "registros_excluidos": 37009,
+      "perc_excluidos": 6.4865,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2017_t4_recorte.rds",
+      "ano_trimestre_nome": "2017T4",
+      "registros_total": 561288,
+      "registros_validos": 525360,
+      "registros_excluidos": 35928,
+      "perc_excluidos": 6.401,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2018_t4_recorte.rds",
+      "ano_trimestre_nome": "2018T4",
+      "registros_total": 554211,
+      "registros_validos": 519257,
+      "registros_excluidos": 34954,
+      "perc_excluidos": 6.307,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2019_t4_recorte.rds",
+      "ano_trimestre_nome": "2019T4",
+      "registros_total": 542802,
+      "registros_validos": 508846,
+      "registros_excluidos": 33956,
+      "perc_excluidos": 6.2557,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2020_t4_recorte.rds",
+      "ano_trimestre_nome": "2020T4",
+      "registros_total": 335566,
+      "registros_validos": 316747,
+      "registros_excluidos": 18819,
+      "perc_excluidos": 5.6081,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2021_t4_recorte.rds",
+      "ano_trimestre_nome": "2021T4",
+      "registros_total": 461795,
+      "registros_validos": 435278,
+      "registros_excluidos": 26517,
+      "perc_excluidos": 5.7422,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2022_t4_recorte.rds",
+      "ano_trimestre_nome": "2022T4",
+      "registros_total": 478091,
+      "registros_validos": 450486,
+      "registros_excluidos": 27605,
+      "perc_excluidos": 5.774,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2023_t4_recorte.rds",
+      "ano_trimestre_nome": "2023T4",
+      "registros_total": 473206,
+      "registros_validos": 446151,
+      "registros_excluidos": 27055,
+      "perc_excluidos": 5.7174,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2024_t4_recorte.rds",
+      "ano_trimestre_nome": "2024T4",
+      "registros_total": 469334,
+      "registros_validos": 443165,
+      "registros_excluidos": 26169,
+      "perc_excluidos": 5.5758,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    },
+    {
+      "arquivo": "pnadc_2025_t4_recorte.rds",
+      "ano_trimestre_nome": "2025T4",
+      "registros_total": 498494,
+      "registros_validos": 470729,
+      "registros_excluidos": 27765,
+      "perc_excluidos": 5.5698,
+      "registros_sem_periodo_valido": 0,
+      "registros_sem_sexo": 0
+    }
+  ]
+}

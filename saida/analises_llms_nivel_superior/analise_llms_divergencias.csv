@@ -1,0 +1,60 @@
+codigo;nome;codex_gpt5;deepseek_v3;gemini_3_1_pro;gpt_5_5_thinking;grok_xai;n_modelos_superior;n_modelos_nao_superior;consenso_maioria;padrao_votos
+1111;Legisladores;0;0;0;0;1;1;4;0;00001
+1114;Dirigentes de organizações que apresentam um interesse especial;0;0;0;0;1;1;4;0;00001
+1311;Dirigentes de produção agropecuária e silvicultura;0;0;0;0;1;1;4;0;00001
+1312;Dirigentes de produção da aquicultura e pesca;0;0;0;0;1;1;4;0;00001
+1321;Dirigentes de indústria de transformação;0;0;0;0;1;1;4;0;00001
+1322;Dirigentes de explorações de mineração;0;0;0;0;1;1;4;0;00001
+1323;Dirigentes de empresas de construção;0;0;0;0;1;1;4;0;00001
+1324;Dirigentes de empresas de abastecimento, distribuição e afins;0;0;0;0;1;1;4;0;00001
+2163;Desenhistas de produtos e  vestuário;1;0;0;0;0;1;4;0;10000
+2166;Desenhistas gráficos e de multimídia;1;0;0;0;0;1;4;0;10000
+2240;Paramédicos;0;1;0;0;0;1;4;0;01000
+2356;Instrutores em tecnologias da informação;1;0;0;0;0;1;4;0;10000
+2641;Escritores;0;1;0;0;0;1;4;0;01000
+3153;Pilotos de aviação e afins;0;0;0;0;1;1;4;0;00001
+3154;Controladores de tráfego aéreo;0;0;0;0;1;1;4;0;00001
+1112;Dirigentes superiores da administração pública;1;0;0;0;1;2;3;0;10001
+1120;Diretores gerais e gerentes gerais;1;0;0;0;1;2;3;0;10001
+1211;Dirigentes financeiros;1;0;0;0;1;2;3;0;10001
+1212;Dirigentes de recursos humanos;1;0;0;0;1;2;3;0;10001
+1213;Dirigentes de políticas e planejamento;1;0;0;0;1;2;3;0;10001
+1219;Dirigentes de administração e de serviços não classificados anteriormente;1;0;0;0;1;2;3;0;10001
+1221;Dirigentes de vendas e  comercialização;1;0;0;0;1;2;3;0;10001
+1222;Dirigentes de publicidade e relações públicas;1;0;0;0;1;2;3;0;10001
+1346;Gerentes de sucursais de bancos, de serviços financeiros e de seguros;1;0;0;0;1;2;3;0;10001
+2230;Profissionais da medicina tradicional e alternativa;0;1;0;0;1;2;3;0;01001
+2431;Profissionais da publicidade e da comercialização;1;1;0;0;0;2;3;0;11000
+2433;Profissionais de vendas técnicas e médicas (exclusive tic);1;1;0;0;0;2;3;0;11000
+2434;Profissionais de vendas de tecnologia da informação e comunicações;1;1;0;0;0;2;3;0;11000
+2643;Tradutores, intérpretes e linguistas;1;1;0;0;0;2;3;0;11000
+1223;Dirigentes de pesquisa e desenvolvimento;1;0;0;1;1;3;2;1;10011
+1330;Dirigentes de serviços de tecnologia da informação e comunicações;1;0;0;1;1;3;2;1;10011
+1342;Dirigentes de serviços de saúde;1;0;0;1;1;3;2;1;10011
+1344;Dirigentes de serviços de bem-estar social;1;0;0;1;1;3;2;1;10011
+1345;Dirigentes de serviços de educação;1;0;0;1;1;3;2;1;10011
+1349;Dirigentes e gerentes de serviços profissionais não classificados anteriormente;1;0;0;1;1;3;2;1;10011
+2320;Professores de formação profissional;1;0;1;0;1;3;2;1;10101
+2412;Assessores financeiros e em investimentos;1;1;0;0;1;3;2;1;11001
+2642;Jornalistas;1;1;0;0;1;3;2;1;11001
+0110;Oficiais das forças armadas;1;0;1;1;1;4;1;1;10111
+0411;Oficiais de polícia militar;1;0;1;1;1;4;1;1;10111
+0511;Oficiais de bombeiro militar;1;0;1;1;1;4;1;1;10111
+2342;Professores do ensino pré-escolar;1;1;1;1;0;4;1;1;11110
+2359;Profissionais de ensino não classificados anteriormente;1;1;1;1;0;4;1;1;11110
+2413;Analistas financeiros;1;1;0;1;1;4;1;1;11011
+2421;Analistas de gestão e administração;1;1;0;1;1;4;1;1;11011
+2422;Especialistas em políticas de administração;1;1;0;1;1;4;1;1;11011
+2423;Especialistas em políticas e serviços de pessoal e afins;1;1;0;1;1;4;1;1;11011
+2424;Especialistas em formação de pessoal;1;1;0;1;1;4;1;1;11011
+2432;Profissionais de relações públicas;1;1;1;1;0;4;1;1;11110
+2511;Analistas de sistemas;1;1;0;1;1;4;1;1;11011
+2512;Desenvolvedores de programas e aplicativos (software);1;1;0;1;1;4;1;1;11011
+2513;Desenvolvedores de páginas de internet (web) e multimídia;1;1;0;1;1;4;1;1;11011
+2514;Programadores de aplicações;1;1;0;1;1;4;1;1;11011
+2519;Desenvolvedores e analistas de programas e aplicativos (software) e multimídia não classificados anteriormente;1;1;0;1;1;4;1;1;11011
+2521;Desenhistas e administradores de bases de dados;1;1;0;1;1;4;1;1;11011
+2522;Administradores de sistemas;1;1;0;1;1;4;1;1;11011
+2523;Profissionais em rede de computadores;1;1;0;1;1;4;1;1;11011
+2529;Especialistas em base de dados e em redes de computadores não classificados anteriormente;1;1;0;1;1;4;1;1;11011
+2622;Bibliotecários, documentaristas e afins;1;1;1;1;0;4;1;1;11110

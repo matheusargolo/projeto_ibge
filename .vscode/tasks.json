@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "R: executar arquivo atual",
+      "type": "shell",
+      "command": "C:\\Program Files\\R\\R-4.5.3\\bin\\Rscript.exe",
+      "args": [
+        "${file}"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "R: mostrar versao",
+      "type": "shell",
+      "command": "C:\\Program Files\\R\\R-4.5.3\\bin\\Rscript.exe",
+      "args": [
+        "--version"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}

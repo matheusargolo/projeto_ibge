@@ -1,0 +1,60 @@
+codigo;nome;tema_revisao;codex_gpt5;deepseek_v3;gemini_3_1_pro;gpt_5_5_thinking;grok_xai;n_modelos_superior;n_modelos_nao_superior;sugestao_por_maioria;nivel_superior_final;observacao_orientador;peso_total;n_total;peso_superior;n_superior;pct_superior_na_ocupacao_2025_t4;voto_ponderado_ia;sugestao_ia_ponderada;sugestao_empirica_2025_t4;sugestao_hibrida;flag_revisao;dist_05
+1223;Dirigentes de pesquisa e desenvolvimento;dirigentes e gerentes;1;0;0;1;1;3;2;1;;;NA;NA;NA;NA;NA;0.555555555555556;1;NA;1;OK_AUTO;0.0555555555555556
+1342;Dirigentes de serviços de saúde;dirigentes e gerentes;1;0;0;1;1;3;2;1;;;734.25545814;3;623.41861082;2;84.9049;0.555555555555556;1;1;1;OK_AUTO;0.0555555555555556
+1345;Dirigentes de serviços de educação;dirigentes e gerentes;1;0;0;1;1;3;2;1;;;NA;NA;NA;NA;NA;0.555555555555556;1;NA;1;OK_AUTO;0.0555555555555556
+1349;Dirigentes e gerentes de serviços profissionais não classificados anteriormente;dirigentes e gerentes;1;0;0;1;1;3;2;1;;;NA;NA;NA;NA;NA;0.555555555555556;1;NA;1;OK_AUTO;0.0555555555555556
+2320;Professores de formação profissional;ensino;1;0;1;0;1;3;2;1;;;6348.64466073;10;2096.20355273;3;33.0181;0.555555555555556;1;NA;1;OK_AUTO;0.0555555555555556
+2412;Assessores financeiros e em investimentos;administracao, financas, comunicacao e vendas tecnicas;1;1;0;0;1;3;2;1;;;666.02340034;3;533.32152903;2;80.0755;0.555555555555556;1;1;1;OK_AUTO;0.0555555555555556
+2433;Profissionais de vendas técnicas e médicas (exclusive tic);administracao, financas, comunicacao e vendas tecnicas;1;1;0;0;0;2;3;0;;;NA;NA;NA;NA;NA;0.444444444444444;0;NA;0;OK_AUTO;0.0555555555555556
+2434;Profissionais de vendas de tecnologia da informação e comunicações;administracao, financas, comunicacao e vendas tecnicas;1;1;0;0;0;2;3;0;;;632.034341;1;0;0;0;0.444444444444444;0;0;0;OK_AUTO;0.0555555555555556
+2642;Jornalistas;cultura, comunicacao e linguagens;1;1;0;0;1;3;2;1;;;NA;NA;NA;NA;NA;0.555555555555556;1;NA;1;OK_AUTO;0.0555555555555556
+2643;Tradutores, intérpretes e linguistas;cultura, comunicacao e linguagens;1;1;0;0;0;2;3;0;;;NA;NA;NA;NA;NA;0.444444444444444;0;NA;0;OK_AUTO;0.0555555555555556
+1112;Dirigentes superiores da administração pública;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;NA;NA;NA;NA;NA;0.333333333333333;0;NA;0;OK_AUTO;0.166666666666667
+1120;Diretores gerais e gerentes gerais;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;13233.26405124;43;1703.52636287;7;12.8731;0.333333333333333;0;0;0;OK_AUTO;0.166666666666667
+1213;Dirigentes de políticas e planejamento;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;NA;NA;NA;NA;NA;0.333333333333333;0;NA;0;OK_AUTO;0.166666666666667
+1219;Dirigentes de administração e de serviços não classificados anteriormente;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;NA;NA;NA;NA;NA;0.333333333333333;0;NA;0;OK_AUTO;0.166666666666667
+1221;Dirigentes de vendas e  comercialização;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;NA;NA;NA;NA;NA;0.333333333333333;0;NA;0;OK_AUTO;0.166666666666667
+1222;Dirigentes de publicidade e relações públicas;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;NA;NA;NA;NA;NA;0.333333333333333;0;NA;0;OK_AUTO;0.166666666666667
+1346;Gerentes de sucursais de bancos, de serviços financeiros e de seguros;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;NA;NA;NA;NA;NA;0.333333333333333;0;NA;0;OK_AUTO;0.166666666666667
+2230;Profissionais da medicina tradicional e alternativa;saude;0;1;0;0;1;2;3;0;;;6321.188154;12;1889.48525501;5;29.8913;0.333333333333333;0;NA;0;OK_AUTO;0.166666666666667
+0110;Oficiais das forças armadas;oficiais militares/policiais/bombeiros;1;0;1;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+0411;Oficiais de polícia militar;oficiais militares/policiais/bombeiros;1;0;1;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+0511;Oficiais de bombeiro militar;oficiais militares/policiais/bombeiros;1;0;1;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2163;Desenhistas de produtos e  vestuário;design, arquitetura e desenho;1;0;0;0;0;1;4;0;;;523.54099196;1;0;0;0;0.222222222222222;0;0;0;OK_AUTO;0.277777777777778
+2166;Desenhistas gráficos e de multimídia;design, arquitetura e desenho;1;0;0;0;0;1;4;0;;;688.95736481;4;0;0;0;0.222222222222222;0;0;0;OK_AUTO;0.277777777777778
+2240;Paramédicos;saude;0;1;0;0;0;1;4;0;;;3878.22026453;11;186.38780183;1;4.806;0.222222222222222;0;0;0;OK_AUTO;0.277777777777778
+2356;Instrutores em tecnologias da informação;ensino;1;0;0;0;0;1;4;0;;;NA;NA;NA;NA;NA;0.222222222222222;0;NA;0;OK_AUTO;0.277777777777778
+2413;Analistas financeiros;administracao, financas, comunicacao e vendas tecnicas;1;1;0;1;1;4;1;1;;;241.05589291;1;241.05589291;1;100;0.777777777777778;1;1;1;OK_AUTO;0.277777777777778
+2421;Analistas de gestão e administração;administracao, financas, comunicacao e vendas tecnicas;1;1;0;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2422;Especialistas em políticas de administração;administracao, financas, comunicacao e vendas tecnicas;1;1;0;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2423;Especialistas em políticas e serviços de pessoal e afins;administracao, financas, comunicacao e vendas tecnicas;1;1;0;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2424;Especialistas em formação de pessoal;administracao, financas, comunicacao e vendas tecnicas;1;1;0;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2511;Analistas de sistemas;tecnologia da informacao;1;1;0;1;1;4;1;1;;;1246.61649428;2;1160.13709815;1;93.0629;0.777777777777778;1;1;1;OK_AUTO;0.277777777777778
+2512;Desenvolvedores de programas e aplicativos (software);tecnologia da informacao;1;1;0;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2513;Desenvolvedores de páginas de internet (web) e multimídia;tecnologia da informacao;1;1;0;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2529;Especialistas em base de dados e em redes de computadores não classificados anteriormente;tecnologia da informacao;1;1;0;1;1;4;1;1;;;NA;NA;NA;NA;NA;0.777777777777778;1;NA;1;OK_AUTO;0.277777777777778
+2641;Escritores;cultura, comunicacao e linguagens;0;1;0;0;0;1;4;0;;;NA;NA;NA;NA;NA;0.222222222222222;0;NA;0;OK_AUTO;0.277777777777778
+2342;Professores do ensino pré-escolar;ensino;1;1;1;1;0;4;1;1;;;546.30512881;3;409.62916918;1;74.9818;0.888888888888889;1;1;1;OK_AUTO;0.388888888888889
+2432;Profissionais de relações públicas;administracao, financas, comunicacao e vendas tecnicas;1;1;1;1;0;4;1;1;;;NA;NA;NA;NA;NA;0.888888888888889;1;NA;1;OK_AUTO;0.388888888888889
+2622;Bibliotecários, documentaristas e afins;outros casos ambiguos;1;1;1;1;0;4;1;1;;;NA;NA;NA;NA;NA;0.888888888888889;1;NA;1;OK_AUTO;0.388888888888889
+1111;Legisladores;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+1114;Dirigentes de organizações que apresentam um interesse especial;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+1311;Dirigentes de produção agropecuária e silvicultura;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+1312;Dirigentes de produção da aquicultura e pesca;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+1321;Dirigentes de indústria de transformação;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+1323;Dirigentes de empresas de construção;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+1324;Dirigentes de empresas de abastecimento, distribuição e afins;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+3154;Controladores de tráfego aéreo;aviacao e trafego aereo;0;0;0;0;1;1;4;0;;;NA;NA;NA;NA;NA;0.111111111111111;0;NA;0;OK_AUTO;0.388888888888889
+1330;Dirigentes de serviços de tecnologia da informação e comunicações;dirigentes e gerentes;1;0;0;1;1;3;2;1;;;1996.74136662;7;384.73648886;3;19.2682;0.555555555555556;1;0;NA;REVISAR_COM_ORIENTADOR;0.0555555555555556
+1344;Dirigentes de serviços de bem-estar social;dirigentes e gerentes;1;0;0;1;1;3;2;1;;;99.78891997;1;0;0;0;0.555555555555556;1;0;NA;REVISAR_COM_ORIENTADOR;0.0555555555555556
+2431;Profissionais da publicidade e da comercialização;administracao, financas, comunicacao e vendas tecnicas;1;1;0;0;0;2;3;0;;;387.89299917;1;387.89299917;1;100;0.444444444444444;0;1;NA;REVISAR_COM_ORIENTADOR;0.0555555555555556
+1211;Dirigentes financeiros;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;109.68707958;1;109.68707958;1;100;0.333333333333333;0;1;NA;REVISAR_COM_ORIENTADOR;0.166666666666667
+1212;Dirigentes de recursos humanos;dirigentes e gerentes;1;0;0;0;1;2;3;0;;;1433.07389976;1;1433.07389976;1;100;0.333333333333333;0;1;NA;REVISAR_COM_ORIENTADOR;0.166666666666667
+2514;Programadores de aplicações;tecnologia da informacao;1;1;0;1;1;4;1;1;;;103.70217186;1;0;0;0;0.777777777777778;1;0;NA;REVISAR_COM_ORIENTADOR;0.277777777777778
+2519;Desenvolvedores e analistas de programas e aplicativos (software) e multimídia não classificados anteriormente;tecnologia da informacao;1;1;0;1;1;4;1;1;;;539.3584559;1;0;0;0;0.777777777777778;1;0;NA;REVISAR_COM_ORIENTADOR;0.277777777777778
+2521;Desenhistas e administradores de bases de dados;tecnologia da informacao;1;1;0;1;1;4;1;1;;;55.74465721;1;0;0;0;0.777777777777778;1;0;NA;REVISAR_COM_ORIENTADOR;0.277777777777778
+2522;Administradores de sistemas;tecnologia da informacao;1;1;0;1;1;4;1;1;;;884.26542299;1;0;0;0;0.777777777777778;1;0;NA;REVISAR_COM_ORIENTADOR;0.277777777777778
+2523;Profissionais em rede de computadores;tecnologia da informacao;1;1;0;1;1;4;1;1;;;179.81495406;1;0;0;0;0.777777777777778;1;0;NA;REVISAR_COM_ORIENTADOR;0.277777777777778
+2359;Profissionais de ensino não classificados anteriormente;ensino;1;1;1;1;0;4;1;1;;;345.79997214;1;0;0;0;0.888888888888889;1;0;NA;REVISAR_COM_ORIENTADOR;0.388888888888889
+1322;Dirigentes de explorações de mineração;dirigentes e gerentes;0;0;0;0;1;1;4;0;;;181.96793499;1;181.96793499;1;100;0.111111111111111;0;1;NA;REVISAR_COM_ORIENTADOR;0.388888888888889
+3153;Pilotos de aviação e afins;aviacao e trafego aereo;0;0;0;0;1;1;4;0;;;609.15989686;1;609.15989686;1;100;0.111111111111111;0;1;NA;REVISAR_COM_ORIENTADOR;0.388888888888889

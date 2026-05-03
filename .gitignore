@@ -1,0 +1,11 @@
+# Brutos PNADC baixados (zip/txt) na pasta de dados
+dados_pnadc/PNADC*
+
+# Recortes CSV PNADC gerados na pasta de saida
+saida/pnadc*.csv
+
+# Recortes RDS PNADC gerados na pasta de saida
+saida/pnadc*.rds
+
+# Cache RDS de base consolidada
+saida/base_pnadc_sobreeducacao.rds

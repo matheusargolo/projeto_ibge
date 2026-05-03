@@ -1,0 +1,61 @@
+Voce recebera um arquivo CSV chamado ocupacoes_cod2010.csv, separado por ponto-e-virgula (;), com duas colunas:
+
+codigo;nome
+
+Cada linha representa uma ocupacao da Classificacao de Ocupacoes para Pesquisas Domiciliares - COD 2010, usada na PNAD Continua do IBGE.
+
+Tarefa:
+Classifique cada ocupacao de forma binaria, indicando se ela deve ser considerada uma "ocupacao de nivel superior".
+
+Definicao operacional:
+Uma "ocupacao de nivel superior" e uma ocupacao que, em tese, normalmente exigiria ensino superior completo para entrada ou exercicio regular da funcao.
+
+Importante:
+Nao classifique com base em quantas pessoas diplomadas trabalham na ocupacao.
+Nao classifique com base no prestigio, renda ou complexidade informal da ocupacao.
+Classifique com base na exigencia tipica da propria ocupacao.
+
+Exemplos de interpretacao:
+- Medicos, engenheiros, advogados, professores universitarios, dentistas, psicologos e arquitetos devem ser classificados como ocupacoes de nivel superior.
+- Tecnicos, auxiliares, vendedores, trabalhadores administrativos, trabalhadores de servicos, operadores, trabalhadores manuais e ocupacoes elementares geralmente nao devem ser classificados como nivel superior.
+- Se a ocupacao puder ser exercida tipicamente sem diploma superior formal, classifique como 0, mesmo que muitas pessoas com diploma trabalhem nela.
+- Em casos ambiguos, seja conservador: marque 1 apenas quando a exigencia de nivel superior for razoavelmente clara.
+
+Saida obrigatoria:
+Gere um novo CSV separado por ponto-e-virgula (;), preservando exatamente as colunas originais e acrescentando uma terceira coluna chamada nivel_superior.
+
+Nome do arquivo de saida:
+O arquivo gerado deve se chamar:
+
+ocupacoes_cod2010_nivel_superior_IDENTIFICACAO_DO_MODELO.csv
+
+Substitua IDENTIFICACAO_DO_MODELO por uma identificacao curta do modelo que realizou a classificacao, usando apenas letras minusculas, numeros e underscores.
+
+Exemplos:
+- ocupacoes_cod2010_nivel_superior_codex_gpt5.csv
+- ocupacoes_cod2010_nivel_superior_claude_sonnet_4_5.csv
+- ocupacoes_cod2010_nivel_superior_gemini_2_5_pro.csv
+- ocupacoes_cod2010_nivel_superior_gpt_5.csv
+
+Formato exato do CSV:
+codigo;nome;nivel_superior
+
+Valores permitidos para nivel_superior:
+1 = ocupacao de nivel superior
+0 = nao e ocupacao de nivel superior
+
+Regras de saida:
+- Mantenha todos os codigos exatamente como aparecem no arquivo original, incluindo zeros a esquerda.
+- Mantenha todos os nomes exatamente como aparecem no arquivo original.
+- Nao remova, reordene ou agrupe linhas.
+- Nao acrescente comentarios, justificativas ou colunas extras dentro do CSV.
+- A saida final deve conter exatamente 434 linhas de dados mais uma linha de cabecalho.
+- Use codificacao UTF-8.
+- Se quiser explicar seu criterio, faca isso separadamente, fora do CSV.
+
+Antes de finalizar, verifique:
+- O nome do arquivo segue o padrao ocupacoes_cod2010_nivel_superior_IDENTIFICACAO_DO_MODELO.csv.
+- O CSV final tem 3 colunas.
+- A coluna nivel_superior contem apenas 0 ou 1.
+- O numero de linhas e igual ao arquivo original.
+- Nenhum codigo foi alterado.
