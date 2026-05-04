@@ -1,7 +1,67 @@
-A leitura geral dos arquivos JSON em saida mostra um padrao bem claro sobre sobreeducacao no Brasil. Entre 2012-T4 e 2025-T4, o numero ponderado de sobreeducados passou de aproximadamente 6,33 milhoes para 13,43 milhoes, um crescimento de cerca de 112 por cento. Ao mesmo tempo, a taxa de sobreeducacao entre pessoas com superior completo e ocupacao classificada subiu de 49,1 por cento para 51,8 por cento, ou seja, aumentou apenas alguns pontos percentuais. Isso indica que o salto no numero absoluto de sobreeducados parece estar muito ligado a ampliacao do contingente de pessoas com ensino superior, e nao a uma piora abrupta da taxa em si. Em linha com isso, a participacao de superior completo na distribuicao de nivel de instrucao avancou de 8,8 por cento para 16,1 por cento no mesmo intervalo.
+﻿RESUMO EXECUTIVO DAS ANÁLISES DE SOBREEDUCAÇÃO (PNAD Contínua)
 
-No recorte mais recente, 2025-T4, aparecem diferencas importantes entre grupos. Por regiao, a maior taxa de sobreeducacao esta no Centro-Oeste, seguido por Norte e Sul, enquanto o Nordeste apresenta a menor taxa. Em volume, porem, o Sudeste concentra quase metade dos sobreeducados, o que reflete o tamanho do mercado de trabalho regional. Por sexo, os homens exibem taxa de sobreeducacao maior do que as mulheres, mas a participacao de cada sexo no total de sobreeducados fica praticamente equilibrada. Por raca/cor, as maiores taxas aparecem em Amarela, Preta e Parda, enquanto Branca fica um pouco abaixo, mas em termos de massa total os grupos Branca e Parda concentram a maior parte dos sobreeducados. No recorte por UF, ha estados com taxas bem elevadas como Roraima, Mato Grosso, Acre, Para e Goias, e outros com taxas menores como Rio de Janeiro, Alagoas, Paraiba, Maranhao e Pernambuco.
+Período analisado: de 2012-T4 a 2025-T4 (14 períodos, com foco no 4º trimestre de cada ano disponível localmente).
 
-Quando olhamos ocupacoes, uma parte relevante da sobreeducacao se concentra em poucas categorias. Escriturarios gerais aparecem como principal contribuinte para o total de sobreeducados, seguidos por ocupacoes de comercio e algumas funcoes de direcao e supervisao administrativa. Ja as menores proporcoes de sobreeducacao, especialmente em ocupacoes com base amostral razoavel, aparecem em carreiras com exigencia tecnica mais rigida de formacao superior, como medicina, enfermagem, odontologia e docencia. Esse contraste reforca a ideia de que a sobreeducacao se concentra mais em ocupacoes de entrada ampla ou de menor barreira formal de credencial.
+1) Evolução agregada no Brasil
 
-A parte de remuneracao tambem traz um sinal forte. No ultimo periodo, a renda habitual media ponderada dos sobreeducados ficou abaixo da dos nao sobreeducados com superior completo, com diferenca de aproximadamente 25 por cento. Em paralelo, ocupacoes classificadas como exigentes de nivel superior pagam, em media, bem mais do que ocupacoes classificadas como nao exigentes. Em termos agregados, os resultados sugerem que o Brasil expandiu rapidamente o acesso ao ensino superior, mas o mercado de trabalho nao absorveu esse aumento de forma totalmente alinhada em ocupacoes de maior exigencia de qualificacao, produzindo um contingente expressivo de trabalhadores sobreeducados e com penalidade salarial associada.
+Entre 2012-T4 e 2025-T4, o número ponderado de sobreeducados passou de 6.331.093 para 13.434.053 pessoas, crescimento de 112,2%. No mesmo intervalo, a taxa de sobreeducação entre pessoas com superior completo em ocupações classificadas subiu de 49,13% para 51,77% (alta de 2,64 pontos percentuais). Em paralelo, a participação de pessoas com superior completo na distribuição do nível de instrução da população aumentou de 8,77% para 16,11% (alta de 7,34 pontos percentuais).
+
+Esse conjunto de resultados indica que o crescimento do número absoluto de sobreeducados foi muito mais intenso do que a variação da taxa, em linha com a expansão da escolaridade superior no período.
+
+2) Recorte mais recente: 2025-T4
+
+2.1) Sexo
+- Homens: taxa de sobreeducação de 57,30%.
+- Mulheres: taxa de sobreeducação de 47,23%.
+- Diferença: 10,07 pontos percentuais a mais entre homens.
+- Participação no total de sobreeducados: homens 49,83% e mulheres 50,17%.
+
+2.2) Região
+- Maior taxa: Centro-Oeste (55,20%).
+- Menor taxa: Nordeste (47,61%).
+- Diferença entre maior e menor taxa regional: 7,59 pontos percentuais.
+- Participação no total de sobreeducados: Sudeste 49,20% (maior concentração), Sul 17,70%, Nordeste 16,68%, Centro-Oeste 9,99% e Norte 6,43%.
+
+2.3) Cor ou raça
+- Maior taxa: Amarela (58,40%).
+- Menor taxa: Indígena (46,18%).
+- Grupos com maior participação no total de sobreeducados: Branca 58,49%, Parda 31,73% e Preta 8,14%.
+- Observação: embora a taxa da categoria Amarela seja a maior, sua participação no total é de 1,35%.
+
+2.4) Unidade da Federação (UF)
+- Maiores taxas: Roraima (59,69%), Mato Grosso (58,91%), Acre (58,82%), Pará (58,79%) e Goiás (57,59%).
+- Menores taxas: Rio de Janeiro (44,66%), Alagoas (45,55%), Paraíba (45,79%), Maranhão (46,17%) e Pernambuco (47,22%).
+
+3) Ocupações com maior concentração de sobreeducados (2025-T4)
+
+As cinco ocupações com maior participação no total de sobreeducados foram:
+- Escriturários gerais (código 4110): 10,52%.
+- Comerciantes de lojas (código 5221): 4,60%.
+- Dirigentes de administração e de serviços não classificados anteriormente (código 1219): 3,01%.
+- Balconistas e vendedores de lojas (código 5223): 2,78%.
+- Profissionais da publicidade e da comercialização (código 2431): 2,35%.
+
+As 10 maiores ocupações responderam, em conjunto, por 33,20% do total de sobreeducados no período.
+
+4) Remuneração: evidências centrais (2025-T4)
+
+4.1) Sobreeducados versus outros grupos de nível superior completo
+- Rendimento habitual médio ponderado dos sobreeducados: R$ 6.046,62.
+- Rendimento habitual médio ponderado dos não sobreeducados com superior completo em ocupação classificada como de nível superior: R$ 8.083,49.
+- Diferença: -R$ 2.036,87 para os sobreeducados (24,53% abaixo no rendimento efetivo e 25,20% abaixo no rendimento habitual).
+
+- Rendimento habitual médio ponderado do grupo "superior completo em todas as ocupações": R$ 7.031,40.
+- Diferença dos sobreeducados frente a esse grupo: -R$ 984,78 (14,01% abaixo no rendimento habitual; 13,60% abaixo no rendimento efetivo).
+
+4.2) Tipo de ocupação classificada
+- Ocupações classificadas como exigentes de nível superior: rendimento habitual médio de R$ 7.802,21.
+- Ocupações classificadas como não exigentes de nível superior: rendimento habitual médio de R$ 2.983,87.
+- Prêmio relativo: 161,48% (as ocupações exigentes pagam, em média, 2,61 vezes o valor das não exigentes).
+
+4.3) Comparação pedida pelo orientador (sobreeducados versus outros níveis)
+- Sobreeducados versus médio completo (VD3004 = 5): +R$ 3.404,98 e +128,90% no rendimento habitual.
+- Sobreeducados versus superior incompleto (VD3004 = 6): +R$ 2.847,72 e +89,02% no rendimento habitual.
+
+Conclusão sintética
+
+Os resultados apontam crescimento expressivo do contingente de sobreeducados no período, com taxa relativamente estável em torno de 50% entre pessoas com superior completo em ocupações classificadas. Em 2025-T4, os sobreeducados recebem menos que os não sobreeducados de mesmo nível educacional, o que é consistente com uma penalidade salarial associada ao desalinhamento entre escolaridade e exigência da ocupação.
