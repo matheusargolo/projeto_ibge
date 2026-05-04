@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media sobreeducados, nao sobreeducados e superior",
     "descricao": "Compara tres grupos no ultimo periodo: 1) sobreeducados; 2) nao sobreeducados (superior completo em ocupacao classificada como exigente de superior); 3) superior completo em todas as ocupacoes.",
-    "gerado_em": "2026-05-03 17:51:35 -0300",
+    "gerado_em": "2026-05-03 21:53:45 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",

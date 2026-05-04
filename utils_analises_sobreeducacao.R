@@ -683,3 +683,102 @@ calc_ultimo_periodo_percentual_sobreeducados_ocupacao_e_remuneracao <- function(
   rownames(res) <- NULL
   res
 }
+
+calc_comparacao_salarial_sobreeducados_vs_niveis_instrucao <- function(
+  base,
+  filtrar_codigos_nivel = NULL,
+  apenas_ultimo_periodo = FALSE
+) {
+  assert_colunas(base, c(
+    "ano", "trimestre", "periodo", "sobreeducado",
+    "nivel_instrucao_codigo", "nivel_instrucao"
+  ))
+
+  d <- base
+  if (apenas_ultimo_periodo) {
+    d <- filtrar_ultimo_periodo(d)
+  }
+
+  d_sobre <- d[d$sobreeducado %in% TRUE, , drop = FALSE]
+  if (nrow(d_sobre) == 0) {
+    stop("Nao ha sobreeducados no recorte selecionado para comparacao salarial.")
+  }
+
+  tab_sobre <- calc_medias_remuneracao_por_grupo(
+    df = d_sobre,
+    group_cols = c("ano", "trimestre", "periodo")
+  )
+
+  names_sobre_prefixo <- setdiff(
+    names(tab_sobre),
+    c("ano", "trimestre", "periodo")
+  )
+  names(tab_sobre)[match(names_sobre_prefixo, names(tab_sobre))] <- paste0("sobreeducados_", names_sobre_prefixo)
+
+  d_ref <- d[
+    !is.na(d$nivel_instrucao_codigo) &
+      !is.na(d$nivel_instrucao),
+    ,
+    drop = FALSE
+  ]
+  if (!is.null(filtrar_codigos_nivel)) {
+    codigos <- trimws(as.character(filtrar_codigos_nivel))
+    d_ref <- d_ref[trimws(as.character(d_ref$nivel_instrucao_codigo)) %in% codigos, , drop = FALSE]
+  }
+  if (nrow(d_ref) == 0) {
+    stop("Nao ha grupo(s) de referencia por nivel de instrucao no recorte selecionado.")
+  }
+
+  tab_ref <- calc_medias_remuneracao_por_grupo(
+    df = d_ref,
+    group_cols = c("ano", "trimestre", "periodo", "nivel_instrucao_codigo", "nivel_instrucao")
+  )
+
+  names_ref_prefixo <- setdiff(
+    names(tab_ref),
+    c("ano", "trimestre", "periodo", "nivel_instrucao_codigo", "nivel_instrucao")
+  )
+  names(tab_ref)[match(names_ref_prefixo, names(tab_ref))] <- paste0("referencia_", names_ref_prefixo)
+
+  res <- merge(
+    tab_ref,
+    tab_sobre,
+    by = c("ano", "trimestre", "periodo"),
+    all.x = TRUE
+  )
+
+  res$diferenca_absoluta_rendimento_habitual <- res$sobreeducados_rendimento_habitual_medio_ponderado - res$referencia_rendimento_habitual_medio_ponderado
+  res$diferenca_absoluta_rendimento_efetivo <- res$sobreeducados_rendimento_efetivo_medio_ponderado - res$referencia_rendimento_efetivo_medio_ponderado
+
+  res$razao_rendimento_habitual_sobreeducados_sobre_referencia <- ifelse(
+    !is.na(res$referencia_rendimento_habitual_medio_ponderado) &
+      res$referencia_rendimento_habitual_medio_ponderado > 0,
+    res$sobreeducados_rendimento_habitual_medio_ponderado / res$referencia_rendimento_habitual_medio_ponderado,
+    NA_real_
+  )
+  res$razao_rendimento_efetivo_sobreeducados_sobre_referencia <- ifelse(
+    !is.na(res$referencia_rendimento_efetivo_medio_ponderado) &
+      res$referencia_rendimento_efetivo_medio_ponderado > 0,
+    res$sobreeducados_rendimento_efetivo_medio_ponderado / res$referencia_rendimento_efetivo_medio_ponderado,
+    NA_real_
+  )
+
+  res$diferenca_percentual_rendimento_habitual <- ifelse(
+    !is.na(res$razao_rendimento_habitual_sobreeducados_sobre_referencia),
+    (res$razao_rendimento_habitual_sobreeducados_sobre_referencia - 1) * 100,
+    NA_real_
+  )
+  res$diferenca_percentual_rendimento_efetivo <- ifelse(
+    !is.na(res$razao_rendimento_efetivo_sobreeducados_sobre_referencia),
+    (res$razao_rendimento_efetivo_sobreeducados_sobre_referencia - 1) * 100,
+    NA_real_
+  )
+
+  res <- res[order(
+    res$ano,
+    res$trimestre,
+    suppressWarnings(as.integer(res$nivel_instrucao_codigo))
+  ), ]
+  rownames(res) <- NULL
+  res
+}

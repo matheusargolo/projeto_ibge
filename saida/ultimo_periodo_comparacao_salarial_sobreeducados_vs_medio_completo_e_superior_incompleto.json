@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "nome_analise": "Ultimo periodo: comparacao salarial sobreeducados versus medio completo e superior incompleto",
+    "descricao": "Recorte focal pedido para confronto dos sobreeducados com: (1) medio completo/equivalente (VD3004=5) e (2) superior incompleto/equivalente (VD3004=6).",
+    "gerado_em": "2026-05-03 21:53:54 -0300",
+    "fuso_horario": "America/Sao_Paulo",
+    "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
+    "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
+    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario.",
+    "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",
+    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada.",
+    "remuneracao_escolha": "Foram calculadas duas metricas: VD4019 (rendimento habitual em todos os trabalhos) e VD4020 (rendimento efetivo em todos os trabalhos).",
+    "filtro_remuneracao": "Medias de remuneracao usam apenas rendimentos positivos (>0), com peso valido e ocupacao informada."
+  },
+  "tabela": [
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "nivel_instrucao_codigo": "5",
+      "nivel_instrucao": "Medio completo ou equivalente",
+      "referencia_registros_com_ocupacao_e_peso_valido": 78813,
+      "referencia_registros_com_rendimento_habitual": 77561,
+      "referencia_rendimento_habitual_medio_ponderado": 2641.63974688,
+      "referencia_registros_com_rendimento_efetivo": 76365,
+      "referencia_rendimento_efetivo_medio_ponderado": 2760.09033742,
+      "sobreeducados_registros_com_ocupacao_e_peso_valido": 26676,
+      "sobreeducados_registros_com_rendimento_habitual": 26431,
+      "sobreeducados_rendimento_habitual_medio_ponderado": 6046.61988482,
+      "sobreeducados_registros_com_rendimento_efetivo": 26185,
+      "sobreeducados_rendimento_efetivo_medio_ponderado": 6361.47552589,
+      "diferenca_absoluta_rendimento_habitual": 3404.98013794,
+      "diferenca_absoluta_rendimento_efetivo": 3601.38518847,
+      "razao_rendimento_habitual_sobreeducados_sobre_referencia": 2.28896461,
+      "razao_rendimento_efetivo_sobreeducados_sobre_referencia": 2.304807,
+      "diferenca_percentual_rendimento_habitual": 128.89646069,
+      "diferenca_percentual_rendimento_efetivo": 130.48069984
+    },
+    {
+      "ano": 2025,
+      "trimestre": 4,
+      "periodo": "2025-T4",
+      "nivel_instrucao_codigo": "6",
+      "nivel_instrucao": "Superior incompleto ou equivalente",
+      "referencia_registros_com_ocupacao_e_peso_valido": 12992,
+      "referencia_registros_com_rendimento_habitual": 12766,
+      "referencia_rendimento_habitual_medio_ponderado": 3198.89606022,
+      "referencia_registros_com_rendimento_efetivo": 12598,
+      "referencia_rendimento_efetivo_medio_ponderado": 3362.07527434,
+      "sobreeducados_registros_com_ocupacao_e_peso_valido": 26676,
+      "sobreeducados_registros_com_rendimento_habitual": 26431,
+      "sobreeducados_rendimento_habitual_medio_ponderado": 6046.61988482,
+      "sobreeducados_registros_com_rendimento_efetivo": 26185,
+      "sobreeducados_rendimento_efetivo_medio_ponderado": 6361.47552589,
+      "diferenca_absoluta_rendimento_habitual": 2847.7238246,
+      "diferenca_absoluta_rendimento_efetivo": 2999.40025155,
+      "razao_rendimento_habitual_sobreeducados_sobre_referencia": 1.8902208,
+      "razao_rendimento_efetivo_sobreeducados_sobre_referencia": 1.89212763,
+      "diferenca_percentual_rendimento_habitual": 89.02208046,
+      "diferenca_percentual_rendimento_efetivo": 89.21276315
+    }
+  ],
+  "ultimo_periodo": {
+    "ano": 2025,
+    "trimestre": 4,
+    "periodo": "2025-T4"
+  },
+  "codigos_nivel_referencia": ["5", "6"]
+}

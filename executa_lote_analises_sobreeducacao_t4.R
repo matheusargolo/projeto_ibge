@@ -11,6 +11,8 @@ scripts <- c(
   "processa_ultimo_periodo_remuneracao_media_por_raca_cor.R",
   "processa_ultimo_periodo_remuneracao_media_por_sexo.R",
   "processa_ultimo_periodo_remuneracao_media_sobreeducados_nao_sobreeducados_e_superior.R",
+  "processa_ultimo_periodo_comparacao_salarial_sobreeducados_vs_niveis_instrucao.R",
+  "processa_serie_comparacao_salarial_sobreeducados_vs_niveis_instrucao.R",
   "processa_ultimo_periodo_remuneracao_media_por_tipo_ocupacao_classificada.R"
 )
 

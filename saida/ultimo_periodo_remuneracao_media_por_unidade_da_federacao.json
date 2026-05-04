@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por UF",
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por UF (VD4019 e VD4020).",
-    "gerado_em": "2026-05-03 17:50:59 -0300",
+    "gerado_em": "2026-05-03 21:53:12 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
