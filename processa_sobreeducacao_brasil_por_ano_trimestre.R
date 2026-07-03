@@ -90,6 +90,16 @@ if (length(faltantes_classificacao) > 0) {
 
 classificacao$codigo <- padronizar_codigo_ocupacao(classificacao$codigo)
 classificacao$nivel_superior <- suppressWarnings(as.integer(as.character(classificacao$nivel_superior)))
+valores_invalidos_classificacao <- sort(unique(classificacao$nivel_superior[
+  !is.na(classificacao$nivel_superior) & !(classificacao$nivel_superior %in% c(0L, 1L, 2L))
+]))
+if (length(valores_invalidos_classificacao) > 0) {
+  stop(
+    "Valores invalidos em nivel_superior na classificacao: ",
+    paste(valores_invalidos_classificacao, collapse = ", "),
+    ". Use 0, 1 ou 2."
+  )
+}
 classificacao <- classificacao[!is.na(classificacao$codigo) & !is.na(classificacao$nivel_superior), ]
 
 if (nrow(classificacao) == 0) {
@@ -159,6 +169,7 @@ resultado <- data.frame(
   registros_superior_completo_ocupacao_classificada = integer(),
   registros_superior_completo_sobreeducados = integer(),
   registros_superior_completo_excluidos_sem_ocupacao = integer(),
+  registros_superior_completo_excluidos_ocupacao_ambigua = integer(),
   registros_superior_completo_excluidos_ocupacao_sem_classificacao = integer(),
   registros_superior_completo_excluidos_peso_invalido = integer(),
   stringsAsFactors = FALSE
@@ -196,8 +207,10 @@ for (i in seq_len(nrow(periodos))) {
 
   nivel_superior_ocupacao <- classificacao$nivel_superior[match(ocupacao, classificacao$codigo)]
   sem_classificacao <- is.na(nivel_superior_ocupacao)
+  ocupacao_ambigua <- !sem_classificacao & nivel_superior_ocupacao == 2L
+  ocupacao_classificada_sobreeducacao <- !sem_classificacao & nivel_superior_ocupacao %in% c(0L, 1L)
 
-  universo <- superior & !sem_ocupacao & !sem_classificacao & !peso_invalido
+  universo <- superior & !sem_ocupacao & ocupacao_classificada_sobreeducacao & !peso_invalido
   sobreeducado <- universo & (nivel_superior_ocupacao == 0L)
 
   total_ponderado_universo <- sum(peso[universo])
@@ -220,11 +233,12 @@ for (i in seq_len(nrow(periodos))) {
       percentual_sobreeducados_entre_superior_completo = percentual_sobreeducados,
       registros_superior_completo_total = sum(superior),
       registros_superior_completo_com_ocupacao_informada = sum(superior & !sem_ocupacao),
-      registros_superior_completo_ocupacao_classificada = sum(superior & !sem_ocupacao & !sem_classificacao),
+      registros_superior_completo_ocupacao_classificada = sum(superior & !sem_ocupacao & ocupacao_classificada_sobreeducacao),
       registros_superior_completo_sobreeducados = sum(sobreeducado),
       registros_superior_completo_excluidos_sem_ocupacao = sum(superior & sem_ocupacao),
+      registros_superior_completo_excluidos_ocupacao_ambigua = sum(superior & !sem_ocupacao & ocupacao_ambigua),
       registros_superior_completo_excluidos_ocupacao_sem_classificacao = sum(superior & !sem_ocupacao & sem_classificacao),
-      registros_superior_completo_excluidos_peso_invalido = sum(superior & !sem_ocupacao & !sem_classificacao & peso_invalido),
+      registros_superior_completo_excluidos_peso_invalido = sum(superior & !sem_ocupacao & ocupacao_classificada_sobreeducacao & peso_invalido),
       stringsAsFactors = FALSE
     )
   )
@@ -251,7 +265,7 @@ json_saida <- list(
     variavel_nivel_instrucao = "VD3004",
     variavel_ocupacao = "V4010",
     variavel_peso = "V1028",
-    definicao_sobreeducado = "Superior completo em ocupacao classificada como nao nivel superior."
+    definicao_sobreeducado = "Superior completo em ocupacao classificada como nao nivel superior (nivel_superior=0); ocupacoes ambiguas (nivel_superior=2) sao excluidas do universo."
   ),
   tabela = resultado
 )

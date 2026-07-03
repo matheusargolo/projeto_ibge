@@ -62,8 +62,8 @@ tabela <- do.call(rbind, list(
   ),
   calc_resumo_grupo(
     d,
-    condicao = d$superior_completo,
-    grupo_label = "superior_completo_todas_ocupacoes"
+    condicao = d$superior_completo & d$ocupacao_classificada,
+    grupo_label = "superior_completo_ocupacoes_classificadas_0_1"
   )
 ))
 
@@ -76,7 +76,7 @@ escrever_saida_csv_json(
     "Compara tres grupos no ultimo periodo:",
     "1) sobreeducados;",
     "2) nao sobreeducados (superior completo em ocupacao classificada como exigente de superior);",
-    "3) superior completo em todas as ocupacoes."
+    "3) superior completo em ocupacoes classificadas como 0 ou 1, excluindo ocupacoes ambiguas (nivel_superior=2)."
   ),
   extras_json = list(
     ultimo_periodo = list(

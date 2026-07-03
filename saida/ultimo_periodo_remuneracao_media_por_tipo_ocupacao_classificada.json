@@ -2,32 +2,32 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por tipo de ocupacao classificada",
     "descricao": "Compara remuneracao media ponderada entre ocupacoes classificadas como exigentes de nivel superior vs nao exigentes (VD4019 e VD4020).",
-    "gerado_em": "2026-05-03 21:54:17 -0300",
+    "gerado_em": "2026-07-02 21:30:28 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
-    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario.",
+    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario. Ocupacoes com nivel_superior=2 sao ambiguas e ficam fora do universo das analises de sobreeducacao.",
     "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",
-    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada.",
+    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada_para_sobreeducacao (nivel_superior 0 ou 1).",
     "remuneracao_escolha": "Foram calculadas duas metricas: VD4019 (rendimento habitual em todos os trabalhos) e VD4020 (rendimento efetivo em todos os trabalhos).",
     "filtro_remuneracao": "Medias de remuneracao usam apenas rendimentos positivos (>0), com peso valido e ocupacao informada."
   },
   "tabela": [
     {
       "tipo_ocupacao_classificada": "ocupacoes_marcadas_como_exigem_nivel_superior",
-      "registros_com_ocupacao_e_peso_valido": 26575,
-      "registros_com_rendimento_habitual": 26544,
-      "registros_com_rendimento_efetivo": 26420,
-      "rendimento_habitual_medio_ponderado": 7802.20811358,
-      "rendimento_efetivo_medio_ponderado": 8135.93913312
+      "registros_com_ocupacao_e_peso_valido": 14728,
+      "registros_com_rendimento_habitual": 14711,
+      "registros_com_rendimento_efetivo": 14647,
+      "rendimento_habitual_medio_ponderado": 9013.34939646,
+      "rendimento_efetivo_medio_ponderado": 9324.44042921
     },
     {
       "tipo_ocupacao_classificada": "ocupacoes_marcadas_como_nao_exigem_nivel_superior",
-      "registros_com_ocupacao_e_peso_valido": 198376,
-      "registros_com_rendimento_habitual": 193847,
-      "registros_com_rendimento_efetivo": 189181,
-      "rendimento_habitual_medio_ponderado": 2983.86974171,
-      "rendimento_efetivo_medio_ponderado": 3124.84801729
+      "registros_com_ocupacao_e_peso_valido": 186258,
+      "registros_com_rendimento_habitual": 181780,
+      "registros_com_rendimento_efetivo": 177192,
+      "rendimento_habitual_medio_ponderado": 2622.14356964,
+      "rendimento_efetivo_medio_ponderado": 2745.78441084
     }
   ],
   "ultimo_periodo": {

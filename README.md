@@ -8,7 +8,12 @@ Este repositório reúne scripts em R para:
 - medir sobreeducação ao longo do tempo;
 - comparar remuneração entre grupos, com foco em sobreeducados.
 
-A definição de sobreeducação adotada é: pessoa com **superior completo** em ocupação classificada como **não exigente de nível superior**.
+A definição de sobreeducação adotada é: pessoa com **superior completo** em ocupação classificada como **não exigente de nível superior** (`nivel_superior = 0`).
+
+Na classificação de ocupações (`saida/ocupacoes_cod2010_classificadas.csv`), a coluna `nivel_superior` aceita três valores:
+- `0`: ocupação classificada como não exigente de nível superior;
+- `1`: ocupação classificada como exigente de nível superior;
+- `2`: ocupação ambígua. Esses registros são excluídos das análises de sobreeducação, mas não afetam análises que contam nível de instrução sem usar ocupação.
 
 ## O que há no repositório
 
@@ -55,12 +60,14 @@ A definição de sobreeducação adotada é: pessoa com **superior completo** em
 | `processa_ultimo_periodo_remuneracao_media_por_regiao.R` | Calcula remuneração média ponderada por região no último período. |
 | `processa_ultimo_periodo_remuneracao_media_por_raca_cor.R` | Calcula remuneração média ponderada por cor/raça no último período. |
 | `processa_ultimo_periodo_remuneracao_media_por_sexo.R` | Calcula remuneração média ponderada por sexo no último período. |
-| `processa_ultimo_periodo_remuneracao_media_sobreeducados_nao_sobreeducados_e_superior.R` | Compara remuneração média de sobreeducados, não sobreeducados (superior) e superior completo total no último período. |
+| `processa_ultimo_periodo_remuneracao_media_sobreeducados_nao_sobreeducados_e_superior.R` | Compara remuneração média de sobreeducados, não sobreeducados (superior) e superior completo em ocupações classificadas como `0` ou `1` no último período. |
 | `processa_ultimo_periodo_remuneracao_media_por_tipo_ocupacao_classificada.R` | Compara remuneração média entre ocupações classificadas como exigentes e não exigentes de nível superior. |
 | `processa_ultimo_periodo_comparacao_salarial_sobreeducados_vs_niveis_instrucao.R` | Compara salários de sobreeducados com todos os níveis de instrução no último período, incluindo recorte focal (médio completo e superior incompleto). |
 | `processa_serie_comparacao_salarial_sobreeducados_vs_niveis_instrucao.R` | Gera série histórica da comparação salarial entre sobreeducados e níveis de instrução por ano/trimestre. |
 | `executa_lote_analises_sobreeducacao_t4.R` | Executa, em sequência, os principais scripts de sobreeducação e gera log/documentação da execução. |
 | `teste_ibge.R` | Script mínimo de teste do ambiente R. |
+
+Nas comparações salariais envolvendo sobreeducados, os grupos de referência por nível de instrução também ficam restritos a ocupações classificadas como `0` ou `1`.
 
 ## Saídas geradas
 As saídas ficam na pasta `saida/`, em geral em dois formatos:
@@ -69,8 +76,7 @@ As saídas ficam na pasta `saida/`, em geral em dois formatos:
 
 Também são gerados:
 - `saida/log_execucao_analises_sobreeducacao_t4.csv`;
-- `saida/documentacao_analises_sobreeducacao_t4.md`;
-- `saida/resumo.txt` (resumo executivo).
+- `saida/documentacao_analises_sobreeducacao_t4.md`.
 
 ## Execução sugerida
 1. Rodar o download bruto (quando necessário): `baixar_pnadc_bruto_periodo.R`.

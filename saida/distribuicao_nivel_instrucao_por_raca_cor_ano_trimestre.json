@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "gerado_em": "2026-05-03 15:38:43 -0300",
+    "gerado_em": "2026-07-02 21:16:44 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "arquivos_entrada": ["pnadc_2012_t4_recorte.rds", "pnadc_2013_t4_recorte.rds", "pnadc_2014_t4_recorte.rds", "pnadc_2015_t4_recorte.rds", "pnadc_2016_t4_recorte.rds", "pnadc_2017_t4_recorte.rds", "pnadc_2018_t4_recorte.rds", "pnadc_2019_t4_recorte.rds", "pnadc_2020_t4_recorte.rds", "pnadc_2021_t4_recorte.rds", "pnadc_2022_t4_recorte.rds", "pnadc_2023_t4_recorte.rds", "pnadc_2024_t4_recorte.rds", "pnadc_2025_t4_recorte.rds"],
     "quantidade_arquivos": 14,

@@ -18,6 +18,7 @@ escrever_saida_csv_json(
   nome_analise = "Ultimo periodo: comparacao salarial sobreeducados versus niveis de instrucao",
   descricao = paste(
     "Compara a remuneracao media ponderada dos sobreeducados com grupos de referencia por nivel de instrucao no ultimo periodo disponivel.",
+    "Por ser analise relacionada a sobreeducacao, restringe o universo a ocupacoes classificadas como 0 ou 1, excluindo ocupacoes ambiguas (nivel_superior=2).",
     "Inclui diferencas absolutas (R$), razoes e diferencas percentuais para VD4019 e VD4020."
   ),
   extras_json = list(
@@ -47,7 +48,8 @@ escrever_saida_csv_json(
   descricao = paste(
     "Recorte focal pedido para confronto dos sobreeducados com:",
     "(1) medio completo/equivalente (VD3004=5) e",
-    "(2) superior incompleto/equivalente (VD3004=6)."
+    "(2) superior incompleto/equivalente (VD3004=6).",
+    "Por ser analise relacionada a sobreeducacao, restringe o universo a ocupacoes classificadas como 0 ou 1, excluindo ocupacoes ambiguas (nivel_superior=2)."
   ),
   extras_json = list(
     ultimo_periodo = list(

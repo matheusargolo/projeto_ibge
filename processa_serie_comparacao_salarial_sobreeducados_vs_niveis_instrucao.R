@@ -22,6 +22,7 @@ escrever_saida_csv_json(
   descricao = paste(
     "Para cada ano/trimestre disponivel, compara remuneracao media ponderada dos sobreeducados",
     "com todos os niveis de instrucao existentes no periodo.",
+    "Por ser analise relacionada a sobreeducacao, restringe o universo a ocupacoes classificadas como 0 ou 1, excluindo ocupacoes ambiguas (nivel_superior=2).",
     "Inclui diferencas absolutas, razoes e diferencas percentuais para VD4019 e VD4020."
   )
 )

@@ -1,35 +1,35 @@
-﻿codigo;nome;nivel_superior
-1111;Legisladores;2
-1112;Dirigentes superiores da administração pública;2
-1113;Chefes de pequenas populações;2
-1114;Dirigentes de organizações que apresentam um interesse especial;2
-1120;Diretores gerais e gerentes gerais;2
-1211;Dirigentes financeiros;2
-1212;Dirigentes de recursos humanos;2
-1213;Dirigentes de políticas e planejamento;2
-1219;Dirigentes de administração e de serviços não classificados anteriormente;2
-1221;Dirigentes de vendas e  comercialização;2
-1222;Dirigentes de publicidade e relações públicas;2
-1223;Dirigentes de pesquisa e desenvolvimento;2
-1311;Dirigentes de produção agropecuária e silvicultura;2
-1312;Dirigentes de produção da aquicultura e pesca;2
-1321;Dirigentes de indústria de transformação;2
-1322;Dirigentes de explorações de mineração;2
-1323;Dirigentes de empresas de construção;2
-1324;Dirigentes de empresas de abastecimento, distribuição e afins;2
-1330;Dirigentes de serviços de tecnologia da informação e comunicações;2
-1341;Dirigentes de serviços de cuidados infantis;2
-1342;Dirigentes de serviços de saúde;2
-1343;Dirigentes de serviços de cuidado a pessoas idosas;2
-1344;Dirigentes de serviços de bem-estar social;2
-1345;Dirigentes de serviços de educação;2
-1346;Gerentes de sucursais de bancos, de serviços financeiros e de seguros;2
-1349;Dirigentes e gerentes de serviços profissionais não classificados anteriormente;2
-1411;Gerentes de hotéis;2
-1412;Gerentes de restaurantes;2
-1420;Gerentes de comércios atacadistas e varejistas;2
-1431;Gerentes de centros esportivos,  de diversão e culturais;2
-1439;Gerentes de serviços não classificados anteriormente;2
+codigo;nome;nivel_superior
+1111;Legisladores;0
+1112;Dirigentes superiores da administração pública;0
+1113;Chefes de pequenas populações;0
+1114;Dirigentes de organizações que apresentam um interesse especial;0
+1120;Diretores gerais e gerentes gerais;0
+1211;Dirigentes financeiros;0
+1212;Dirigentes de recursos humanos;0
+1213;Dirigentes de políticas e planejamento;0
+1219;Dirigentes de administração e de serviços não classificados anteriormente;0
+1221;Dirigentes de vendas e  comercialização;0
+1222;Dirigentes de publicidade e relações públicas;0
+1223;Dirigentes de pesquisa e desenvolvimento;1
+1311;Dirigentes de produção agropecuária e silvicultura;0
+1312;Dirigentes de produção da aquicultura e pesca;0
+1321;Dirigentes de indústria de transformação;0
+1322;Dirigentes de explorações de mineração;0
+1323;Dirigentes de empresas de construção;0
+1324;Dirigentes de empresas de abastecimento, distribuição e afins;0
+1330;Dirigentes de serviços de tecnologia da informação e comunicações;1
+1341;Dirigentes de serviços de cuidados infantis;0
+1342;Dirigentes de serviços de saúde;1
+1343;Dirigentes de serviços de cuidado a pessoas idosas;0
+1344;Dirigentes de serviços de bem-estar social;1
+1345;Dirigentes de serviços de educação;1
+1346;Gerentes de sucursais de bancos, de serviços financeiros e de seguros;0
+1349;Dirigentes e gerentes de serviços profissionais não classificados anteriormente;1
+1411;Gerentes de hotéis;0
+1412;Gerentes de restaurantes;0
+1420;Gerentes de comércios atacadistas e varejistas;0
+1431;Gerentes de centros esportivos,  de diversão e culturais;0
+1439;Gerentes de serviços não classificados anteriormente;0
 2111;Físicos e astrônomos;1
 2112;Meteorologistas;1
 2113;Químicos;1
@@ -37,7 +37,7 @@
 2120;Matemáticos, atuários e estatísticos;1
 2131;Biólogos, botânicos, zoólogos e afins;1
 2132;Agrônomos e afins;1
-2133;Profissionais da proteção do meio ambiente;2
+2133;Profissionais da proteção do meio ambiente;1
 2141;Engenheiros industriais e de produção;1
 2142;Engenheiros civis;1
 2143;Engenheiros de meio ambiente;1
@@ -50,57 +50,57 @@
 2153;Engenheiros em telecomunicações;1
 2161;Arquitetos de edificações;1
 2162;Arquitetos paisagistas;1
-2163;Desenhistas de produtos e  vestuário;2
+2163;Desenhistas de produtos e  vestuário;1
 2164;Urbanistas e engenheiros de trânsito;1
 2165;Cartógrafos e agrimensores;1
-2166;Desenhistas gráficos e de multimídia;2
+2166;Desenhistas gráficos e de multimídia;0
 2211;Médicos gerais;1
 2212;Médicos especialistas;1
 2221;Profissionais de enfermagem;1
 2222;Profissionais de partos;1
-2230;Profissionais da medicina tradicional e alternativa;2
-2240;Paramédicos;2
+2230;Profissionais da medicina tradicional e alternativa;1
+2240;Paramédicos;1
 2250;Veterinários;1
 2261;Dentistas;1
 2262;Farmacêuticos;1
-2263;Profissionais da saúde e da higiene laboral e ambiental;2
+2263;Profissionais da saúde e da higiene laboral e ambiental;1
 2264;Fisioterapeutas;1
 2265;Dietistas e nutricionistas;1
 2266;Fonoaudiólogos e logopedistas;1
-2267;Optometristas;2
-2269;Profissionais da saúde não classificados anteriormente;2
+2267;Optometristas;1
+2269;Profissionais da saúde não classificados anteriormente;1
 2310;Professores de universidades e do ensino superior;1
-2320;Professores de formação profissional;2
+2320;Professores de formação profissional;1
 2330;Professores do ensino médio;1
-2341;Professores do ensino fundamental;2
-2342;Professores do ensino pré-escolar;2
-2351;Especialistas em métodos pedagógicos;2
+2341;Professores do ensino fundamental;1
+2342;Professores do ensino pré-escolar;1
+2351;Especialistas em métodos pedagógicos;1
 2352;Educadores para necessidades especiais;1
-2353;Outros professores de idiomas;2
-2354;Outros professores de música;2
-2355;Outros professores de artes;2
-2356;Instrutores em tecnologias da informação;2
-2359;Profissionais de ensino não classificados anteriormente;2
+2353;Outros professores de idiomas;0
+2354;Outros professores de música;0
+2355;Outros professores de artes;0
+2356;Instrutores em tecnologias da informação;0
+2359;Profissionais de ensino não classificados anteriormente;1
 2411;Contadores;1
-2412;Assessores financeiros e em investimentos;2
-2413;Analistas financeiros;2
-2421;Analistas de gestão e administração;2
-2422;Especialistas em políticas de administração;2
-2423;Especialistas em políticas e serviços de pessoal e afins;2
-2424;Especialistas em formação de pessoal;2
-2431;Profissionais da publicidade e da comercialização;2
+2412;Assessores financeiros e em investimentos;1
+2413;Analistas financeiros;1
+2421;Analistas de gestão e administração;1
+2422;Especialistas em políticas de administração;1
+2423;Especialistas em políticas e serviços de pessoal e afins;1
+2424;Especialistas em formação de pessoal;1
+2431;Profissionais da publicidade e da comercialização;0
 2432;Profissionais de relações públicas;1
-2433;Profissionais de vendas técnicas e médicas (exclusive tic);2
-2434;Profissionais de vendas de tecnologia da informação e comunicações;2
-2511;Analistas de sistemas;2
-2512;Desenvolvedores de programas e aplicativos (software);2
-2513;Desenvolvedores de páginas de internet (web) e multimídia;2
-2514;Programadores de aplicações;2
-2519;Desenvolvedores e analistas de programas e aplicativos (software) e multimídia não classificados anteriormente;2
-2521;Desenhistas e administradores de bases de dados;2
-2522;Administradores de sistemas;2
-2523;Profissionais em rede de computadores;2
-2529;Especialistas em base de dados e em redes de computadores não classificados anteriormente;2
+2433;Profissionais de vendas técnicas e médicas (exclusive tic);0
+2434;Profissionais de vendas de tecnologia da informação e comunicações;0
+2511;Analistas de sistemas;1
+2512;Desenvolvedores de programas e aplicativos (software);1
+2513;Desenvolvedores de páginas de internet (web) e multimídia;1
+2514;Programadores de aplicações;1
+2519;Desenvolvedores e analistas de programas e aplicativos (software) e multimídia não classificados anteriormente;1
+2521;Desenhistas e administradores de bases de dados;1
+2522;Administradores de sistemas;1
+2523;Profissionais em rede de computadores;1
+2529;Especialistas em base de dados e em redes de computadores não classificados anteriormente;1
 2611;Advogados e juristas;1
 2612;Juízes;1
 2619;Profissionais em direito não classificados anteriormente;1
@@ -108,20 +108,20 @@
 2622;Bibliotecários, documentaristas e afins;1
 2631;Economistas;1
 2632;Sociólogos, antropólogos e afins;1
-2633;Filósofos, historiadores e especialistas em ciência política;2
+2633;Filósofos, historiadores e especialistas em ciência política;1
 2634;Psicólogos;1
 2635;Assistentes sociais;1
-2636;Ministros de cultos religiosos, missionários e afins;2
-2641;Escritores;2
-2642;Jornalistas;2
-2643;Tradutores, intérpretes e linguistas;2
-2651;Artistas plásticos;2
-2652;Músicos, cantores e compositores;2
-2653;Bailarinos e coreógrafos;2
-2654;Diretores de cinema, de teatro e afins;2
-2655;Atores;2
-2656;Locutores de rádio, televisão e outros meios de comunicação;2
-2659;Artistas criativos e interpretativos não classificados anteriormente;2
+2636;Ministros de cultos religiosos, missionários e afins;0
+2641;Escritores;0
+2642;Jornalistas;1
+2643;Tradutores, intérpretes e linguistas;0
+2651;Artistas plásticos;0
+2652;Músicos, cantores e compositores;0
+2653;Bailarinos e coreógrafos;0
+2654;Diretores de cinema, de teatro e afins;0
+2655;Atores;0
+2656;Locutores de rádio, televisão e outros meios de comunicação;0
+2659;Artistas criativos e interpretativos não classificados anteriormente;0
 3111;Técnicos em ciências físicas e químicas;0
 3112;Técnicos em engenharia civil;0
 3113;Eletrotécnicos;0
@@ -143,9 +143,9 @@
 3141;Técnicos e profissionais de nível médio em ciências biológicas (exclusive da medicina);0
 3142;Técnicos agropecuários;0
 3143;Técnicos florestais;0
-3151;Oficiais maquinistas em navegação;1
-3152;Capitães, oficiais de coberta e práticos;1
-3153;Pilotos de aviação e afins;2
+3151;Oficiais maquinistas em navegação;0
+3152;Capitães, oficiais de coberta e práticos;0
+3153;Pilotos de aviação e afins;0
 3154;Controladores de tráfego aéreo;0
 3155;Técnicos em segurança aeronáutica;0
 3211;Técnicos em aparelhos de diagnóstico e tratamento médico;0
@@ -162,39 +162,39 @@
 3254;Técnicos em optometria e ópticos;0
 3255;Técnicos e assistentes fisioterapeutas;0
 3256;assistentes de medicina;0
-3257;Inspetores de saúde laboral, ambiental e afins;2
+3257;Inspetores de saúde laboral, ambiental e afins;0
 3258;Ajudantes de ambulâncias;0
 3259;Profissionais de nível médio da saúde não classificados anteriormente;0
-3311;Agentes e corretores de bolsa, câmbio e outros serviços financeiros;2
+3311;Agentes e corretores de bolsa, câmbio e outros serviços financeiros;0
 3312;Agentes de empréstimos e financiamento;0
 3313;Contabilistas e guarda livros;0
 3314;Profissionais de nível médio de serviços estatísticos, matemáticos e afins;0
-3315;Avaliadores;2
+3315;Avaliadores;0
 3321;Agentes de seguros;0
 3322;Representantes comerciais;0
 3323;Agentes de compras;0
 3324;Corretores de comercialização;0
 3331;Despachantes aduaneiros;0
-3332;Organizadores de conferências e eventos;2
+3332;Organizadores de conferências e eventos;0
 3333;Agentes de emprego e agenciadores de mão de obra;0
 3334;Agentes imobiliários;0
 3339;Agentes de serviços comerciais não classificados anteriormente;0
 3341;Supervisores de secretaria;0
 3342;Secretários jurídicos;0
-3343;Secretários executivos e administrativos;2
+3343;Secretários executivos e administrativos;0
 3344;Secretários de medicina;0
-3351;Agentes aduaneiros e inspetores de fronteiras;2
-3352;Agentes da administração tributária;2
+3351;Agentes aduaneiros e inspetores de fronteiras;0
+3352;Agentes da administração tributária;0
 3353;Agentes de serviços de seguridade social;0
 3354;Agentes de serviços de expedição de licenças e permissões;0
-3355;Inspetores de polícia e detetives;2
-3359;Agentes da administração pública para aplicação da lei e afins não classificados anteriormente;2
+3355;Inspetores de polícia e detetives;0
+3359;Agentes da administração pública para aplicação da lei e afins não classificados anteriormente;0
 3411;Profissionais de nível médio do direito e serviços legais e afins;0
 3412;Trabalhadores e assistentes sociais de nível médio;0
 3413;Auxiliares leigos de religião;0
-3421;Atletas e esportistas;2
-3422;Treinadores, instrutores e árbitros de atividades esportivas;2
-3423;Instrutores de educação física e atividades recreativas;2
+3421;Atletas e esportistas;0
+3422;Treinadores, instrutores e árbitros de atividades esportivas;0
+3423;Instrutores de educação física e atividades recreativas;0
 3431;Fotógrafos;0
 3432;Desenhistas e decoradores de interiores;0
 3433;Técnicos em galerias de arte, museus e bibliotecas;0
@@ -272,8 +272,8 @@
 5322;Trabalhadores de cuidados pessoais a domicílios;0
 5329;Trabalhadores de cuidados pessoais nos serviços de saúde não classificados anteriormente;0
 5411;Bombeiros;0
-5412;Policiais;2
-5413;Guardiões de presídios;2
+5412;Policiais;0
+5413;Guardiões de presídios;0
 5414;Guardas de segurança;0
 5419;Trabalhadores dos serviços de proteção e segurança não classificados anteriormente;0
 6111;Agricultores e trabalhadores qualificados em atividades da agricultura (exclusive hortas, viveiros e jardins);0

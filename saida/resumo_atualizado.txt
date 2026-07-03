@@ -1,0 +1,68 @@
+RESUMO EXECUTIVO DAS ANALISES DE SOBREEDUCACAO (PNAD Continua)
+
+Versao atualizada com a nova regra: ocupacoes ambiguas (nivel_superior = 2) sao excluidas de todas as analises relacionadas a sobreeducacao. Analises de nivel de instrucao que nao usam ocupacao permanecem inalteradas.
+
+Periodo analisado: de 2012-T4 a 2025-T4 (14 periodos, com foco no 4o trimestre de cada ano disponivel localmente).
+
+1) Evolucao agregada no Brasil
+
+Entre 2012-T4 e 2025-T4, o numero ponderado de sobreeducados passou de 3.964.726 para 9.824.366 pessoas, crescimento de 147,79%.
+No mesmo intervalo, a taxa de sobreeducacao entre pessoas com superior completo em ocupacoes classificadas como 0 ou 1 subiu de 51,18% para 57,66% (alta de 6,48 pontos percentuais).
+Em paralelo, a participacao de pessoas com superior completo na distribuicao do nivel de instrucao da populacao aumentou de 8,77% para 16,11% (alta de 7,34 pontos percentuais).
+Em 2025-T4, entre pessoas com superior completo e ocupacao informada, 16.984 registros foram excluidos do universo de sobreeducacao por ocupacao ambigua, contra 34.586 registros em ocupacoes classificadas como 0 ou 1.
+
+2) Recorte mais recente: 2025-T4
+
+2.1) Sexo
+- Homens: taxa de sobreeducacao de 59,85%.
+- Mulheres: taxa de sobreeducacao de 55,86%.
+- Diferenca: 3,99 pontos percentuais a mais entre homens.
+- Participacao no total de sobreeducados: homens 46,90% e mulheres 53,10%.
+
+2.2) Regiao
+- Maior taxa: Norte (63,53%).
+- Menor taxa: Nordeste (54,91%).
+- Diferenca entre maior e menor taxa regional: 8,62 pontos percentuais.
+- Participacao no total de sobreeducados: Centro-Oeste 10,40%, Nordeste 17,94%, Norte 7,02%, Sudeste 46,89%, Sul 17,74%.
+
+2.3) Cor ou raca
+- Maior taxa: Preta (65,87%).
+- Menor taxa: Indigena (49,08%).
+- Grupos com maior participacao no total de sobreeducados: Branca 55,80%, Parda 33,77%, Preta 8,96%.
+
+2.4) Unidade da Federacao (UF)
+- Maiores taxas: Para (69,74%), Acre (67,30%), Roraima (67,14%), Mato Grosso (64,66%), Goias (62,78%).
+- Menores taxas: Rio de Janeiro (48,01%), Sergipe (48,88%), Alagoas (51,27%), Paraiba (51,72%), Pernambuco (52,46%).
+
+3) Ocupacoes com maior concentracao de sobreeducados (2025-T4)
+
+As cinco ocupacoes com maior participacao no total de sobreeducados foram:
+- Escriturarios gerais (codigo 4110): 14,39%.
+- Comerciantes de lojas (codigo 5221): 6,28%.
+- Balconistas e vendedores de lojas (codigo 5223): 3,81%.
+- Profissionais de nivel medio do direito e servicos legais e afins (codigo 3411): 2,64%.
+- Supervisores de secretaria (codigo 3341): 2,62%.
+
+As 10 maiores ocupacoes responderam, em conjunto, por 40,91% do total de sobreeducados no periodo.
+
+4) Remuneracao: evidencias centrais (2025-T4)
+
+4.1) Sobreeducados versus outros grupos de nivel superior completo
+- Rendimento habitual medio ponderado dos sobreeducados: R$ 4.799,58.
+- Rendimento habitual medio ponderado dos nao sobreeducados com superior completo em ocupacao classificada como de nivel superior: R$ 9.077,48.
+- Diferenca: -R$ 4.277,90 para os sobreeducados (-47,13% no rendimento habitual e -46,36% no rendimento efetivo).
+- Rendimento habitual medio ponderado do grupo superior completo em ocupacoes classificadas como 0 ou 1: R$ 6.618,17.
+- Diferenca dos sobreeducados frente a esse grupo: -R$ 1.818,59 (-27,48% no rendimento habitual; -26,92% no rendimento efetivo).
+
+4.2) Tipo de ocupacao classificada
+- Ocupacoes classificadas como exigentes de nivel superior: rendimento habitual medio de R$ 9.013,35.
+- Ocupacoes classificadas como nao exigentes de nivel superior: rendimento habitual medio de R$ 2.622,14.
+- Premio relativo: 243,74% (as ocupacoes exigentes pagam, em media, 3,44 vezes o valor das nao exigentes).
+
+4.3) Comparacao pedida pelo orientador (sobreeducados versus outros niveis)
+- Sobreeducados versus medio completo (VD3004 = 5): R$ 2.272,33 e +89,91% no rendimento habitual.
+- Sobreeducados versus superior incompleto (VD3004 = 6): R$ 1.803,17 e +60,18% no rendimento habitual.
+
+Conclusao sintetica
+
+Ao excluir ocupacoes ambiguas, a analise fica mais conservadora: o universo de superior completo com ocupacao classificada diminui substancialmente, e a taxa de sobreeducacao passa a ser calculada apenas onde a classificacao 0/1 e efetivamente definida. Com essa regra, o contingente ponderado de sobreeducados em 2025-T4 cai em relacao ao resumo antigo, mas a taxa entre o universo classificado 0/1 aumenta, pois muitas ocupacoes ambiguas antes entravam como nao sobreeducadas ou alteravam o denominador.

@@ -125,6 +125,14 @@ ler_classificacao_ocupacoes <- function(
 
   cls$codigo <- padronizar_codigo_ocupacao(cls$codigo)
   cls$nivel_superior <- suppressWarnings(as.integer(as.character(cls$nivel_superior)))
+  valores_invalidos <- sort(unique(cls$nivel_superior[!is.na(cls$nivel_superior) & !(cls$nivel_superior %in% c(0L, 1L, 2L))]))
+  if (length(valores_invalidos) > 0) {
+    stop(
+      "Valores invalidos em nivel_superior na classificacao de ocupacoes: ",
+      paste(valores_invalidos, collapse = ", "),
+      ". Use 0, 1 ou 2."
+    )
+  }
   if (!("nome" %in% names(cls))) {
     cls$nome <- NA_character_
   }
@@ -233,7 +241,8 @@ montar_base_sobreeducacao <- function(
     ocupacao_nome <- unname(mapa_nome_ocupacao[ocupacao_codigo])
     ocupacao_nivel_superior <- suppressWarnings(as.integer(unname(mapa_nivel_ocupacao[ocupacao_codigo])))
     ocupacao_informada <- !is.na(ocupacao_codigo)
-    ocupacao_classificada <- !is.na(ocupacao_nivel_superior)
+    ocupacao_ambigua_nivel_superior <- !is.na(ocupacao_nivel_superior) & ocupacao_nivel_superior == 2L
+    ocupacao_classificada <- !is.na(ocupacao_nivel_superior) & ocupacao_nivel_superior %in% c(0L, 1L)
 
     peso <- if ("V1028" %in% names(dados)) suppressWarnings(as.numeric(dados$V1028)) else rep(NA_real_, n)
     peso_valido <- !is.na(peso) & is.finite(peso) & peso > 0
@@ -260,6 +269,7 @@ montar_base_sobreeducacao <- function(
       ocupacao_nome = ocupacao_nome,
       ocupacao_nivel_superior = ocupacao_nivel_superior,
       ocupacao_informada = ocupacao_informada,
+      ocupacao_ambigua_nivel_superior = ocupacao_ambigua_nivel_superior,
       ocupacao_classificada = ocupacao_classificada,
       superior_completo = superior_completo,
       sobreeducado = sobreeducado,
@@ -332,9 +342,9 @@ metadados_decisoes_metodologicas <- function() {
   list(
     periodo_analisado = "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     definicao_sobreeducado = "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
-    classificacao_ocupacoes = "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario.",
+    classificacao_ocupacoes = "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario. Ocupacoes com nivel_superior=2 sao ambiguas e ficam fora do universo das analises de sobreeducacao.",
     pesos = "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",
-    percentual_sobreeducacao_dimensoes = "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada.",
+    percentual_sobreeducacao_dimensoes = "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada_para_sobreeducacao (nivel_superior 0 ou 1).",
     remuneracao_escolha = "Foram calculadas duas metricas: VD4019 (rendimento habitual em todos os trabalhos) e VD4020 (rendimento efetivo em todos os trabalhos).",
     filtro_remuneracao = "Medias de remuneracao usam apenas rendimentos positivos (>0), com peso valido e ocupacao informada."
   )
@@ -456,7 +466,7 @@ calc_percentual_sobreeducados_por_ocupacao <- function(base) {
     "peso", "peso_valido", "ocupacao_informada", "ocupacao_classificada", "superior_completo", "sobreeducado"
   ))
 
-  idx_ocup <- base$peso_valido & base$ocupacao_informada
+  idx_ocup <- base$peso_valido & base$ocupacao_informada & base$ocupacao_classificada
   idx_uni_sup <- idx_ocup & base$superior_completo & base$ocupacao_classificada
   idx_sob <- idx_uni_sup & base$sobreeducado
 
@@ -697,6 +707,9 @@ calc_comparacao_salarial_sobreeducados_vs_niveis_instrucao <- function(
   d <- base
   if (apenas_ultimo_periodo) {
     d <- filtrar_ultimo_periodo(d)
+  }
+  if ("ocupacao_classificada" %in% names(d)) {
+    d <- d[d$ocupacao_classificada %in% TRUE, , drop = FALSE]
   }
 
   d_sobre <- d[d$sobreeducado %in% TRUE, , drop = FALSE]

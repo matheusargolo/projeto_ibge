@@ -2,13 +2,13 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por nivel de instrucao",
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por nivel de instrucao (VD4019 e VD4020).",
-    "gerado_em": "2026-05-03 21:53:04 -0300",
+    "gerado_em": "2026-07-02 21:29:01 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
-    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario.",
+    "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario. Ocupacoes com nivel_superior=2 sao ambiguas e ficam fora do universo das analises de sobreeducacao.",
     "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",
-    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada.",
+    "percentual_sobreeducacao_dimensoes": "Percentual dentro de cada grupo: peso_sobreeducados / peso_superior_completo_com_ocupacao_classificada_para_sobreeducacao (nivel_superior 0 ou 1).",
     "remuneracao_escolha": "Foram calculadas duas metricas: VD4019 (rendimento habitual em todos os trabalhos) e VD4020 (rendimento efetivo em todos os trabalhos).",
     "filtro_remuneracao": "Medias de remuneracao usam apenas rendimentos positivos (>0), com peso valido e ocupacao informada."
   },
