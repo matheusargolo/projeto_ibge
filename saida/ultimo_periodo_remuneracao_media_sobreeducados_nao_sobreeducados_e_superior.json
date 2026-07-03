@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media sobreeducados, nao sobreeducados e superior",
     "descricao": "Compara tres grupos no ultimo periodo: 1) sobreeducados; 2) nao sobreeducados (superior completo em ocupacao classificada como exigente de superior); 3) superior completo em ocupacoes classificadas como 0 ou 1, excluindo ocupacoes ambiguas (nivel_superior=2).",
-    "gerado_em": "2026-07-02 21:29:42 -0300",
+    "gerado_em": "2026-07-03 14:21:51 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
@@ -15,32 +15,32 @@
   "tabela": [
     {
       "grupo": "sobreeducados",
-      "registros_com_ocupacao_e_peso_valido": 20062,
-      "registros_com_rendimento_habitual": 19828,
-      "registros_com_rendimento_efetivo": 19609,
-      "rendimento_habitual_medio_ponderado": 4799.57918766,
-      "rendimento_efetivo_medio_ponderado": 5037.89089616
+      "registros_com_ocupacao_e_peso_valido": 18758,
+      "registros_com_rendimento_habitual": 18553,
+      "registros_com_rendimento_efetivo": 18291,
+      "rendimento_habitual_medio_ponderado": 4722.20653256,
+      "rendimento_efetivo_medio_ponderado": 5221.08898758
     },
     {
       "grupo": "nao_sobreeducados_superior_em_ocupacao_classificada",
-      "registros_com_ocupacao_e_peso_valido": 14524,
-      "registros_com_rendimento_habitual": 14508,
-      "registros_com_rendimento_efetivo": 14444,
-      "rendimento_habitual_medio_ponderado": 9077.47865467,
-      "rendimento_efetivo_medio_ponderado": 9391.29803453
+      "registros_com_ocupacao_e_peso_valido": 15437,
+      "registros_com_rendimento_habitual": 15415,
+      "registros_com_rendimento_efetivo": 15249,
+      "rendimento_habitual_medio_ponderado": 9349.66102139,
+      "rendimento_efetivo_medio_ponderado": 10059.46467404
     },
     {
       "grupo": "superior_completo_ocupacoes_classificadas_0_1",
-      "registros_com_ocupacao_e_peso_valido": 34586,
-      "registros_com_rendimento_habitual": 34336,
-      "registros_com_rendimento_efetivo": 34053,
-      "rendimento_habitual_medio_ponderado": 6618.17191761,
-      "rendimento_efetivo_medio_ponderado": 6893.78260382
+      "registros_com_ocupacao_e_peso_valido": 34195,
+      "registros_com_rendimento_habitual": 33968,
+      "registros_com_rendimento_efetivo": 33540,
+      "rendimento_habitual_medio_ponderado": 6858.79940457,
+      "rendimento_efetivo_medio_ponderado": 7457.58787867
     }
   ],
   "ultimo_periodo": {
-    "ano": 2025,
-    "trimestre": 4,
-    "periodo": "2025-T4"
+    "ano": 2026,
+    "trimestre": 1,
+    "periodo": "2026-T1"
   }
 }

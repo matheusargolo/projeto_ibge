@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por tipo de ocupacao classificada",
     "descricao": "Compara remuneracao media ponderada entre ocupacoes classificadas como exigentes de nivel superior vs nao exigentes (VD4019 e VD4020).",
-    "gerado_em": "2026-07-02 21:30:28 -0300",
+    "gerado_em": "2026-07-03 14:20:49 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
@@ -15,24 +15,24 @@
   "tabela": [
     {
       "tipo_ocupacao_classificada": "ocupacoes_marcadas_como_exigem_nivel_superior",
-      "registros_com_ocupacao_e_peso_valido": 14728,
-      "registros_com_rendimento_habitual": 14711,
-      "registros_com_rendimento_efetivo": 14647,
-      "rendimento_habitual_medio_ponderado": 9013.34939646,
-      "rendimento_efetivo_medio_ponderado": 9324.44042921
+      "registros_com_ocupacao_e_peso_valido": 15634,
+      "registros_com_rendimento_habitual": 15610,
+      "registros_com_rendimento_efetivo": 15440,
+      "rendimento_habitual_medio_ponderado": 9296.36951194,
+      "rendimento_efetivo_medio_ponderado": 10009.22861034
     },
     {
       "tipo_ocupacao_classificada": "ocupacoes_marcadas_como_nao_exigem_nivel_superior",
-      "registros_com_ocupacao_e_peso_valido": 186258,
-      "registros_com_rendimento_habitual": 181780,
-      "registros_com_rendimento_efetivo": 177192,
-      "rendimento_habitual_medio_ponderado": 2622.14356964,
-      "rendimento_efetivo_medio_ponderado": 2745.78441084
+      "registros_com_ocupacao_e_peso_valido": 183263,
+      "registros_com_rendimento_habitual": 178796,
+      "registros_com_rendimento_efetivo": 173107,
+      "rendimento_habitual_medio_ponderado": 2625.1230466,
+      "rendimento_efetivo_medio_ponderado": 2871.62707974
     }
   ],
   "ultimo_periodo": {
-    "ano": 2025,
-    "trimestre": 4,
-    "periodo": "2025-T4"
+    "ano": 2026,
+    "trimestre": 1,
+    "periodo": "2026-T1"
   }
 }

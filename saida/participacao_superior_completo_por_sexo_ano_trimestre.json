@@ -1,676 +1,68 @@
 {
   "metadata": {
-    "gerado_em": "2026-07-02 21:18:12 -0300",
+    "gerado_em": "2026-07-03 13:52:13 -0300",
     "fuso_horario": "America/Sao_Paulo",
-    "arquivos_entrada": ["pnadc_2012_t4_recorte.rds", "pnadc_2013_t4_recorte.rds", "pnadc_2014_t4_recorte.rds", "pnadc_2015_t4_recorte.rds", "pnadc_2016_t4_recorte.rds", "pnadc_2017_t4_recorte.rds", "pnadc_2018_t4_recorte.rds", "pnadc_2019_t4_recorte.rds", "pnadc_2020_t4_recorte.rds", "pnadc_2021_t4_recorte.rds", "pnadc_2022_t4_recorte.rds", "pnadc_2023_t4_recorte.rds", "pnadc_2024_t4_recorte.rds", "pnadc_2025_t4_recorte.rds"],
-    "quantidade_arquivos": 14,
-    "quantidade_cortes": 28,
-    "variavel_nivel_instrucao": "VD3004",
-    "valor_referencia_nivel_instrucao": "Superior completo",
-    "variavel_peso": "V1028",
-    "variavel_dimensao": "V2007",
-    "nome_campo_dimensao": "sexo",
-    "descricao": "Participacao percentual, por periodo, de pessoas com superior completo distribuidas por sexo (com pesos)."
+    "descricao": "Participacao percentual ponderada de pessoas com superior completo por sexo, ano e trimestre.",
+    "fonte_local": "dados_pnadc/PNADC_0TAAAA.txt",
+    "periodos": ["2012-T1", "2012-T2", "2012-T3", "2012-T4", "2013-T1", "2013-T2", "2013-T3", "2013-T4", "2014-T1", "2014-T2", "2014-T3", "2014-T4", "2015-T1", "2015-T2", "2015-T3", "2015-T4", "2016-T1", "2016-T2", "2016-T3", "2016-T4", "2017-T1", "2017-T2", "2017-T3", "2017-T4", "2018-T1", "2018-T2", "2018-T3", "2018-T4", "2019-T1", "2019-T2", "2019-T3", "2019-T4", "2020-T1", "2020-T2", "2020-T3", "2020-T4", "2021-T1", "2021-T2", "2021-T3", "2021-T4", "2022-T1", "2022-T2", "2022-T3", "2022-T4", "2023-T1", "2023-T2", "2023-T3", "2023-T4", "2024-T1", "2024-T2", "2024-T3", "2024-T4", "2025-T1", "2025-T2", "2025-T3", "2025-T4", "2026-T1"],
+    "quantidade_periodos": 57,
+    "observacao": "Reprocessado sobre todos os microdados TXT disponiveis localmente."
   },
-  "cortes": [
+  "tabela": [
     {
-      "ano": 2012,
-      "trimestre": 4,
-      "periodo": "2012-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 6755610.61332145,
-      "percentual": 42.0326,
-      "resumo": {
-        "registros_superior_completo_total": 14308,
-        "registros_superior_completo_validos": 14308,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 16072295.62844752
-      }
+      "Ano": 2012,
+      "Trimestre": 1,
+      "periodo": "2012-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9048722.88857081,
+      "total_ponderado_superior_completo_periodo": 15515687.26486733,
+      "percentual": 58.3198
     },
     {
-      "ano": 2012,
-      "trimestre": 4,
-      "periodo": "2012-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 9316685.01512607,
-      "percentual": 57.9674,
-      "resumo": {
-        "registros_superior_completo_total": 21766,
-        "registros_superior_completo_validos": 21766,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 16072295.62844752
-      }
+      "Ano": 2012,
+      "Trimestre": 1,
+      "periodo": "2012-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 6466964.37629652,
+      "total_ponderado_superior_completo_periodo": 15515687.26486733,
+      "percentual": 41.6802
     },
     {
-      "ano": 2013,
-      "trimestre": 4,
-      "periodo": "2013-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 7017651.70177297,
-      "percentual": 42.1055,
-      "resumo": {
-        "registros_superior_completo_total": 15452,
-        "registros_superior_completo_validos": 15452,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 16666839.42133327
-      }
+      "Ano": 2012,
+      "Trimestre": 2,
+      "periodo": "2012-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9130531.74469,
+      "total_ponderado_superior_completo_periodo": 15593898.11634273,
+      "percentual": 58.552
     },
     {
-      "ano": 2013,
-      "trimestre": 4,
-      "periodo": "2013-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 9649187.7195603,
-      "percentual": 57.8945,
-      "resumo": {
-        "registros_superior_completo_total": 23090,
-        "registros_superior_completo_validos": 23090,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 16666839.42133327
-      }
+      "Ano": 2012,
+      "Trimestre": 2,
+      "periodo": "2012-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 6463366.37165273,
+      "total_ponderado_superior_completo_periodo": 15593898.11634273,
+      "percentual": 41.448
     },
     {
-      "ano": 2014,
-      "trimestre": 4,
-      "periodo": "2014-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 7460181.71736425,
-      "percentual": 41.7189,
-      "resumo": {
-        "registros_superior_completo_total": 16579,
-        "registros_superior_completo_validos": 16579,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 17882024.68778444
-      }
+      "Ano": 2012,
+      "Trimestre": 3,
+      "periodo": "2012-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9253638.39615596,
+      "total_ponderado_superior_completo_periodo": 15790957.75291181,
+      "percentual": 58.6009
     },
     {
-      "ano": 2014,
-      "trimestre": 4,
-      "periodo": "2014-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 10421842.97042019,
-      "percentual": 58.2811,
-      "resumo": {
-        "registros_superior_completo_total": 25326,
-        "registros_superior_completo_validos": 25326,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 17882024.68778444
-      }
+      "Ano": 2012,
+      "Trimestre": 3,
+      "periodo": "2012-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 6537319.35675585,
+      "total_ponderado_superior_completo_periodo": 15790957.75291181,
+      "percentual": 41.3991
     },
-    {
-      "ano": 2015,
-      "trimestre": 4,
-      "periodo": "2015-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 8207267.59426192,
-      "percentual": 41.9031,
-      "resumo": {
-        "registros_superior_completo_total": 17460,
-        "registros_superior_completo_validos": 17460,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 19586287.96935431
-      }
-    },
-    {
-      "ano": 2015,
-      "trimestre": 4,
-      "periodo": "2015-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 11379020.37509239,
-      "percentual": 58.0969,
-      "resumo": {
-        "registros_superior_completo_total": 26703,
-        "registros_superior_completo_validos": 26703,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 19586287.96935431
-      }
-    },
-    {
-      "ano": 2016,
-      "trimestre": 4,
-      "periodo": "2016-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 8652228.50641029,
-      "percentual": 42.0871,
-      "resumo": {
-        "registros_superior_completo_total": 18526,
-        "registros_superior_completo_validos": 18526,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 20557896.78080759
-      }
-    },
-    {
-      "ano": 2016,
-      "trimestre": 4,
-      "periodo": "2016-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 11905668.2743973,
-      "percentual": 57.9129,
-      "resumo": {
-        "registros_superior_completo_total": 28432,
-        "registros_superior_completo_validos": 28432,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 20557896.78080759
-      }
-    },
-    {
-      "ano": 2017,
-      "trimestre": 4,
-      "periodo": "2017-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 8977779.11138969,
-      "percentual": 41.6738,
-      "resumo": {
-        "registros_superior_completo_total": 19655,
-        "registros_superior_completo_validos": 19655,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 21542964.89951796
-      }
-    },
-    {
-      "ano": 2017,
-      "trimestre": 4,
-      "periodo": "2017-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 12565185.78812827,
-      "percentual": 58.3262,
-      "resumo": {
-        "registros_superior_completo_total": 30469,
-        "registros_superior_completo_validos": 30469,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 21542964.89951796
-      }
-    },
-    {
-      "ano": 2018,
-      "trimestre": 4,
-      "periodo": "2018-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 9626733.02732806,
-      "percentual": 41.3999,
-      "resumo": {
-        "registros_superior_completo_total": 20830,
-        "registros_superior_completo_validos": 20830,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 23253013.14110889
-      }
-    },
-    {
-      "ano": 2018,
-      "trimestre": 4,
-      "periodo": "2018-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 13626280.11378083,
-      "percentual": 58.6001,
-      "resumo": {
-        "registros_superior_completo_total": 32487,
-        "registros_superior_completo_validos": 32487,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 23253013.14110889
-      }
-    },
-    {
-      "ano": 2019,
-      "trimestre": 4,
-      "periodo": "2019-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 10090929.80676477,
-      "percentual": 41.5746,
-      "resumo": {
-        "registros_superior_completo_total": 21316,
-        "registros_superior_completo_validos": 21316,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 24271883.07571032
-      }
-    },
-    {
-      "ano": 2019,
-      "trimestre": 4,
-      "periodo": "2019-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 14180953.26894555,
-      "percentual": 58.4254,
-      "resumo": {
-        "registros_superior_completo_total": 33204,
-        "registros_superior_completo_validos": 33204,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 24271883.07571032
-      }
-    },
-    {
-      "ano": 2020,
-      "trimestre": 4,
-      "periodo": "2020-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 11640457.99203752,
-      "percentual": 42.4756,
-      "resumo": {
-        "registros_superior_completo_total": 15022,
-        "registros_superior_completo_validos": 15022,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 27405016.63892595
-      }
-    },
-    {
-      "ano": 2020,
-      "trimestre": 4,
-      "periodo": "2020-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 15764558.64688843,
-      "percentual": 57.5244,
-      "resumo": {
-        "registros_superior_completo_total": 23457,
-        "registros_superior_completo_validos": 23457,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 27405016.63892595
-      }
-    },
-    {
-      "ano": 2021,
-      "trimestre": 4,
-      "periodo": "2021-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 10955193.75560753,
-      "percentual": 41.5623,
-      "resumo": {
-        "registros_superior_completo_total": 18884,
-        "registros_superior_completo_validos": 18884,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 26358466.34159361
-      }
-    },
-    {
-      "ano": 2021,
-      "trimestre": 4,
-      "periodo": "2021-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 15403272.58598608,
-      "percentual": 58.4377,
-      "resumo": {
-        "registros_superior_completo_total": 29781,
-        "registros_superior_completo_validos": 29781,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 26358466.34159361
-      }
-    },
-    {
-      "ano": 2022,
-      "trimestre": 4,
-      "periodo": "2022-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 11541502.38179638,
-      "percentual": 41.6627,
-      "resumo": {
-        "registros_superior_completo_total": 21030,
-        "registros_superior_completo_validos": 21030,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 27702248.49306642
-      }
-    },
-    {
-      "ano": 2022,
-      "trimestre": 4,
-      "periodo": "2022-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 16160746.11127004,
-      "percentual": 58.3373,
-      "resumo": {
-        "registros_superior_completo_total": 32885,
-        "registros_superior_completo_validos": 32885,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 27702248.49306642
-      }
-    },
-    {
-      "ano": 2023,
-      "trimestre": 4,
-      "periodo": "2023-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 12167032.56543804,
-      "percentual": 42.127,
-      "resumo": {
-        "registros_superior_completo_total": 21813,
-        "registros_superior_completo_validos": 21813,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 28881794.59318198
-      }
-    },
-    {
-      "ano": 2023,
-      "trimestre": 4,
-      "periodo": "2023-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 16714762.02774394,
-      "percentual": 57.873,
-      "resumo": {
-        "registros_superior_completo_total": 33649,
-        "registros_superior_completo_validos": 33649,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 28881794.59318198
-      }
-    },
-    {
-      "ano": 2024,
-      "trimestre": 4,
-      "periodo": "2024-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 12770501.08790173,
-      "percentual": 42.1037,
-      "resumo": {
-        "registros_superior_completo_total": 22834,
-        "registros_superior_completo_validos": 22834,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 30331075.00206902
-      }
-    },
-    {
-      "ano": 2024,
-      "trimestre": 4,
-      "periodo": "2024-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 17560573.91416729,
-      "percentual": 57.8963,
-      "resumo": {
-        "registros_superior_completo_total": 35006,
-        "registros_superior_completo_validos": 35006,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 30331075.00206902
-      }
-    },
-    {
-      "ano": 2025,
-      "trimestre": 4,
-      "periodo": "2025-T4",
-      "dimensao": "Homem",
-      "peso_ponderado_superior_completo": 13568513.36703907,
-      "percentual": 41.9753,
-      "resumo": {
-        "registros_superior_completo_total": 25950,
-        "registros_superior_completo_validos": 25950,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 32325029.07621348
-      }
-    },
-    {
-      "ano": 2025,
-      "trimestre": 4,
-      "periodo": "2025-T4",
-      "dimensao": "Mulher",
-      "peso_ponderado_superior_completo": 18756515.70917441,
-      "percentual": 58.0247,
-      "resumo": {
-        "registros_superior_completo_total": 40136,
-        "registros_superior_completo_validos": 40136,
-        "registros_superior_completo_excluidos": 0,
-        "perc_superior_completo_excluidos": 0,
-        "total_ponderado_superior_completo_periodo": 32325029.07621348
-      }
-    }
-  ],
-  "series_por_dimensao": [
-    {
-      "dimensao": "Homem",
-      "pontos": [
-        {
-          "ano": 2012,
-          "trimestre": 4,
-          "periodo": "2012-T4",
-          "percentual": 42.0326,
-          "peso_ponderado_superior_completo": 6755610.61332145,
-          "total_ponderado_superior_completo_periodo": 16072295.62844752
-        },
-        {
-          "ano": 2013,
-          "trimestre": 4,
-          "periodo": "2013-T4",
-          "percentual": 42.1055,
-          "peso_ponderado_superior_completo": 7017651.70177297,
-          "total_ponderado_superior_completo_periodo": 16666839.42133327
-        },
-        {
-          "ano": 2014,
-          "trimestre": 4,
-          "periodo": "2014-T4",
-          "percentual": 41.7189,
-          "peso_ponderado_superior_completo": 7460181.71736425,
-          "total_ponderado_superior_completo_periodo": 17882024.68778444
-        },
-        {
-          "ano": 2015,
-          "trimestre": 4,
-          "periodo": "2015-T4",
-          "percentual": 41.9031,
-          "peso_ponderado_superior_completo": 8207267.59426192,
-          "total_ponderado_superior_completo_periodo": 19586287.96935431
-        },
-        {
-          "ano": 2016,
-          "trimestre": 4,
-          "periodo": "2016-T4",
-          "percentual": 42.0871,
-          "peso_ponderado_superior_completo": 8652228.50641029,
-          "total_ponderado_superior_completo_periodo": 20557896.78080759
-        },
-        {
-          "ano": 2017,
-          "trimestre": 4,
-          "periodo": "2017-T4",
-          "percentual": 41.6738,
-          "peso_ponderado_superior_completo": 8977779.11138969,
-          "total_ponderado_superior_completo_periodo": 21542964.89951796
-        },
-        {
-          "ano": 2018,
-          "trimestre": 4,
-          "periodo": "2018-T4",
-          "percentual": 41.3999,
-          "peso_ponderado_superior_completo": 9626733.02732806,
-          "total_ponderado_superior_completo_periodo": 23253013.14110889
-        },
-        {
-          "ano": 2019,
-          "trimestre": 4,
-          "periodo": "2019-T4",
-          "percentual": 41.5746,
-          "peso_ponderado_superior_completo": 10090929.80676477,
-          "total_ponderado_superior_completo_periodo": 24271883.07571032
-        },
-        {
-          "ano": 2020,
-          "trimestre": 4,
-          "periodo": "2020-T4",
-          "percentual": 42.4756,
-          "peso_ponderado_superior_completo": 11640457.99203752,
-          "total_ponderado_superior_completo_periodo": 27405016.63892595
-        },
-        {
-          "ano": 2021,
-          "trimestre": 4,
-          "periodo": "2021-T4",
-          "percentual": 41.5623,
-          "peso_ponderado_superior_completo": 10955193.75560753,
-          "total_ponderado_superior_completo_periodo": 26358466.34159361
-        },
-        {
-          "ano": 2022,
-          "trimestre": 4,
-          "periodo": "2022-T4",
-          "percentual": 41.6627,
-          "peso_ponderado_superior_completo": 11541502.38179638,
-          "total_ponderado_superior_completo_periodo": 27702248.49306642
-        },
-        {
-          "ano": 2023,
-          "trimestre": 4,
-          "periodo": "2023-T4",
-          "percentual": 42.127,
-          "peso_ponderado_superior_completo": 12167032.56543804,
-          "total_ponderado_superior_completo_periodo": 28881794.59318198
-        },
-        {
-          "ano": 2024,
-          "trimestre": 4,
-          "periodo": "2024-T4",
-          "percentual": 42.1037,
-          "peso_ponderado_superior_completo": 12770501.08790173,
-          "total_ponderado_superior_completo_periodo": 30331075.00206902
-        },
-        {
-          "ano": 2025,
-          "trimestre": 4,
-          "periodo": "2025-T4",
-          "percentual": 41.9753,
-          "peso_ponderado_superior_completo": 13568513.36703907,
-          "total_ponderado_superior_completo_periodo": 32325029.07621348
-        }
-      ]
-    },
-    {
-      "dimensao": "Mulher",
-      "pontos": [
-        {
-          "ano": 2012,
-          "trimestre": 4,
-          "periodo": "2012-T4",
-          "percentual": 57.9674,
-          "peso_ponderado_superior_completo": 9316685.01512607,
-          "total_ponderado_superior_completo_periodo": 16072295.62844752
-        },
-        {
-          "ano": 2013,
-          "trimestre": 4,
-          "periodo": "2013-T4",
-          "percentual": 57.8945,
-          "peso_ponderado_superior_completo": 9649187.7195603,
-          "total_ponderado_superior_completo_periodo": 16666839.42133327
-        },
-        {
-          "ano": 2014,
-          "trimestre": 4,
-          "periodo": "2014-T4",
-          "percentual": 58.2811,
-          "peso_ponderado_superior_completo": 10421842.97042019,
-          "total_ponderado_superior_completo_periodo": 17882024.68778444
-        },
-        {
-          "ano": 2015,
-          "trimestre": 4,
-          "periodo": "2015-T4",
-          "percentual": 58.0969,
-          "peso_ponderado_superior_completo": 11379020.37509239,
-          "total_ponderado_superior_completo_periodo": 19586287.96935431
-        },
-        {
-          "ano": 2016,
-          "trimestre": 4,
-          "periodo": "2016-T4",
-          "percentual": 57.9129,
-          "peso_ponderado_superior_completo": 11905668.2743973,
-          "total_ponderado_superior_completo_periodo": 20557896.78080759
-        },
-        {
-          "ano": 2017,
-          "trimestre": 4,
-          "periodo": "2017-T4",
-          "percentual": 58.3262,
-          "peso_ponderado_superior_completo": 12565185.78812827,
-          "total_ponderado_superior_completo_periodo": 21542964.89951796
-        },
-        {
-          "ano": 2018,
-          "trimestre": 4,
-          "periodo": "2018-T4",
-          "percentual": 58.6001,
-          "peso_ponderado_superior_completo": 13626280.11378083,
-          "total_ponderado_superior_completo_periodo": 23253013.14110889
-        },
-        {
-          "ano": 2019,
-          "trimestre": 4,
-          "periodo": "2019-T4",
-          "percentual": 58.4254,
-          "peso_ponderado_superior_completo": 14180953.26894555,
-          "total_ponderado_superior_completo_periodo": 24271883.07571032
-        },
-        {
-          "ano": 2020,
-          "trimestre": 4,
-          "periodo": "2020-T4",
-          "percentual": 57.5244,
-          "peso_ponderado_superior_completo": 15764558.64688843,
-          "total_ponderado_superior_completo_periodo": 27405016.63892595
-        },
-        {
-          "ano": 2021,
-          "trimestre": 4,
-          "periodo": "2021-T4",
-          "percentual": 58.4377,
-          "peso_ponderado_superior_completo": 15403272.58598608,
-          "total_ponderado_superior_completo_periodo": 26358466.34159361
-        },
-        {
-          "ano": 2022,
-          "trimestre": 4,
-          "periodo": "2022-T4",
-          "percentual": 58.3373,
-          "peso_ponderado_superior_completo": 16160746.11127004,
-          "total_ponderado_superior_completo_periodo": 27702248.49306642
-        },
-        {
-          "ano": 2023,
-          "trimestre": 4,
-          "periodo": "2023-T4",
-          "percentual": 57.873,
-          "peso_ponderado_superior_completo": 16714762.02774394,
-          "total_ponderado_superior_completo_periodo": 28881794.59318198
-        },
-        {
-          "ano": 2024,
-          "trimestre": 4,
-          "periodo": "2024-T4",
-          "percentual": 57.8963,
-          "peso_ponderado_superior_completo": 17560573.91416729,
-          "total_ponderado_superior_completo_periodo": 30331075.00206902
-        },
-        {
-          "ano": 2025,
-          "trimestre": 4,
-          "periodo": "2025-T4",
-          "percentual": 58.0247,
-          "peso_ponderado_superior_completo": 18756515.70917441,
-          "total_ponderado_superior_completo_periodo": 32325029.07621348
-        }
-      ]
-    }
-  ],
-  "tabela_participacao": [
     {
       "Ano": 2012,
       "Trimestre": 4,
@@ -688,6 +80,60 @@
       "peso_ponderado_superior_completo": 6755610.61332145,
       "total_ponderado_superior_completo_periodo": 16072295.62844752,
       "percentual": 42.0326
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 1,
+      "periodo": "2013-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9488397.01815372,
+      "total_ponderado_superior_completo_periodo": 16328824.07736979,
+      "percentual": 58.1083
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 1,
+      "periodo": "2013-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 6840427.05921607,
+      "total_ponderado_superior_completo_periodo": 16328824.07736979,
+      "percentual": 41.8917
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 2,
+      "periodo": "2013-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9511284.19995416,
+      "total_ponderado_superior_completo_periodo": 16434817.9943814,
+      "percentual": 57.8728
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 2,
+      "periodo": "2013-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 6923533.79442724,
+      "total_ponderado_superior_completo_periodo": 16434817.9943814,
+      "percentual": 42.1272
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 3,
+      "periodo": "2013-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9559730.4265225,
+      "total_ponderado_superior_completo_periodo": 16523102.73810598,
+      "percentual": 57.8568
+    },
+    {
+      "Ano": 2013,
+      "Trimestre": 3,
+      "periodo": "2013-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 6963372.31158348,
+      "total_ponderado_superior_completo_periodo": 16523102.73810598,
+      "percentual": 42.1432
     },
     {
       "Ano": 2013,
@@ -709,6 +155,60 @@
     },
     {
       "Ano": 2014,
+      "Trimestre": 1,
+      "periodo": "2014-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9886155.72039148,
+      "total_ponderado_superior_completo_periodo": 17095560.1151598,
+      "percentual": 57.8288
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 1,
+      "periodo": "2014-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 7209404.39476832,
+      "total_ponderado_superior_completo_periodo": 17095560.1151598,
+      "percentual": 42.1712
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 2,
+      "periodo": "2014-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 9994720.69329174,
+      "total_ponderado_superior_completo_periodo": 17307068.33326664,
+      "percentual": 57.7494
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 2,
+      "periodo": "2014-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 7312347.6399749,
+      "total_ponderado_superior_completo_periodo": 17307068.33326664,
+      "percentual": 42.2506
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 3,
+      "periodo": "2014-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 10115345.56080982,
+      "total_ponderado_superior_completo_periodo": 17467652.72943931,
+      "percentual": 57.909
+    },
+    {
+      "Ano": 2014,
+      "Trimestre": 3,
+      "periodo": "2014-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 7352307.16862949,
+      "total_ponderado_superior_completo_periodo": 17467652.72943931,
+      "percentual": 42.091
+    },
+    {
+      "Ano": 2014,
       "Trimestre": 4,
       "periodo": "2014-T4",
       "sexo": "Mulher",
@@ -724,6 +224,60 @@
       "peso_ponderado_superior_completo": 7460181.71736425,
       "total_ponderado_superior_completo_periodo": 17882024.68778444,
       "percentual": 41.7189
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 1,
+      "periodo": "2015-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 10781191.49265721,
+      "total_ponderado_superior_completo_periodo": 18564293.34308401,
+      "percentual": 58.0749
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 1,
+      "periodo": "2015-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 7783101.8504268,
+      "total_ponderado_superior_completo_periodo": 18564293.34308401,
+      "percentual": 41.9251
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 2,
+      "periodo": "2015-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 10922479.27991429,
+      "total_ponderado_superior_completo_periodo": 18842764.01424403,
+      "percentual": 57.9664
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 2,
+      "periodo": "2015-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 7920284.73432974,
+      "total_ponderado_superior_completo_periodo": 18842764.01424403,
+      "percentual": 42.0336
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 3,
+      "periodo": "2015-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 11163746.96271559,
+      "total_ponderado_superior_completo_periodo": 19270041.06244032,
+      "percentual": 57.9332
+    },
+    {
+      "Ano": 2015,
+      "Trimestre": 3,
+      "periodo": "2015-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 8106294.09972473,
+      "total_ponderado_superior_completo_periodo": 19270041.06244032,
+      "percentual": 42.0668
     },
     {
       "Ano": 2015,
@@ -745,6 +299,60 @@
     },
     {
       "Ano": 2016,
+      "Trimestre": 1,
+      "periodo": "2016-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 11630490.04866296,
+      "total_ponderado_superior_completo_periodo": 20176698.92784329,
+      "percentual": 57.6432
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 1,
+      "periodo": "2016-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 8546208.87918033,
+      "total_ponderado_superior_completo_periodo": 20176698.92784329,
+      "percentual": 42.3568
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 2,
+      "periodo": "2016-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 11618106.69509242,
+      "total_ponderado_superior_completo_periodo": 20072720.50832551,
+      "percentual": 57.8801
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 2,
+      "periodo": "2016-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 8454613.81323309,
+      "total_ponderado_superior_completo_periodo": 20072720.50832551,
+      "percentual": 42.1199
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 3,
+      "periodo": "2016-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 11803505.92086154,
+      "total_ponderado_superior_completo_periodo": 20337831.65886024,
+      "percentual": 58.0372
+    },
+    {
+      "Ano": 2016,
+      "Trimestre": 3,
+      "periodo": "2016-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 8534325.7379987,
+      "total_ponderado_superior_completo_periodo": 20337831.65886024,
+      "percentual": 41.9628
+    },
+    {
+      "Ano": 2016,
       "Trimestre": 4,
       "periodo": "2016-T4",
       "sexo": "Mulher",
@@ -760,6 +368,60 @@
       "peso_ponderado_superior_completo": 8652228.50641029,
       "total_ponderado_superior_completo_periodo": 20557896.78080759,
       "percentual": 42.0871
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 1,
+      "periodo": "2017-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 12295784.60031517,
+      "total_ponderado_superior_completo_periodo": 20991626.0484216,
+      "percentual": 58.5747
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 1,
+      "periodo": "2017-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 8695841.44810643,
+      "total_ponderado_superior_completo_periodo": 20991626.0484216,
+      "percentual": 41.4253
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 2,
+      "periodo": "2017-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 12221530.29525269,
+      "total_ponderado_superior_completo_periodo": 20888573.53532639,
+      "percentual": 58.5082
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 2,
+      "periodo": "2017-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 8667043.2400737,
+      "total_ponderado_superior_completo_periodo": 20888573.53532639,
+      "percentual": 41.4918
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 3,
+      "periodo": "2017-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 12400117.44105116,
+      "total_ponderado_superior_completo_periodo": 21299889.71527962,
+      "percentual": 58.2168
+    },
+    {
+      "Ano": 2017,
+      "Trimestre": 3,
+      "periodo": "2017-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 8899772.27422846,
+      "total_ponderado_superior_completo_periodo": 21299889.71527962,
+      "percentual": 41.7832
     },
     {
       "Ano": 2017,
@@ -781,6 +443,60 @@
     },
     {
       "Ano": 2018,
+      "Trimestre": 1,
+      "periodo": "2018-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 12845611.04725052,
+      "total_ponderado_superior_completo_periodo": 22078677.80952643,
+      "percentual": 58.1811
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 1,
+      "periodo": "2018-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 9233066.76227591,
+      "total_ponderado_superior_completo_periodo": 22078677.80952643,
+      "percentual": 41.8189
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 2,
+      "periodo": "2018-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 12931099.10436539,
+      "total_ponderado_superior_completo_periodo": 22249921.87979274,
+      "percentual": 58.1175
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 2,
+      "periodo": "2018-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 9318822.77542735,
+      "total_ponderado_superior_completo_periodo": 22249921.87979274,
+      "percentual": 41.8825
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 3,
+      "periodo": "2018-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 13275479.69403563,
+      "total_ponderado_superior_completo_periodo": 22671752.36366645,
+      "percentual": 58.5552
+    },
+    {
+      "Ano": 2018,
+      "Trimestre": 3,
+      "periodo": "2018-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 9396272.66963082,
+      "total_ponderado_superior_completo_periodo": 22671752.36366645,
+      "percentual": 41.4448
+    },
+    {
+      "Ano": 2018,
       "Trimestre": 4,
       "periodo": "2018-T4",
       "sexo": "Mulher",
@@ -796,6 +512,60 @@
       "peso_ponderado_superior_completo": 9626733.02732806,
       "total_ponderado_superior_completo_periodo": 23253013.14110889,
       "percentual": 41.3999
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 1,
+      "periodo": "2019-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 13924256.84842884,
+      "total_ponderado_superior_completo_periodo": 23840648.97627877,
+      "percentual": 58.4055
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 1,
+      "periodo": "2019-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 9916392.12784993,
+      "total_ponderado_superior_completo_periodo": 23840648.97627877,
+      "percentual": 41.5945
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 2,
+      "periodo": "2019-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 13883347.27194693,
+      "total_ponderado_superior_completo_periodo": 23763584.17411301,
+      "percentual": 58.4228
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 2,
+      "periodo": "2019-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 9880236.90216608,
+      "total_ponderado_superior_completo_periodo": 23763584.17411301,
+      "percentual": 41.5772
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 3,
+      "periodo": "2019-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 14044005.28092019,
+      "total_ponderado_superior_completo_periodo": 23947303.54550834,
+      "percentual": 58.6455
+    },
+    {
+      "Ano": 2019,
+      "Trimestre": 3,
+      "periodo": "2019-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 9903298.26458815,
+      "total_ponderado_superior_completo_periodo": 23947303.54550834,
+      "percentual": 41.3545
     },
     {
       "Ano": 2019,
@@ -817,6 +587,60 @@
     },
     {
       "Ano": 2020,
+      "Trimestre": 1,
+      "periodo": "2020-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 14609035.9767107,
+      "total_ponderado_superior_completo_periodo": 25081393.86381579,
+      "percentual": 58.2465
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 1,
+      "periodo": "2020-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 10472357.88710509,
+      "total_ponderado_superior_completo_periodo": 25081393.86381579,
+      "percentual": 41.7535
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 2,
+      "periodo": "2020-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 15272932.98373132,
+      "total_ponderado_superior_completo_periodo": 26318649.4360769,
+      "percentual": 58.0308
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 2,
+      "periodo": "2020-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11045716.45234558,
+      "total_ponderado_superior_completo_periodo": 26318649.4360769,
+      "percentual": 41.9692
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 3,
+      "periodo": "2020-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 15378590.46218808,
+      "total_ponderado_superior_completo_periodo": 26474524.13948829,
+      "percentual": 58.0883
+    },
+    {
+      "Ano": 2020,
+      "Trimestre": 3,
+      "periodo": "2020-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11095933.67730021,
+      "total_ponderado_superior_completo_periodo": 26474524.13948829,
+      "percentual": 41.9117
+    },
+    {
+      "Ano": 2020,
       "Trimestre": 4,
       "periodo": "2020-T4",
       "sexo": "Mulher",
@@ -832,6 +656,60 @@
       "peso_ponderado_superior_completo": 11640457.99203752,
       "total_ponderado_superior_completo_periodo": 27405016.63892595,
       "percentual": 42.4756
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 1,
+      "periodo": "2021-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 16035800.65793672,
+      "total_ponderado_superior_completo_periodo": 27867236.02552552,
+      "percentual": 57.5436
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 1,
+      "periodo": "2021-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11831435.3675888,
+      "total_ponderado_superior_completo_periodo": 27867236.02552552,
+      "percentual": 42.4564
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 2,
+      "periodo": "2021-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 15789869.57518114,
+      "total_ponderado_superior_completo_periodo": 27504364.51190281,
+      "percentual": 57.4086
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 2,
+      "periodo": "2021-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11714494.93672167,
+      "total_ponderado_superior_completo_periodo": 27504364.51190281,
+      "percentual": 42.5914
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 3,
+      "periodo": "2021-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 15299478.58115381,
+      "total_ponderado_superior_completo_periodo": 26329139.64590082,
+      "percentual": 58.1085
+    },
+    {
+      "Ano": 2021,
+      "Trimestre": 3,
+      "periodo": "2021-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11029661.06474701,
+      "total_ponderado_superior_completo_periodo": 26329139.64590082,
+      "percentual": 41.8915
     },
     {
       "Ano": 2021,
@@ -853,6 +731,60 @@
     },
     {
       "Ano": 2022,
+      "Trimestre": 1,
+      "periodo": "2022-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 15653230.83264738,
+      "total_ponderado_superior_completo_periodo": 26768637.40276944,
+      "percentual": 58.476
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 1,
+      "periodo": "2022-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11115406.57012206,
+      "total_ponderado_superior_completo_periodo": 26768637.40276944,
+      "percentual": 41.524
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 2,
+      "periodo": "2022-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 15773161.37182396,
+      "total_ponderado_superior_completo_periodo": 26957148.85499175,
+      "percentual": 58.512
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 2,
+      "periodo": "2022-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11183987.48316779,
+      "total_ponderado_superior_completo_periodo": 26957148.85499175,
+      "percentual": 41.488
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 3,
+      "periodo": "2022-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 15976142.11527284,
+      "total_ponderado_superior_completo_periodo": 27175304.52796046,
+      "percentual": 58.7892
+    },
+    {
+      "Ano": 2022,
+      "Trimestre": 3,
+      "periodo": "2022-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11199162.41268762,
+      "total_ponderado_superior_completo_periodo": 27175304.52796046,
+      "percentual": 41.2108
+    },
+    {
+      "Ano": 2022,
       "Trimestre": 4,
       "periodo": "2022-T4",
       "sexo": "Mulher",
@@ -868,6 +800,60 @@
       "peso_ponderado_superior_completo": 11541502.38179638,
       "total_ponderado_superior_completo_periodo": 27702248.49306642,
       "percentual": 41.6627
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 1,
+      "periodo": "2023-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 16167219.69571513,
+      "total_ponderado_superior_completo_periodo": 27796623.70732213,
+      "percentual": 58.1625
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 1,
+      "periodo": "2023-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11629404.011607,
+      "total_ponderado_superior_completo_periodo": 27796623.70732213,
+      "percentual": 41.8375
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 2,
+      "periodo": "2023-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 16287165.49787635,
+      "total_ponderado_superior_completo_periodo": 27979520.53534046,
+      "percentual": 58.211
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 2,
+      "periodo": "2023-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 11692355.03746411,
+      "total_ponderado_superior_completo_periodo": 27979520.53534046,
+      "percentual": 41.789
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 3,
+      "periodo": "2023-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 16437028.06930535,
+      "total_ponderado_superior_completo_periodo": 28437131.10851842,
+      "percentual": 57.8013
+    },
+    {
+      "Ano": 2023,
+      "Trimestre": 3,
+      "periodo": "2023-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 12000103.03921307,
+      "total_ponderado_superior_completo_periodo": 28437131.10851842,
+      "percentual": 42.1987
     },
     {
       "Ano": 2023,
@@ -889,6 +875,60 @@
     },
     {
       "Ano": 2024,
+      "Trimestre": 1,
+      "periodo": "2024-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 16989610.13711728,
+      "total_ponderado_superior_completo_periodo": 29375924.52665563,
+      "percentual": 57.8352
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 1,
+      "periodo": "2024-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 12386314.38953835,
+      "total_ponderado_superior_completo_periodo": 29375924.52665563,
+      "percentual": 42.1648
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 2,
+      "periodo": "2024-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 17159153.90917877,
+      "total_ponderado_superior_completo_periodo": 29581666.74725014,
+      "percentual": 58.006
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 2,
+      "periodo": "2024-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 12422512.83807137,
+      "total_ponderado_superior_completo_periodo": 29581666.74725014,
+      "percentual": 41.994
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 3,
+      "periodo": "2024-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 17210685.15035916,
+      "total_ponderado_superior_completo_periodo": 29668757.99388574,
+      "percentual": 58.0095
+    },
+    {
+      "Ano": 2024,
+      "Trimestre": 3,
+      "periodo": "2024-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 12458072.84352658,
+      "total_ponderado_superior_completo_periodo": 29668757.99388574,
+      "percentual": 41.9905
+    },
+    {
+      "Ano": 2024,
       "Trimestre": 4,
       "periodo": "2024-T4",
       "sexo": "Mulher",
@@ -907,6 +947,60 @@
     },
     {
       "Ano": 2025,
+      "Trimestre": 1,
+      "periodo": "2025-T1",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 17974783.82354348,
+      "total_ponderado_superior_completo_periodo": 30990093.10521881,
+      "percentual": 58.0017
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 1,
+      "periodo": "2025-T1",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 13015309.28167533,
+      "total_ponderado_superior_completo_periodo": 30990093.10521881,
+      "percentual": 41.9983
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 2,
+      "periodo": "2025-T2",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 18117450.32038607,
+      "total_ponderado_superior_completo_periodo": 31333777.21592336,
+      "percentual": 57.8208
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 2,
+      "periodo": "2025-T2",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 13216326.89553729,
+      "total_ponderado_superior_completo_periodo": 31333777.21592336,
+      "percentual": 42.1792
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 3,
+      "periodo": "2025-T3",
+      "sexo": "Mulher",
+      "peso_ponderado_superior_completo": 18367021.53983587,
+      "total_ponderado_superior_completo_periodo": 31666936.25080654,
+      "percentual": 58.0006
+    },
+    {
+      "Ano": 2025,
+      "Trimestre": 3,
+      "periodo": "2025-T3",
+      "sexo": "Homem",
+      "peso_ponderado_superior_completo": 13299914.71097067,
+      "total_ponderado_superior_completo_periodo": 31666936.25080654,
+      "percentual": 41.9994
+    },
+    {
+      "Ano": 2025,
       "Trimestre": 4,
       "periodo": "2025-T4",
       "sexo": "Mulher",
@@ -922,472 +1016,24 @@
       "peso_ponderado_superior_completo": 13568513.36703907,
       "total_ponderado_superior_completo_periodo": 32325029.07621348,
       "percentual": 41.9753
-    }
-  ],
-  "tabela_resumo_dimensao": [
-    {
-      "Ano": 2012,
-      "Trimestre": 4,
-      "periodo": "2012-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 14308,
-      "registros_superior_completo_validos": 14308,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 16072295.62844752
     },
     {
-      "Ano": 2012,
-      "Trimestre": 4,
-      "periodo": "2012-T4",
+      "Ano": 2026,
+      "Trimestre": 1,
+      "periodo": "2026-T1",
       "sexo": "Mulher",
-      "registros_superior_completo_total": 21766,
-      "registros_superior_completo_validos": 21766,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 16072295.62844752
+      "peso_ponderado_superior_completo": 18905961.77584779,
+      "total_ponderado_superior_completo_periodo": 32574066.4632431,
+      "percentual": 58.0399
     },
     {
-      "Ano": 2013,
-      "Trimestre": 4,
-      "periodo": "2013-T4",
+      "Ano": 2026,
+      "Trimestre": 1,
+      "periodo": "2026-T1",
       "sexo": "Homem",
-      "registros_superior_completo_total": 15452,
-      "registros_superior_completo_validos": 15452,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 16666839.42133327
-    },
-    {
-      "Ano": 2013,
-      "Trimestre": 4,
-      "periodo": "2013-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 23090,
-      "registros_superior_completo_validos": 23090,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 16666839.42133327
-    },
-    {
-      "Ano": 2014,
-      "Trimestre": 4,
-      "periodo": "2014-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 16579,
-      "registros_superior_completo_validos": 16579,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 17882024.68778444
-    },
-    {
-      "Ano": 2014,
-      "Trimestre": 4,
-      "periodo": "2014-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 25326,
-      "registros_superior_completo_validos": 25326,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 17882024.68778444
-    },
-    {
-      "Ano": 2015,
-      "Trimestre": 4,
-      "periodo": "2015-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 17460,
-      "registros_superior_completo_validos": 17460,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 19586287.96935431
-    },
-    {
-      "Ano": 2015,
-      "Trimestre": 4,
-      "periodo": "2015-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 26703,
-      "registros_superior_completo_validos": 26703,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 19586287.96935431
-    },
-    {
-      "Ano": 2016,
-      "Trimestre": 4,
-      "periodo": "2016-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 18526,
-      "registros_superior_completo_validos": 18526,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 20557896.78080759
-    },
-    {
-      "Ano": 2016,
-      "Trimestre": 4,
-      "periodo": "2016-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 28432,
-      "registros_superior_completo_validos": 28432,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 20557896.78080759
-    },
-    {
-      "Ano": 2017,
-      "Trimestre": 4,
-      "periodo": "2017-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 19655,
-      "registros_superior_completo_validos": 19655,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 21542964.89951796
-    },
-    {
-      "Ano": 2017,
-      "Trimestre": 4,
-      "periodo": "2017-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 30469,
-      "registros_superior_completo_validos": 30469,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 21542964.89951796
-    },
-    {
-      "Ano": 2018,
-      "Trimestre": 4,
-      "periodo": "2018-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 20830,
-      "registros_superior_completo_validos": 20830,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 23253013.14110889
-    },
-    {
-      "Ano": 2018,
-      "Trimestre": 4,
-      "periodo": "2018-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 32487,
-      "registros_superior_completo_validos": 32487,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 23253013.14110889
-    },
-    {
-      "Ano": 2019,
-      "Trimestre": 4,
-      "periodo": "2019-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 21316,
-      "registros_superior_completo_validos": 21316,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 24271883.07571032
-    },
-    {
-      "Ano": 2019,
-      "Trimestre": 4,
-      "periodo": "2019-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 33204,
-      "registros_superior_completo_validos": 33204,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 24271883.07571032
-    },
-    {
-      "Ano": 2020,
-      "Trimestre": 4,
-      "periodo": "2020-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 15022,
-      "registros_superior_completo_validos": 15022,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 27405016.63892595
-    },
-    {
-      "Ano": 2020,
-      "Trimestre": 4,
-      "periodo": "2020-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 23457,
-      "registros_superior_completo_validos": 23457,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 27405016.63892595
-    },
-    {
-      "Ano": 2021,
-      "Trimestre": 4,
-      "periodo": "2021-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 18884,
-      "registros_superior_completo_validos": 18884,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 26358466.34159361
-    },
-    {
-      "Ano": 2021,
-      "Trimestre": 4,
-      "periodo": "2021-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 29781,
-      "registros_superior_completo_validos": 29781,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 26358466.34159361
-    },
-    {
-      "Ano": 2022,
-      "Trimestre": 4,
-      "periodo": "2022-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 21030,
-      "registros_superior_completo_validos": 21030,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 27702248.49306642
-    },
-    {
-      "Ano": 2022,
-      "Trimestre": 4,
-      "periodo": "2022-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 32885,
-      "registros_superior_completo_validos": 32885,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 27702248.49306642
-    },
-    {
-      "Ano": 2023,
-      "Trimestre": 4,
-      "periodo": "2023-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 21813,
-      "registros_superior_completo_validos": 21813,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 28881794.59318198
-    },
-    {
-      "Ano": 2023,
-      "Trimestre": 4,
-      "periodo": "2023-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 33649,
-      "registros_superior_completo_validos": 33649,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 28881794.59318198
-    },
-    {
-      "Ano": 2024,
-      "Trimestre": 4,
-      "periodo": "2024-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 22834,
-      "registros_superior_completo_validos": 22834,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 30331075.00206902
-    },
-    {
-      "Ano": 2024,
-      "Trimestre": 4,
-      "periodo": "2024-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 35006,
-      "registros_superior_completo_validos": 35006,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 30331075.00206902
-    },
-    {
-      "Ano": 2025,
-      "Trimestre": 4,
-      "periodo": "2025-T4",
-      "sexo": "Homem",
-      "registros_superior_completo_total": 25950,
-      "registros_superior_completo_validos": 25950,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 32325029.07621348
-    },
-    {
-      "Ano": 2025,
-      "Trimestre": 4,
-      "periodo": "2025-T4",
-      "sexo": "Mulher",
-      "registros_superior_completo_total": 40136,
-      "registros_superior_completo_validos": 40136,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "total_ponderado_superior_completo_periodo": 32325029.07621348
-    }
-  ],
-  "tabela_resumo_arquivo": [
-    {
-      "arquivo": "pnadc_2012_t4_recorte.rds",
-      "ano_trimestre_nome": "2012T4",
-      "registros_total": 555935,
-      "registros_superior_completo": 36074,
-      "registros_superior_completo_validos": 36074,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2013_t4_recorte.rds",
-      "ano_trimestre_nome": "2013T4",
-      "registros_total": 569242,
-      "registros_superior_completo": 38542,
-      "registros_superior_completo_validos": 38542,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2014_t4_recorte.rds",
-      "ano_trimestre_nome": "2014T4",
-      "registros_total": 574987,
-      "registros_superior_completo": 41905,
-      "registros_superior_completo_validos": 41905,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2015_t4_recorte.rds",
-      "ano_trimestre_nome": "2015T4",
-      "registros_total": 562871,
-      "registros_superior_completo": 44163,
-      "registros_superior_completo_validos": 44163,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2016_t4_recorte.rds",
-      "ano_trimestre_nome": "2016T4",
-      "registros_total": 570556,
-      "registros_superior_completo": 46958,
-      "registros_superior_completo_validos": 46958,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2017_t4_recorte.rds",
-      "ano_trimestre_nome": "2017T4",
-      "registros_total": 561288,
-      "registros_superior_completo": 50124,
-      "registros_superior_completo_validos": 50124,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2018_t4_recorte.rds",
-      "ano_trimestre_nome": "2018T4",
-      "registros_total": 554211,
-      "registros_superior_completo": 53317,
-      "registros_superior_completo_validos": 53317,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2019_t4_recorte.rds",
-      "ano_trimestre_nome": "2019T4",
-      "registros_total": 542802,
-      "registros_superior_completo": 54520,
-      "registros_superior_completo_validos": 54520,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2020_t4_recorte.rds",
-      "ano_trimestre_nome": "2020T4",
-      "registros_total": 335566,
-      "registros_superior_completo": 38479,
-      "registros_superior_completo_validos": 38479,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2021_t4_recorte.rds",
-      "ano_trimestre_nome": "2021T4",
-      "registros_total": 461795,
-      "registros_superior_completo": 48665,
-      "registros_superior_completo_validos": 48665,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2022_t4_recorte.rds",
-      "ano_trimestre_nome": "2022T4",
-      "registros_total": 478091,
-      "registros_superior_completo": 53915,
-      "registros_superior_completo_validos": 53915,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2023_t4_recorte.rds",
-      "ano_trimestre_nome": "2023T4",
-      "registros_total": 473206,
-      "registros_superior_completo": 55462,
-      "registros_superior_completo_validos": 55462,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2024_t4_recorte.rds",
-      "ano_trimestre_nome": "2024T4",
-      "registros_total": 469334,
-      "registros_superior_completo": 57840,
-      "registros_superior_completo_validos": 57840,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
-    },
-    {
-      "arquivo": "pnadc_2025_t4_recorte.rds",
-      "ano_trimestre_nome": "2025T4",
-      "registros_total": 498494,
-      "registros_superior_completo": 66086,
-      "registros_superior_completo_validos": 66086,
-      "registros_superior_completo_excluidos": 0,
-      "perc_superior_completo_excluidos": 0,
-      "registros_superior_sem_dimensao": 0,
-      "registros_superior_peso_invalido": 0
+      "peso_ponderado_superior_completo": 13668104.68739531,
+      "total_ponderado_superior_completo_periodo": 32574066.4632431,
+      "percentual": 41.9601
     }
   ]
 }

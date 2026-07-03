@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por regiao",
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por regiao (VD4019 e VD4020).",
-    "gerado_em": "2026-07-02 21:29:18 -0300",
+    "gerado_em": "2026-07-03 14:19:46 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
@@ -15,48 +15,48 @@
   "tabela": [
     {
       "regiao": "Centro-Oeste",
-      "registros_com_ocupacao_e_peso_valido": 25395,
-      "registros_com_rendimento_habitual": 25157,
-      "rendimento_habitual_medio_ponderado": 4173.36532794,
-      "registros_com_rendimento_efetivo": 24751,
-      "rendimento_efetivo_medio_ponderado": 4367.80046096
+      "registros_com_ocupacao_e_peso_valido": 26405,
+      "registros_com_rendimento_habitual": 26126,
+      "rendimento_habitual_medio_ponderado": 4378.97504932,
+      "registros_com_rendimento_efetivo": 25603,
+      "rendimento_efetivo_medio_ponderado": 4816.19636364
     },
     {
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 62639,
-      "registros_com_rendimento_habitual": 61348,
-      "rendimento_habitual_medio_ponderado": 2497.75596006,
-      "registros_com_rendimento_efetivo": 59738,
-      "rendimento_efetivo_medio_ponderado": 2603.75618918
+      "registros_com_ocupacao_e_peso_valido": 62860,
+      "registros_com_rendimento_habitual": 61551,
+      "rendimento_habitual_medio_ponderado": 2615.52518888,
+      "registros_com_rendimento_efetivo": 59446,
+      "rendimento_efetivo_medio_ponderado": 2863.55975501
     },
     {
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 30126,
-      "registros_com_rendimento_habitual": 28814,
-      "rendimento_habitual_medio_ponderado": 2845.74439892,
-      "registros_com_rendimento_efetivo": 27956,
-      "rendimento_efetivo_medio_ponderado": 2977.27173136
+      "registros_com_ocupacao_e_peso_valido": 30672,
+      "registros_com_rendimento_habitual": 29335,
+      "rendimento_habitual_medio_ponderado": 2849.42362421,
+      "registros_com_rendimento_efetivo": 28049,
+      "rendimento_efetivo_medio_ponderado": 3127.07079339
     },
     {
       "regiao": "Sudeste",
-      "registros_com_ocupacao_e_peso_valido": 62492,
-      "registros_com_rendimento_habitual": 61687,
-      "rendimento_habitual_medio_ponderado": 4033.17397598,
-      "registros_com_rendimento_efetivo": 60681,
-      "rendimento_efetivo_medio_ponderado": 4231.10170622
+      "registros_com_ocupacao_e_peso_valido": 62932,
+      "registros_com_rendimento_habitual": 62147,
+      "rendimento_habitual_medio_ponderado": 4125.45268084,
+      "registros_com_rendimento_efetivo": 60789,
+      "rendimento_efetivo_medio_ponderado": 4545.92769488
     },
     {
       "regiao": "Sul",
-      "registros_com_ocupacao_e_peso_valido": 44329,
-      "registros_com_rendimento_habitual": 43413,
-      "rendimento_habitual_medio_ponderado": 4089.3329851,
-      "registros_com_rendimento_efetivo": 42502,
-      "rendimento_efetivo_medio_ponderado": 4283.27801772
+      "registros_com_ocupacao_e_peso_valido": 45488,
+      "registros_com_rendimento_habitual": 44634,
+      "rendimento_habitual_medio_ponderado": 4193.36280897,
+      "registros_com_rendimento_efetivo": 43612,
+      "rendimento_efetivo_medio_ponderado": 4601.70850189
     }
   ],
   "ultimo_periodo": {
-    "ano": 2025,
-    "trimestre": 4,
-    "periodo": "2025-T4"
+    "ano": 2026,
+    "trimestre": 1,
+    "periodo": "2026-T1"
   }
 }

@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por raca/cor",
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por raca/cor (VD4019 e VD4020).",
-    "gerado_em": "2026-07-02 21:29:26 -0300",
+    "gerado_em": "2026-07-03 14:19:15 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
@@ -15,56 +15,56 @@
   "tabela": [
     {
       "cor_ou_raca": "Amarela",
-      "registros_com_ocupacao_e_peso_valido": 1109,
-      "registros_com_rendimento_habitual": 1095,
-      "rendimento_habitual_medio_ponderado": 5839.418938,
-      "registros_com_rendimento_efetivo": 1083,
-      "rendimento_efetivo_medio_ponderado": 5943.79122815
+      "registros_com_ocupacao_e_peso_valido": 1061,
+      "registros_com_rendimento_habitual": 1042,
+      "rendimento_habitual_medio_ponderado": 5834.61394163,
+      "registros_com_rendimento_efetivo": 1029,
+      "rendimento_efetivo_medio_ponderado": 6524.13809446
     },
     {
       "cor_ou_raca": "Branca",
-      "registros_com_ocupacao_e_peso_valido": 91970,
-      "registros_com_rendimento_habitual": 90262,
-      "rendimento_habitual_medio_ponderado": 4666.6739044,
-      "registros_com_rendimento_efetivo": 88566,
-      "rendimento_efetivo_medio_ponderado": 4878.31826911
+      "registros_com_ocupacao_e_peso_valido": 93661,
+      "registros_com_rendimento_habitual": 91932,
+      "rendimento_habitual_medio_ponderado": 4783.41552618,
+      "registros_com_rendimento_efetivo": 89712,
+      "rendimento_efetivo_medio_ponderado": 5236.6144837
     },
     {
       "cor_ou_raca": "Ignorado",
-      "registros_com_ocupacao_e_peso_valido": 18,
+      "registros_com_ocupacao_e_peso_valido": 19,
       "registros_com_rendimento_habitual": 18,
-      "rendimento_habitual_medio_ponderado": 2652.14817233,
+      "rendimento_habitual_medio_ponderado": 4793.23844639,
       "registros_com_rendimento_efetivo": 18,
-      "rendimento_efetivo_medio_ponderado": 2575.60496328
+      "rendimento_efetivo_medio_ponderado": 4825.65129546
     },
     {
       "cor_ou_raca": "Indigena",
-      "registros_com_ocupacao_e_peso_valido": 1157,
-      "registros_com_rendimento_habitual": 1099,
-      "rendimento_habitual_medio_ponderado": 2891.66097221,
-      "registros_com_rendimento_efetivo": 1061,
-      "rendimento_efetivo_medio_ponderado": 3123.40740059
+      "registros_com_ocupacao_e_peso_valido": 1144,
+      "registros_com_rendimento_habitual": 1068,
+      "rendimento_habitual_medio_ponderado": 3096.18838787,
+      "registros_com_rendimento_efetivo": 1024,
+      "rendimento_efetivo_medio_ponderado": 3321.05664699
     },
     {
       "cor_ou_raca": "Parda",
-      "registros_com_ocupacao_e_peso_valido": 106445,
-      "registros_com_rendimento_habitual": 103977,
-      "rendimento_habitual_medio_ponderado": 2783.31622571,
-      "registros_com_rendimento_efetivo": 101509,
-      "rendimento_efetivo_medio_ponderado": 2922.32876643
+      "registros_com_ocupacao_e_peso_valido": 108142,
+      "registros_com_rendimento_habitual": 105720,
+      "rendimento_habitual_medio_ponderado": 2887.16249583,
+      "registros_com_rendimento_efetivo": 102407,
+      "rendimento_efetivo_medio_ponderado": 3184.22311615
     },
     {
       "cor_ou_raca": "Preta",
-      "registros_com_ocupacao_e_peso_valido": 24282,
-      "registros_com_rendimento_habitual": 23968,
-      "rendimento_habitual_medio_ponderado": 2658.99457794,
-      "registros_com_rendimento_efetivo": 23391,
-      "rendimento_efetivo_medio_ponderado": 2799.54379876
+      "registros_com_ocupacao_e_peso_valido": 24330,
+      "registros_com_rendimento_habitual": 24013,
+      "rendimento_habitual_medio_ponderado": 2778.95235419,
+      "registros_com_rendimento_efetivo": 23309,
+      "rendimento_efetivo_medio_ponderado": 3117.75242786
     }
   ],
   "ultimo_periodo": {
-    "ano": 2025,
-    "trimestre": 4,
-    "periodo": "2025-T4"
+    "ano": 2026,
+    "trimestre": 1,
+    "periodo": "2026-T1"
   }
 }

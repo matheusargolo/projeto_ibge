@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por nivel de instrucao",
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por nivel de instrucao (VD4019 e VD4020).",
-    "gerado_em": "2026-07-02 21:29:01 -0300",
+    "gerado_em": "2026-07-03 14:18:43 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
@@ -16,70 +16,70 @@
     {
       "nivel_instrucao_codigo": "1",
       "nivel_instrucao": "Sem instrucao e menos de 1 ano de estudo",
-      "registros_com_ocupacao_e_peso_valido": 5124,
-      "registros_com_rendimento_habitual": 4946,
-      "rendimento_habitual_medio_ponderado": 1702.85034102,
-      "registros_com_rendimento_efetivo": 4654,
-      "rendimento_efetivo_medio_ponderado": 1814.47713124
+      "registros_com_ocupacao_e_peso_valido": 4935,
+      "registros_com_rendimento_habitual": 4755,
+      "rendimento_habitual_medio_ponderado": 1616.6763834,
+      "registros_com_rendimento_efetivo": 4437,
+      "rendimento_efetivo_medio_ponderado": 1754.82216147
     },
     {
       "nivel_instrucao_codigo": "2",
       "nivel_instrucao": "Fundamental incompleto ou equivalente",
-      "registros_com_ocupacao_e_peso_valido": 46316,
-      "registros_com_rendimento_habitual": 44674,
-      "rendimento_habitual_medio_ponderado": 1936.13003436,
-      "registros_com_rendimento_efetivo": 42685,
-      "rendimento_efetivo_medio_ponderado": 2003.34226566
+      "registros_com_ocupacao_e_peso_valido": 45331,
+      "registros_com_rendimento_habitual": 43817,
+      "rendimento_habitual_medio_ponderado": 1987.18850645,
+      "registros_com_rendimento_efetivo": 41611,
+      "rendimento_efetivo_medio_ponderado": 2116.71711824
     },
     {
       "nivel_instrucao_codigo": "3",
       "nivel_instrucao": "Fundamental completo ou equivalente",
-      "registros_com_ocupacao_e_peso_valido": 15614,
-      "registros_com_rendimento_habitual": 15141,
-      "rendimento_habitual_medio_ponderado": 2343.72262865,
-      "registros_com_rendimento_efetivo": 14730,
-      "rendimento_efetivo_medio_ponderado": 2365.82768144
+      "registros_com_ocupacao_e_peso_valido": 15460,
+      "registros_com_rendimento_habitual": 14949,
+      "rendimento_habitual_medio_ponderado": 2394.57742132,
+      "registros_com_rendimento_efetivo": 14405,
+      "rendimento_efetivo_medio_ponderado": 2563.06143391
     },
     {
       "nivel_instrucao_codigo": "4",
       "nivel_instrucao": "Medio incompleto ou equivalente",
-      "registros_com_ocupacao_e_peso_valido": 14542,
-      "registros_com_rendimento_habitual": 14020,
-      "rendimento_habitual_medio_ponderado": 2139.26054327,
-      "registros_com_rendimento_efetivo": 13637,
-      "rendimento_efetivo_medio_ponderado": 2219.94537834
+      "registros_com_ocupacao_e_peso_valido": 14402,
+      "registros_com_rendimento_habitual": 13886,
+      "rendimento_habitual_medio_ponderado": 2212.40929726,
+      "registros_com_rendimento_efetivo": 13381,
+      "rendimento_efetivo_medio_ponderado": 2408.50595461
     },
     {
       "nivel_instrucao_codigo": "5",
       "nivel_instrucao": "Medio completo ou equivalente",
-      "registros_com_ocupacao_e_peso_valido": 78813,
-      "registros_com_rendimento_habitual": 77561,
-      "rendimento_habitual_medio_ponderado": 2641.63974688,
-      "registros_com_rendimento_efetivo": 76365,
-      "rendimento_efetivo_medio_ponderado": 2760.09033742
+      "registros_com_ocupacao_e_peso_valido": 80771,
+      "registros_com_rendimento_habitual": 79420,
+      "rendimento_habitual_medio_ponderado": 2708.9468009,
+      "registros_com_rendimento_efetivo": 77653,
+      "rendimento_efetivo_medio_ponderado": 2965.04432778
     },
     {
       "nivel_instrucao_codigo": "6",
       "nivel_instrucao": "Superior incompleto ou equivalente",
-      "registros_com_ocupacao_e_peso_valido": 12992,
-      "registros_com_rendimento_habitual": 12766,
-      "rendimento_habitual_medio_ponderado": 3198.89606022,
-      "registros_com_rendimento_efetivo": 12598,
-      "rendimento_efetivo_medio_ponderado": 3362.07527434
+      "registros_com_ocupacao_e_peso_valido": 13886,
+      "registros_com_rendimento_habitual": 13649,
+      "rendimento_habitual_medio_ponderado": 3246.0706972,
+      "registros_com_rendimento_efetivo": 13391,
+      "rendimento_efetivo_medio_ponderado": 3584.956398
     },
     {
       "nivel_instrucao_codigo": "7",
       "nivel_instrucao": "Superior completo",
-      "registros_com_ocupacao_e_peso_valido": 51580,
-      "registros_com_rendimento_habitual": 51311,
-      "rendimento_habitual_medio_ponderado": 7031.40028345,
-      "registros_com_rendimento_efetivo": 50959,
-      "rendimento_efetivo_medio_ponderado": 7362.77652264
+      "registros_com_ocupacao_e_peso_valido": 53572,
+      "registros_com_rendimento_habitual": 53317,
+      "rendimento_habitual_medio_ponderado": 7236.14214998,
+      "registros_com_rendimento_efetivo": 52621,
+      "rendimento_efetivo_medio_ponderado": 7992.57344778
     }
   ],
   "ultimo_periodo": {
-    "ano": 2025,
-    "trimestre": 4,
-    "periodo": "2025-T4"
+    "ano": 2026,
+    "trimestre": 1,
+    "periodo": "2026-T1"
   }
 }

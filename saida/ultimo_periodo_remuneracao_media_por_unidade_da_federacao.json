@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por UF",
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por UF (VD4019 e VD4020).",
-    "gerado_em": "2026-07-02 21:29:10 -0300",
+    "gerado_em": "2026-07-03 14:21:20 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
@@ -17,276 +17,276 @@
       "uf_sigla": "AC",
       "uf_nome": "Acre",
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 3393,
-      "registros_com_rendimento_habitual": 3290,
-      "rendimento_habitual_medio_ponderado": 2964.35072443,
-      "registros_com_rendimento_efetivo": 3211,
-      "rendimento_efetivo_medio_ponderado": 3060.69894474
+      "registros_com_ocupacao_e_peso_valido": 3340,
+      "registros_com_rendimento_habitual": 3228,
+      "rendimento_habitual_medio_ponderado": 2852.31919942,
+      "registros_com_rendimento_efetivo": 3109,
+      "rendimento_efetivo_medio_ponderado": 3093.82244933
     },
     {
       "uf_sigla": "AL",
       "uf_nome": "Alagoas",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 6956,
-      "registros_com_rendimento_habitual": 6813,
-      "rendimento_habitual_medio_ponderado": 2556.84610454,
-      "registros_com_rendimento_efetivo": 6641,
-      "rendimento_efetivo_medio_ponderado": 2678.44948905
+      "registros_com_ocupacao_e_peso_valido": 6811,
+      "registros_com_rendimento_habitual": 6694,
+      "rendimento_habitual_medio_ponderado": 2535.64912583,
+      "registros_com_rendimento_efetivo": 6469,
+      "rendimento_efetivo_medio_ponderado": 2791.49492084
     },
     {
       "uf_sigla": "AM",
       "uf_nome": "Amazonas",
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 6325,
-      "registros_com_rendimento_habitual": 5665,
-      "rendimento_habitual_medio_ponderado": 2694.63302811,
-      "registros_com_rendimento_efetivo": 5471,
-      "rendimento_efetivo_medio_ponderado": 2829.88665817
+      "registros_com_ocupacao_e_peso_valido": 6246,
+      "registros_com_rendimento_habitual": 5548,
+      "rendimento_habitual_medio_ponderado": 2770.37505493,
+      "registros_com_rendimento_efetivo": 5217,
+      "rendimento_efetivo_medio_ponderado": 3076.21992042
     },
     {
       "uf_sigla": "AP",
       "uf_nome": "Amapa",
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 2100,
-      "registros_com_rendimento_habitual": 2089,
-      "rendimento_habitual_medio_ponderado": 3369.90788465,
-      "registros_com_rendimento_efetivo": 2083,
-      "rendimento_efetivo_medio_ponderado": 3493.14617051
+      "registros_com_ocupacao_e_peso_valido": 2171,
+      "registros_com_rendimento_habitual": 2163,
+      "rendimento_habitual_medio_ponderado": 3412.32410993,
+      "registros_com_rendimento_efetivo": 2156,
+      "rendimento_efetivo_medio_ponderado": 3518.1707731
     },
     {
       "uf_sigla": "BA",
       "uf_nome": "Bahia",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 9989,
-      "registros_com_rendimento_habitual": 9744,
-      "rendimento_habitual_medio_ponderado": 2354.67236906,
-      "registros_com_rendimento_efetivo": 9334,
-      "rendimento_efetivo_medio_ponderado": 2459.44571434
+      "registros_com_ocupacao_e_peso_valido": 10062,
+      "registros_com_rendimento_habitual": 9839,
+      "rendimento_habitual_medio_ponderado": 2482.73479963,
+      "registros_com_rendimento_efetivo": 9357,
+      "rendimento_efetivo_medio_ponderado": 2739.5948725
     },
     {
       "uf_sigla": "CE",
       "uf_nome": "Ceara",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 8961,
-      "registros_com_rendimento_habitual": 8816,
-      "rendimento_habitual_medio_ponderado": 2429.03047752,
-      "registros_com_rendimento_efetivo": 8656,
-      "rendimento_efetivo_medio_ponderado": 2503.8059584
+      "registros_com_ocupacao_e_peso_valido": 8617,
+      "registros_com_rendimento_habitual": 8491,
+      "rendimento_habitual_medio_ponderado": 2597.35741572,
+      "registros_com_rendimento_efetivo": 8302,
+      "rendimento_efetivo_medio_ponderado": 2807.90477439
     },
     {
       "uf_sigla": "DF",
       "uf_nome": "Distrito Federal",
       "regiao": "Centro-Oeste",
-      "registros_com_ocupacao_e_peso_valido": 4263,
-      "registros_com_rendimento_habitual": 4245,
-      "rendimento_habitual_medio_ponderado": 6216.607112,
-      "registros_com_rendimento_efetivo": 4182,
-      "rendimento_efetivo_medio_ponderado": 6609.69637159
+      "registros_com_ocupacao_e_peso_valido": 4265,
+      "registros_com_rendimento_habitual": 4247,
+      "rendimento_habitual_medio_ponderado": 6719.5005324,
+      "registros_com_rendimento_efetivo": 4143,
+      "rendimento_efetivo_medio_ponderado": 7710.64288217
     },
     {
       "uf_sigla": "ES",
       "uf_nome": "Espirito Santo",
       "regiao": "Sudeste",
-      "registros_com_ocupacao_e_peso_valido": 8636,
-      "registros_com_rendimento_habitual": 8445,
-      "rendimento_habitual_medio_ponderado": 3507.55039393,
-      "registros_com_rendimento_efetivo": 8164,
-      "rendimento_efetivo_medio_ponderado": 3669.49070324
+      "registros_com_ocupacao_e_peso_valido": 8591,
+      "registros_com_rendimento_habitual": 8378,
+      "rendimento_habitual_medio_ponderado": 3708.4064099,
+      "registros_com_rendimento_efetivo": 8039,
+      "rendimento_efetivo_medio_ponderado": 4032.84667536
     },
     {
       "uf_sigla": "GO",
       "uf_nome": "Goias",
       "regiao": "Centro-Oeste",
-      "registros_com_ocupacao_e_peso_valido": 8163,
-      "registros_com_rendimento_habitual": 8101,
-      "rendimento_habitual_medio_ponderado": 3673.84888868,
-      "registros_com_rendimento_efetivo": 7948,
-      "rendimento_efetivo_medio_ponderado": 3834.31980952
+      "registros_com_ocupacao_e_peso_valido": 8361,
+      "registros_com_rendimento_habitual": 8289,
+      "rendimento_habitual_medio_ponderado": 3878.43169388,
+      "registros_com_rendimento_efetivo": 8134,
+      "rendimento_efetivo_medio_ponderado": 4192.18557955
     },
     {
       "uf_sigla": "MA",
       "uf_nome": "Maranhao",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 11439,
-      "registros_com_rendimento_habitual": 11137,
-      "rendimento_habitual_medio_ponderado": 2139.54985953,
-      "registros_com_rendimento_efetivo": 10811,
-      "rendimento_efetivo_medio_ponderado": 2216.45261571
+      "registros_com_ocupacao_e_peso_valido": 11481,
+      "registros_com_rendimento_habitual": 11119,
+      "rendimento_habitual_medio_ponderado": 2239.80587729,
+      "registros_com_rendimento_efetivo": 10649,
+      "rendimento_efetivo_medio_ponderado": 2400.93737566
     },
     {
       "uf_sigla": "MG",
       "uf_nome": "Minas Gerais",
       "regiao": "Sudeste",
-      "registros_com_ocupacao_e_peso_valido": 18376,
-      "registros_com_rendimento_habitual": 18038,
-      "rendimento_habitual_medio_ponderado": 3353.49448134,
-      "registros_com_rendimento_efetivo": 17653,
-      "rendimento_efetivo_medio_ponderado": 3536.68745484
+      "registros_com_ocupacao_e_peso_valido": 18811,
+      "registros_com_rendimento_habitual": 18471,
+      "rendimento_habitual_medio_ponderado": 3447.9814456,
+      "registros_com_rendimento_efetivo": 17904,
+      "rendimento_efetivo_medio_ponderado": 3866.59979411
     },
     {
       "uf_sigla": "MS",
       "uf_nome": "Mato Grosso do Sul",
       "regiao": "Centro-Oeste",
-      "registros_com_ocupacao_e_peso_valido": 5760,
-      "registros_com_rendimento_habitual": 5703,
-      "rendimento_habitual_medio_ponderado": 3692.56185477,
-      "registros_com_rendimento_efetivo": 5614,
-      "rendimento_efetivo_medio_ponderado": 3857.28199957
+      "registros_com_ocupacao_e_peso_valido": 6314,
+      "registros_com_rendimento_habitual": 6224,
+      "rendimento_habitual_medio_ponderado": 3768.40701123,
+      "registros_com_rendimento_efetivo": 6054,
+      "rendimento_efetivo_medio_ponderado": 4234.89163582
     },
     {
       "uf_sigla": "MT",
       "uf_nome": "Mato Grosso",
       "regiao": "Centro-Oeste",
-      "registros_com_ocupacao_e_peso_valido": 7209,
-      "registros_com_rendimento_habitual": 7108,
-      "rendimento_habitual_medio_ponderado": 3894.16533992,
-      "registros_com_rendimento_efetivo": 7007,
-      "rendimento_efetivo_medio_ponderado": 4021.90073655
+      "registros_com_ocupacao_e_peso_valido": 7465,
+      "registros_com_rendimento_habitual": 7366,
+      "rendimento_habitual_medio_ponderado": 3940.24961057,
+      "registros_com_rendimento_efetivo": 7272,
+      "rendimento_efetivo_medio_ponderado": 4171.4311666
     },
     {
       "uf_sigla": "PA",
       "uf_nome": "Para",
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 8175,
-      "registros_com_rendimento_habitual": 7812,
-      "rendimento_habitual_medio_ponderado": 2583.43578874,
-      "registros_com_rendimento_efetivo": 7516,
-      "rendimento_efetivo_medio_ponderado": 2708.98189438
+      "registros_com_ocupacao_e_peso_valido": 8642,
+      "registros_com_rendimento_habitual": 8334,
+      "rendimento_habitual_medio_ponderado": 2528.23935718,
+      "registros_com_rendimento_efetivo": 7895,
+      "rendimento_efetivo_medio_ponderado": 2793.15804566
     },
     {
       "uf_sigla": "PB",
       "uf_nome": "Paraiba",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 6023,
-      "registros_com_rendimento_habitual": 5899,
-      "rendimento_habitual_medio_ponderado": 2662.09985958,
-      "registros_com_rendimento_efetivo": 5793,
-      "rendimento_efetivo_medio_ponderado": 2747.98562861
+      "registros_com_ocupacao_e_peso_valido": 6380,
+      "registros_com_rendimento_habitual": 6262,
+      "rendimento_habitual_medio_ponderado": 2805.57874155,
+      "registros_com_rendimento_efetivo": 6101,
+      "rendimento_efetivo_medio_ponderado": 3034.37613581
     },
     {
       "uf_sigla": "PE",
       "uf_nome": "Pernambuco",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 7057,
-      "registros_com_rendimento_habitual": 6962,
-      "rendimento_habitual_medio_ponderado": 2727.59885888,
-      "registros_com_rendimento_efetivo": 6819,
-      "rendimento_efetivo_medio_ponderado": 2886.27972595
+      "registros_com_ocupacao_e_peso_valido": 7169,
+      "registros_com_rendimento_habitual": 7051,
+      "rendimento_habitual_medio_ponderado": 2830.12084743,
+      "registros_com_rendimento_efetivo": 6887,
+      "rendimento_efetivo_medio_ponderado": 3109.49280563
     },
     {
       "uf_sigla": "PI",
       "uf_nome": "Piaui",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 4624,
-      "registros_com_rendimento_habitual": 4539,
-      "rendimento_habitual_medio_ponderado": 2580.84567181,
-      "registros_com_rendimento_efetivo": 4380,
-      "rendimento_efetivo_medio_ponderado": 2673.02681564
+      "registros_com_ocupacao_e_peso_valido": 4706,
+      "registros_com_rendimento_habitual": 4605,
+      "rendimento_habitual_medio_ponderado": 2628.40854921,
+      "registros_com_rendimento_efetivo": 4369,
+      "rendimento_efetivo_medio_ponderado": 2899.6114551
     },
     {
       "uf_sigla": "PR",
       "uf_nome": "Parana",
       "regiao": "Sul",
-      "registros_com_ocupacao_e_peso_valido": 14541,
-      "registros_com_rendimento_habitual": 14271,
-      "rendimento_habitual_medio_ponderado": 4127.53400026,
-      "registros_com_rendimento_efetivo": 14001,
-      "rendimento_efetivo_medio_ponderado": 4299.79842379
+      "registros_com_ocupacao_e_peso_valido": 15250,
+      "registros_com_rendimento_habitual": 15009,
+      "rendimento_habitual_medio_ponderado": 4179.74980884,
+      "registros_com_rendimento_efetivo": 14659,
+      "rendimento_efetivo_medio_ponderado": 4600.37052764
     },
     {
       "uf_sigla": "RJ",
       "uf_nome": "Rio de Janeiro",
       "regiao": "Sudeste",
-      "registros_com_ocupacao_e_peso_valido": 15758,
-      "registros_com_rendimento_habitual": 15660,
-      "rendimento_habitual_medio_ponderado": 4182.7397203,
-      "registros_com_rendimento_efetivo": 15538,
-      "rendimento_efetivo_medio_ponderado": 4324.15662934
+      "registros_com_ocupacao_e_peso_valido": 15322,
+      "registros_com_rendimento_habitual": 15241,
+      "rendimento_habitual_medio_ponderado": 4351.79485532,
+      "registros_com_rendimento_efetivo": 15090,
+      "rendimento_efetivo_medio_ponderado": 4773.18335462
     },
     {
       "uf_sigla": "RN",
       "uf_nome": "Rio Grande do Norte",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 3951,
-      "registros_com_rendimento_habitual": 3896,
-      "rendimento_habitual_medio_ponderado": 2838.43985304,
-      "registros_com_rendimento_efetivo": 3841,
-      "rendimento_efetivo_medio_ponderado": 2974.56384536
+      "registros_com_ocupacao_e_peso_valido": 3933,
+      "registros_com_rendimento_habitual": 3888,
+      "rendimento_habitual_medio_ponderado": 2953.19386105,
+      "registros_com_rendimento_efetivo": 3809,
+      "rendimento_efetivo_medio_ponderado": 3291.66823922
     },
     {
       "uf_sigla": "RO",
       "uf_nome": "Rondonia",
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 3851,
-      "registros_com_rendimento_habitual": 3759,
-      "rendimento_habitual_medio_ponderado": 3496.43519548,
-      "registros_com_rendimento_efetivo": 3717,
-      "rendimento_efetivo_medio_ponderado": 3585.78763348
+      "registros_com_ocupacao_e_peso_valido": 4040,
+      "registros_com_rendimento_habitual": 3937,
+      "rendimento_habitual_medio_ponderado": 3484.48449358,
+      "registros_com_rendimento_efetivo": 3859,
+      "rendimento_efetivo_medio_ponderado": 3710.82303129
     },
     {
       "uf_sigla": "RR",
       "uf_nome": "Roraima",
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 2650,
-      "registros_com_rendimento_habitual": 2633,
-      "rendimento_habitual_medio_ponderado": 3286.74755051,
-      "registros_com_rendimento_efetivo": 2520,
-      "rendimento_efetivo_medio_ponderado": 3429.70345294
+      "registros_com_ocupacao_e_peso_valido": 2612,
+      "registros_com_rendimento_habitual": 2586,
+      "rendimento_habitual_medio_ponderado": 3531.91882605,
+      "registros_com_rendimento_efetivo": 2413,
+      "rendimento_efetivo_medio_ponderado": 3987.78672992
     },
     {
       "uf_sigla": "RS",
       "uf_nome": "Rio Grande do Sul",
       "regiao": "Sul",
-      "registros_com_ocupacao_e_peso_valido": 13236,
-      "registros_com_rendimento_habitual": 12816,
-      "rendimento_habitual_medio_ponderado": 3967.91860098,
-      "registros_com_rendimento_efetivo": 12271,
-      "rendimento_efetivo_medio_ponderado": 4205.35778005
+      "registros_com_ocupacao_e_peso_valido": 13210,
+      "registros_com_rendimento_habitual": 12813,
+      "rendimento_habitual_medio_ponderado": 4127.23600791,
+      "registros_com_rendimento_efetivo": 12318,
+      "rendimento_efetivo_medio_ponderado": 4582.74986093
     },
     {
       "uf_sigla": "SC",
       "uf_nome": "Santa Catarina",
       "regiao": "Sul",
-      "registros_com_ocupacao_e_peso_valido": 16552,
-      "registros_com_rendimento_habitual": 16326,
-      "rendimento_habitual_medio_ponderado": 4194.70999551,
-      "registros_com_rendimento_efetivo": 16230,
-      "rendimento_efetivo_medio_ponderado": 4359.89127486
+      "registros_com_ocupacao_e_peso_valido": 17028,
+      "registros_com_rendimento_habitual": 16812,
+      "rendimento_habitual_medio_ponderado": 4297.95455038,
+      "registros_com_rendimento_efetivo": 16635,
+      "rendimento_efetivo_medio_ponderado": 4627.59586393
     },
     {
       "uf_sigla": "SE",
       "uf_nome": "Sergipe",
       "regiao": "Nordeste",
-      "registros_com_ocupacao_e_peso_valido": 3639,
-      "registros_com_rendimento_habitual": 3542,
-      "rendimento_habitual_medio_ponderado": 2874.76032377,
-      "registros_com_rendimento_efetivo": 3463,
-      "rendimento_efetivo_medio_ponderado": 2958.47209756
+      "registros_com_ocupacao_e_peso_valido": 3701,
+      "registros_com_rendimento_habitual": 3602,
+      "rendimento_habitual_medio_ponderado": 3030.82917379,
+      "registros_com_rendimento_efetivo": 3503,
+      "rendimento_efetivo_medio_ponderado": 3310.70928887
     },
     {
       "uf_sigla": "SP",
       "uf_nome": "Sao Paulo",
       "regiao": "Sudeste",
-      "registros_com_ocupacao_e_peso_valido": 19722,
-      "registros_com_rendimento_habitual": 19544,
-      "rendimento_habitual_medio_ponderado": 4323.78013109,
-      "registros_com_rendimento_efetivo": 19326,
-      "rendimento_efetivo_medio_ponderado": 4546.19525809
+      "registros_com_ocupacao_e_peso_valido": 20208,
+      "registros_com_rendimento_habitual": 20057,
+      "rendimento_habitual_medio_ponderado": 4377.83379171,
+      "registros_com_rendimento_efetivo": 19756,
+      "rendimento_efetivo_medio_ponderado": 4800.71297305
     },
     {
       "uf_sigla": "TO",
       "uf_nome": "Tocantins",
       "regiao": "Norte",
-      "registros_com_ocupacao_e_peso_valido": 3632,
-      "registros_com_rendimento_habitual": 3566,
-      "rendimento_habitual_medio_ponderado": 3298.93656506,
-      "registros_com_rendimento_efetivo": 3438,
-      "rendimento_efetivo_medio_ponderado": 3483.1877005
+      "registros_com_ocupacao_e_peso_valido": 3621,
+      "registros_com_rendimento_habitual": 3539,
+      "rendimento_habitual_medio_ponderado": 3330.77262573,
+      "registros_com_rendimento_efetivo": 3400,
+      "rendimento_efetivo_medio_ponderado": 3638.17781239
     }
   ],
   "ultimo_periodo": {
-    "ano": 2025,
-    "trimestre": 4,
-    "periodo": "2025-T4"
+    "ano": 2026,
+    "trimestre": 1,
+    "periodo": "2026-T1"
   }
 }

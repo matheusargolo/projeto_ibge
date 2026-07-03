@@ -3,8 +3,6 @@
 # - Aplica classificacao de ocupacoes (nivel_superior)
 # - Fornece funcoes de agregacao e exportacao CSV/JSON
 
-suppressPackageStartupMessages(library(PNADcIBGE))
-
 `%||%` <- function(a, b) {
   if (!is.null(a)) a else b
 }
@@ -150,30 +148,65 @@ ler_classificacao_ocupacoes <- function(
 }
 
 carregar_pnadc_periodo <- function(ano, trimestre, dir_microdados = "dados_pnadc") {
-  tmp_out <- tempfile()
-  tmp_msg <- tempfile()
-  con_out <- file(tmp_out, open = "wt")
-  con_msg <- file(tmp_msg, open = "wt")
-  sink(con_out)
-  sink(con_msg, type = "message")
-  on.exit({
-    sink(type = "message")
-    sink()
-    close(con_out)
-    close(con_msg)
-    unlink(c(tmp_out, tmp_msg))
-  }, add = TRUE)
+  arquivo <- file.path(dir_microdados, sprintf("PNADC_0%d%d.txt", trimestre, ano))
+  if (!file.exists(arquivo)) {
+    stop("Microdado local nao encontrado: ", normalizePath(arquivo, winslash = "/", mustWork = FALSE))
+  }
 
-  get_pnadc(
-    year = ano,
-    quarter = trimestre,
-    vars = c("Ano", "Trimestre", "UF", "V2007", "V2010", "VD3004", "V4010", "V1028", "VD4019", "VD4020"),
-    labels = FALSE,
-    deflator = FALSE,
-    design = FALSE,
-    reload = FALSE,
-    savedir = dir_microdados
-  )
+  ler_num <- function(x) {
+    x <- trimws(x)
+    x[x == ""] <- NA_character_
+    suppressWarnings(as.numeric(x))
+  }
+
+  ler_int <- function(x) {
+    x <- trimws(x)
+    x[x == ""] <- NA_character_
+    suppressWarnings(as.integer(x))
+  }
+
+  con <- file(arquivo, open = "rt")
+  on.exit(close(con), add = TRUE)
+
+  partes <- list()
+  i <- 0L
+  repeat {
+    linhas <- readLines(con, n = 100000L, warn = FALSE)
+    if (length(linhas) == 0) break
+
+    i <- i + 1L
+    partes[[i]] <- data.frame(
+      Ano = substr(linhas, 1L, 4L),
+      Trimestre = substr(linhas, 5L, 5L),
+      UF = substr(linhas, 6L, 7L),
+      V1028 = ler_num(substr(linhas, 50L, 64L)),
+      V2007 = substr(linhas, 95L, 95L),
+      V2010 = substr(linhas, 107L, 107L),
+      V4010 = substr(linhas, 152L, 155L),
+      VD3004 = substr(linhas, 405L, 405L),
+      VD4019 = ler_num(substr(linhas, 444L, 451L)),
+      VD4020 = ler_num(substr(linhas, 452L, 459L)),
+      stringsAsFactors = FALSE
+    )
+  }
+
+  if (length(partes) == 0) {
+    return(data.frame(
+      Ano = character(),
+      Trimestre = character(),
+      UF = character(),
+      V1028 = numeric(),
+      V2007 = character(),
+      V2010 = character(),
+      V4010 = character(),
+      VD3004 = character(),
+      VD4019 = numeric(),
+      VD4020 = numeric(),
+      stringsAsFactors = FALSE
+    ))
+  }
+
+  do.call(rbind, partes)
 }
 
 montar_base_sobreeducacao <- function(

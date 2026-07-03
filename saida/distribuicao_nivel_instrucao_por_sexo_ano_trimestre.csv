@@ -1,197 +1,799 @@
-"Ano","Trimestre","sexo","nivel_instrucao_mais_elevado_alcancado_5_anos_ou_mais_de_idade","peso","total_ponderado","percentual"
-2012,4,"Homem","Fundamental incompleto ou equivalente",38217900.605539,89271662.0000013,42.8108
-2012,4,"Homem","Médio completo ou equivalente",18323741.9627754,89271662.0000013,20.5258
-2012,4,"Homem","Fundamental completo ou equivalente",8842372.85538533,89271662.0000013,9.905
-2012,4,"Homem","Sem instrução e menos de 1 ano de estudo",8401434.0366419,89271662.0000013,9.4111
-2012,4,"Homem","Superior completo",6755610.61332145,89271662.0000013,7.5675
-2012,4,"Homem","Médio incompleto ou equivalente",5616687.18861278,89271662.0000013,6.2917
-2012,4,"Homem","Superior incompleto ou equivalente",3113914.73772538,89271662.0000013,3.4881
-2012,4,"Mulher","Fundamental incompleto ou equivalente",36974720.1483575,94008780.0000017,39.3311
-2012,4,"Mulher","Médio completo ou equivalente",20790509.9797606,94008780.0000017,22.1155
-2012,4,"Mulher","Superior completo",9316685.01512607,94008780.0000017,9.9104
-2012,4,"Mulher","Fundamental completo ou equivalente",8759443.30735507,94008780.0000017,9.3177
-2012,4,"Mulher","Sem instrução e menos de 1 ano de estudo",8625565.00866545,94008780.0000017,9.1753
-2012,4,"Mulher","Médio incompleto ou equivalente",6007449.91051492,94008780.0000017,6.3903
-2012,4,"Mulher","Superior incompleto ou equivalente",3534406.63022209,94008780.0000017,3.7597
-2013,4,"Homem","Fundamental incompleto ou equivalente",37488104.1836221,90043151.0000058,41.6335
-2013,4,"Homem","Médio completo ou equivalente",18874803.2748818,90043151.0000058,20.962
-2013,4,"Homem","Fundamental completo ou equivalente",9183156.50896738,90043151.0000058,10.1986
-2013,4,"Homem","Sem instrução e menos de 1 ano de estudo",8405021.48606361,90043151.0000058,9.3344
-2013,4,"Homem","Superior completo",7017651.70177297,90043151.0000058,7.7937
-2013,4,"Homem","Médio incompleto ou equivalente",5850260.98118337,90043151.0000058,6.4972
-2013,4,"Homem","Superior incompleto ou equivalente",3224152.86351449,90043151.0000058,3.5807
-2013,4,"Mulher","Fundamental incompleto ou equivalente",36084678.0102659,94839234.000005,38.0483
-2013,4,"Mulher","Médio completo ou equivalente",21790770.1289582,94839234.000005,22.9765
-2013,4,"Mulher","Superior completo",9649187.7195603,94839234.000005,10.1743
-2013,4,"Mulher","Fundamental completo ou equivalente",8888124.04941382,94839234.000005,9.3718
-2013,4,"Mulher","Sem instrução e menos de 1 ano de estudo",8624260.23285016,94839234.000005,9.0936
-2013,4,"Mulher","Médio incompleto ou equivalente",6096923.92128509,94839234.000005,6.4287
-2013,4,"Mulher","Superior incompleto ou equivalente",3705289.93767149,94839234.000005,3.9069
-2014,4,"Homem","Fundamental incompleto ou equivalente",37079507.7623234,90747787.0000629,40.86
-2014,4,"Homem","Médio completo ou equivalente",19505616.2982003,90747787.0000629,21.4943
-2014,4,"Homem","Fundamental completo ou equivalente",9221942.92112275,90747787.0000629,10.1622
-2014,4,"Homem","Sem instrução e menos de 1 ano de estudo",8087980.65205535,90747787.0000629,8.9126
-2014,4,"Homem","Superior completo",7460181.71736425,90747787.0000629,8.2208
-2014,4,"Homem","Médio incompleto ou equivalente",5929997.71845541,90747787.0000629,6.5346
-2014,4,"Homem","Superior incompleto ou equivalente",3462559.93054142,90747787.0000629,3.8156
-2014,4,"Mulher","Fundamental incompleto ou equivalente",35491487.4369425,95599180.0000608,37.1253
-2014,4,"Mulher","Médio completo ou equivalente",22355043.2272161,95599180.0000608,23.3841
-2014,4,"Mulher","Superior completo",10421842.9704202,95599180.0000608,10.9016
-2014,4,"Mulher","Fundamental completo ou equivalente",8975804.5624834,95599180.0000608,9.389
-2014,4,"Mulher","Sem instrução e menos de 1 ano de estudo",8222647.16664979,95599180.0000608,8.6012
-2014,4,"Mulher","Médio incompleto ou equivalente",6136767.14728726,95599180.0000608,6.4193
-2014,4,"Mulher","Superior incompleto ou equivalente",3995587.48906164,95599180.0000608,4.1795
-2015,4,"Homem","Fundamental incompleto ou equivalente",36400811.9281805,91398303.0000444,39.8266
-2015,4,"Homem","Médio completo ou equivalente",20371138.8245228,91398303.0000444,22.2883
-2015,4,"Homem","Fundamental completo ou equivalente",8460570.91410377,91398303.0000444,9.2568
-2015,4,"Homem","Sem instrução e menos de 1 ano de estudo",8348490.21288592,91398303.0000444,9.1342
-2015,4,"Homem","Superior completo",8207267.59426192,91398303.0000444,8.9797
-2015,4,"Homem","Médio incompleto ou equivalente",6171932.44497554,91398303.0000444,6.7528
-2015,4,"Homem","Superior incompleto ou equivalente",3438091.08111393,91398303.0000444,3.7617
-2015,4,"Mulher","Fundamental incompleto ou equivalente",34884839.1579716,96306556.0000468,36.2227
-2015,4,"Mulher","Médio completo ou equivalente",23265661.7771181,96306556.0000468,24.1579
-2015,4,"Mulher","Superior completo",11379020.3750924,96306556.0000468,11.8154
-2015,4,"Mulher","Sem instrução e menos de 1 ano de estudo",8415140.23981172,96306556.0000468,8.7379
-2015,4,"Mulher","Fundamental completo ou equivalente",8218911.17334717,96306556.0000468,8.5341
-2015,4,"Mulher","Médio incompleto ou equivalente",6145989.0343135,96306556.0000468,6.3817
-2015,4,"Mulher","Superior incompleto ou equivalente",3996994.24239233,96306556.0000468,4.1503
-2016,4,"Homem","Fundamental incompleto ou equivalente",35908772.3773511,92052190.0000516,39.0091
-2016,4,"Homem","Médio completo ou equivalente",21006046.3576378,92052190.0000516,22.8197
-2016,4,"Homem","Superior completo",8652228.50641029,92052190.0000516,9.3993
-2016,4,"Homem","Fundamental completo ou equivalente",8188324.49195822,92052190.0000516,8.8953
-2016,4,"Homem","Sem instrução e menos de 1 ano de estudo",8155902.7203981,92052190.0000516,8.8601
-2016,4,"Homem","Médio incompleto ou equivalente",6607456.30212535,92052190.0000516,7.1779
-2016,4,"Homem","Superior incompleto ou equivalente",3533459.24417077,92052190.0000516,3.8385
-2016,4,"Mulher","Fundamental incompleto ou equivalente",34445023.4398976,97021736.0000529,35.5024
-2016,4,"Mulher","Médio completo ou equivalente",23679693.4840744,97021736.0000529,24.4066
-2016,4,"Mulher","Superior completo",11905668.2743973,97021736.0000529,12.2711
-2016,4,"Mulher","Fundamental completo ou equivalente",8171003.04613393,97021736.0000529,8.4218
-2016,4,"Mulher","Sem instrução e menos de 1 ano de estudo",8151724.17054797,97021736.0000529,8.402
-2016,4,"Mulher","Médio incompleto ou equivalente",6523725.75241824,97021736.0000529,6.724
-2016,4,"Mulher","Superior incompleto ou equivalente",4144897.83258335,97021736.0000529,4.2721
-2017,4,"Homem","Fundamental incompleto ou equivalente",36052498.0446207,92687396.0000955,38.8969
-2017,4,"Homem","Médio completo ou equivalente",21400521.1621675,92687396.0000955,23.0889
-2017,4,"Homem","Superior completo",8977779.11138969,92687396.0000955,9.6861
-2017,4,"Homem","Fundamental completo ou equivalente",7943109.62658641,92687396.0000955,8.5698
-2017,4,"Homem","Sem instrução e menos de 1 ano de estudo",7719065.85813273,92687396.0000955,8.3281
-2017,4,"Homem","Médio incompleto ou equivalente",6687012.27759391,92687396.0000955,7.2146
-2017,4,"Homem","Superior incompleto ou equivalente",3907409.91960454,92687396.0000955,4.2157
-2017,4,"Mulher","Fundamental incompleto ou equivalente",34314644.1964263,97718852.0000997,35.1157
-2017,4,"Mulher","Médio completo ou equivalente",24169675.253733,97718852.0000997,24.7339
-2017,4,"Mulher","Superior completo",12565185.7881283,97718852.0000997,12.8585
-2017,4,"Mulher","Fundamental completo ou equivalente",7844246.56166907,97718852.0000997,8.0274
-2017,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7755912.26844733,97718852.0000997,7.937
-2017,4,"Mulher","Médio incompleto ou equivalente",6627687.18811103,97718852.0000997,6.7824
-2017,4,"Mulher","Superior incompleto ou equivalente",4441500.74358466,97718852.0000997,4.5452
-2018,4,"Homem","Fundamental incompleto ou equivalente",35646283.7009814,93290916.0001222,38.2098
-2018,4,"Homem","Médio completo ou equivalente",22088445.0783164,93290916.0001222,23.677
-2018,4,"Homem","Superior completo",9626733.02732806,93290916.0001222,10.319
-2018,4,"Homem","Fundamental completo ou equivalente",7598654.3407734,93290916.0001222,8.1451
-2018,4,"Homem","Sem instrução e menos de 1 ano de estudo",7291193.06627876,93290916.0001222,7.8155
-2018,4,"Homem","Médio incompleto ou equivalente",6797792.65230385,93290916.0001222,7.2867
-2018,4,"Homem","Superior incompleto ou equivalente",4241814.1341403,93290916.0001222,4.5469
-2018,4,"Mulher","Fundamental incompleto ou equivalente",33804346.0049948,98379401.0001093,34.3612
-2018,4,"Mulher","Médio completo ou equivalente",24669704.9706324,98379401.0001093,25.0761
-2018,4,"Mulher","Superior completo",13626280.1137808,98379401.0001093,13.8507
-2018,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7483679.37207753,98379401.0001093,7.607
-2018,4,"Mulher","Fundamental completo ou equivalente",7461786.80082223,98379401.0001093,7.5847
-2018,4,"Mulher","Médio incompleto ou equivalente",6662656.45348247,98379401.0001093,6.7724
-2018,4,"Mulher","Superior incompleto ou equivalente",4670947.28431901,98379401.0001093,4.7479
-2019,4,"Homem","Fundamental incompleto ou equivalente",34847099.812787,93908962.0003268,37.1073
-2019,4,"Homem","Médio completo ou equivalente",22843811.3488005,93908962.0003268,24.3255
-2019,4,"Homem","Superior completo",10090929.8067648,93908962.0003268,10.7454
-2019,4,"Homem","Fundamental completo ou equivalente",7661483.21129428,93908962.0003268,8.1584
-2019,4,"Homem","Sem instrução e menos de 1 ano de estudo",7465557.89428933,93908962.0003268,7.9498
-2019,4,"Homem","Médio incompleto ou equivalente",6770732.65684826,93908962.0003268,7.2099
-2019,4,"Homem","Superior incompleto ou equivalente",4229347.26954261,93908962.0003268,4.5037
-2019,4,"Mulher","Fundamental incompleto ou equivalente",33305957.3846569,99058397.0003194,33.6225
-2019,4,"Mulher","Médio completo ou equivalente",25383267.7018314,99058397.0003194,25.6245
-2019,4,"Mulher","Superior completo",14180953.2689456,99058397.0003194,14.3158
-2019,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7355574.64265735,99058397.0003194,7.4255
-2019,4,"Mulher","Fundamental completo ou equivalente",7345499.06645956,99058397.0003194,7.4153
-2019,4,"Mulher","Médio incompleto ou equivalente",6721030.1989791,99058397.0003194,6.7849
-2019,4,"Mulher","Superior incompleto ou equivalente",4766114.73678952,99058397.0003194,4.8114
-2020,4,"Homem","Fundamental incompleto ou equivalente",32772498.1867024,94531852.0075469,34.6682
-2020,4,"Homem","Médio completo ou equivalente",23870970.2072193,94531852.0075469,25.2518
-2020,4,"Homem","Superior completo",11640457.9920375,94531852.0075469,12.3138
-2020,4,"Homem","Fundamental completo ou equivalente",7682147.10699602,94531852.0075469,8.1265
-2020,4,"Homem","Sem instrução e menos de 1 ano de estudo",7150626.62340983,94531852.0075469,7.5643
-2020,4,"Homem","Médio incompleto ou equivalente",6740460.77050908,94531852.0075469,7.1304
-2020,4,"Homem","Superior incompleto ou equivalente",4674691.12067267,94531852.0075469,4.9451
-2020,4,"Mulher","Fundamental incompleto ou equivalente",31496596.1120775,99771306.0059482,31.5688
-2020,4,"Mulher","Médio completo ou equivalente",26087814.6534314,99771306.0059482,26.1476
-2020,4,"Mulher","Superior completo",15764558.6468884,99771306.0059482,15.8007
-2020,4,"Mulher","Fundamental completo ou equivalente",7485010.98337884,99771306.0059482,7.5022
-2020,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7211982.62395828,99771306.0059482,7.2285
-2020,4,"Mulher","Médio incompleto ou equivalente",6640445.01896332,99771306.0059482,6.6557
-2020,4,"Mulher","Superior incompleto ou equivalente",5084897.96725048,99771306.0059482,5.0966
-2021,4,"Homem","Fundamental incompleto ou equivalente",33231053.3921329,95119450.0052592,34.9361
-2021,4,"Homem","Médio completo ou equivalente",24222604.0607687,95119450.0052592,25.4655
-2021,4,"Homem","Superior completo",10955193.7556075,95119450.0052592,11.5173
-2021,4,"Homem","Sem instrução e menos de 1 ano de estudo",7776952.0803846,95119450.0052592,8.176
-2021,4,"Homem","Fundamental completo ou equivalente",7545982.11321175,95119450.0052592,7.9332
-2021,4,"Homem","Médio incompleto ou equivalente",7251589.96998341,95119450.0052592,7.6237
-2021,4,"Homem","Superior incompleto ou equivalente",4136074.63317038,95119450.0052592,4.3483
-2021,4,"Mulher","Fundamental incompleto ou equivalente",31796386.5301626,100470947.004579,31.6473
-2021,4,"Mulher","Médio completo ou equivalente",26373944.492723,100470947.004579,26.2503
-2021,4,"Mulher","Superior completo",15403272.5859861,100470947.004579,15.3311
-2021,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7865558.24256011,100470947.004579,7.8287
-2021,4,"Mulher","Fundamental completo ou equivalente",7539502.42670046,100470947.004579,7.5042
-2021,4,"Mulher","Médio incompleto ou equivalente",6884621.45459072,100470947.004579,6.8524
-2021,4,"Mulher","Superior incompleto ou equivalente",4607661.27185568,100470947.004579,4.5861
-2022,4,"Homem","Fundamental incompleto ou equivalente",32559653.7314642,95719409.005895,34.0157
-2022,4,"Homem","Médio completo ou equivalente",24884138.0152348,95719409.005895,25.997
-2022,4,"Homem","Superior completo",11541502.3817964,95719409.005895,12.0576
-2022,4,"Homem","Sem instrução e menos de 1 ano de estudo",8045271.88128353,95719409.005895,8.4051
-2022,4,"Homem","Fundamental completo ou equivalente",7313731.00171716,95719409.005895,7.6408
-2022,4,"Homem","Médio incompleto ou equivalente",7231974.8511823,95719409.005895,7.5554
-2022,4,"Homem","Superior incompleto ou equivalente",4143137.14321667,95719409.005895,4.3284
-2022,4,"Mulher","Fundamental incompleto ou equivalente",31381296.6007339,101165354.004426,31.0198
-2022,4,"Mulher","Médio completo ou equivalente",26871653.3290833,101165354.004426,26.5621
-2022,4,"Mulher","Superior completo",16160746.11127,101165354.004426,15.9746
-2022,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7864085.07660783,101165354.004426,7.7735
-2022,4,"Mulher","Fundamental completo ou equivalente",7200725.83803917,101165354.004426,7.1178
-2022,4,"Mulher","Médio incompleto ou equivalente",7013178.80947288,101165354.004426,6.9324
-2022,4,"Mulher","Superior incompleto ou equivalente",4673668.23921853,101165354.004426,4.6198
-2023,4,"Homem","Fundamental incompleto ou equivalente",31895056.3986701,96347126.0060875,33.1043
-2023,4,"Homem","Médio completo ou equivalente",25850979.2877082,96347126.0060875,26.8311
-2023,4,"Homem","Superior completo",12167032.565438,96347126.0060875,12.6283
-2023,4,"Homem","Sem instrução e menos de 1 ano de estudo",7867582.33608967,96347126.0060875,8.1659
-2023,4,"Homem","Fundamental completo ou equivalente",7361776.81457362,96347126.0060875,7.6409
-2023,4,"Homem","Médio incompleto ou equivalente",7064566.73497844,96347126.0060875,7.3324
-2023,4,"Homem","Superior incompleto ou equivalente",4140131.86862942,96347126.0060875,4.2971
-2023,4,"Mulher","Fundamental incompleto ou equivalente",30842729.4569211,101859573.003466,30.2797
-2023,4,"Mulher","Médio completo ou equivalente",27700993.1160367,101859573.003466,27.1953
-2023,4,"Mulher","Superior completo",16714762.0277439,101859573.003466,16.4096
-2023,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7788122.61308221,101859573.003466,7.6459
-2023,4,"Mulher","Fundamental completo ou equivalente",7223971.07800401,101859573.003466,7.0921
-2023,4,"Mulher","Médio incompleto ou equivalente",6829693.72408268,101859573.003466,6.705
-2023,4,"Mulher","Superior incompleto ou equivalente",4759300.98759532,101859573.003466,4.6724
-2024,4,"Homem","Fundamental incompleto ou equivalente",31427754.3205367,96944425.0014195,32.4183
-2024,4,"Homem","Médio completo ou equivalente",26804322.159892,96944425.0014195,27.6492
-2024,4,"Homem","Superior completo",12770501.0879017,96944425.0014195,13.173
-2024,4,"Homem","Sem instrução e menos de 1 ano de estudo",7417159.17591901,96944425.0014195,7.6509
-2024,4,"Homem","Fundamental completo ou equivalente",7217480.41871901,96944425.0014195,7.445
-2024,4,"Homem","Médio incompleto ou equivalente",7199052.05364622,96944425.0014195,7.426
-2024,4,"Homem","Superior incompleto ou equivalente",4108155.78480483,96944425.0014195,4.2376
-2024,4,"Mulher","Fundamental incompleto ou equivalente",30146694.4706511,102515861.000741,29.4069
-2024,4,"Mulher","Médio completo ou equivalente",29070017.9844268,102515861.000741,28.3566
-2024,4,"Mulher","Superior completo",17560573.9141673,102515861.000741,17.1296
-2024,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7373204.30750487,102515861.000741,7.1923
-2024,4,"Mulher","Fundamental completo ou equivalente",7003785.69200205,102515861.000741,6.8319
-2024,4,"Mulher","Médio incompleto ou equivalente",6589254.76254185,102515861.000741,6.4275
-2024,4,"Mulher","Superior incompleto ou equivalente",4772329.86944751,102515861.000741,4.6552
-2025,4,"Homem","Fundamental incompleto ou equivalente",31108597.4925078,97484107.000002,31.9115
-2025,4,"Homem","Médio completo ou equivalente",27157161.736892,97484107.000002,27.858
-2025,4,"Homem","Superior completo",13568513.3670391,97484107.000002,13.9187
-2025,4,"Homem","Sem instrução e menos de 1 ano de estudo",7190618.20346256,97484107.000002,7.3762
-2025,4,"Homem","Médio incompleto ou equivalente",7068966.64639843,97484107.000002,7.2514
-2025,4,"Homem","Fundamental completo ou equivalente",6907497.25609684,97484107.000002,7.0858
-2025,4,"Homem","Superior incompleto ou equivalente",4482752.29760525,97484107.000002,4.5984
-2025,4,"Mulher","Fundamental incompleto ou equivalente",29792875.6429959,103117031,28.8923
-2025,4,"Mulher","Médio completo ou equivalente",29068015.6355543,103117031,28.1893
-2025,4,"Mulher","Superior completo",18756515.7091744,103117031,18.1895
-2025,4,"Mulher","Sem instrução e menos de 1 ano de estudo",7112530.89075354,103117031,6.8975
-2025,4,"Mulher","Fundamental completo ou equivalente",6798907.31767767,103117031,6.5934
-2025,4,"Mulher","Médio incompleto ou equivalente",6462100.12456534,103117031,6.2668
-2025,4,"Mulher","Superior incompleto ou equivalente",5126085.67927933,103117031,4.9711
+"Ano","Trimestre","periodo","sexo","nivel_instrucao","peso","total_ponderado","percentual"
+2012,1,"2012-T1","Homem","Fundamental incompleto ou equivalente",38062756.3890112,88662849.0000135,42.9298
+2012,1,"2012-T1","Homem","Medio completo ou equivalente",17899917.4012389,88662849.0000135,20.1887
+2012,1,"2012-T1","Homem","Fundamental completo ou equivalente",9048512.63285134,88662849.0000135,10.2055
+2012,1,"2012-T1","Homem","Sem instrucao e menos de 1 ano de estudo",8224175.5035679,88662849.0000135,9.2758
+2012,1,"2012-T1","Homem","Superior completo",6466964.37629652,88662849.0000135,7.2939
+2012,1,"2012-T1","Homem","Medio incompleto ou equivalente",5761648.22747334,88662849.0000135,6.4984
+2012,1,"2012-T1","Homem","Superior incompleto ou equivalente",3198874.46957429,88662849.0000135,3.6079
+2012,1,"2012-T1","Mulher","Fundamental incompleto ou equivalente",36700515.5734082,93349077.0000086,39.3153
+2012,1,"2012-T1","Mulher","Medio completo ou equivalente",20553085.9959585,93349077.0000086,22.0174
+2012,1,"2012-T1","Mulher","Superior completo",9048722.88857081,93349077.0000086,9.6934
+2012,1,"2012-T1","Mulher","Fundamental completo ou equivalente",8826996.81880719,93349077.0000086,9.4559
+2012,1,"2012-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",8360962.12318193,93349077.0000086,8.9567
+2012,1,"2012-T1","Mulher","Medio incompleto ou equivalente",6297125.18396607,93349077.0000086,6.7458
+2012,1,"2012-T1","Mulher","Superior incompleto ou equivalente",3561668.41611587,93349077.0000086,3.8154
+2012,2,"2012-T2","Homem","Fundamental incompleto ou equivalente",38181722.7662304,88865494.0000021,42.9657
+2012,2,"2012-T2","Homem","Medio completo ou equivalente",18029102.5578724,88865494.0000021,20.2881
+2012,2,"2012-T2","Homem","Fundamental completo ou equivalente",8934107.84119286,88865494.0000021,10.0535
+2012,2,"2012-T2","Homem","Sem instrucao e menos de 1 ano de estudo",8228179.44683605,88865494.0000021,9.2591
+2012,2,"2012-T2","Homem","Superior completo",6463366.37165273,88865494.0000021,7.2732
+2012,2,"2012-T2","Homem","Medio incompleto ou equivalente",5865930.47536656,88865494.0000021,6.6009
+2012,2,"2012-T2","Homem","Superior incompleto ou equivalente",3163084.54085111,88865494.0000021,3.5594
+2012,2,"2012-T2","Mulher","Fundamental incompleto ou equivalente",36872257.1109186,93569987.0000024,39.4061
+2012,2,"2012-T2","Mulher","Medio completo ou equivalente",20564848.8505066,93569987.0000024,21.978
+2012,2,"2012-T2","Mulher","Superior completo",9130531.74469,93569987.0000024,9.758
+2012,2,"2012-T2","Mulher","Fundamental completo ou equivalente",8879719.22170347,93569987.0000024,9.4899
+2012,2,"2012-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",8379902.7250507,93569987.0000024,8.9558
+2012,2,"2012-T2","Mulher","Medio incompleto ou equivalente",6210151.53633058,93569987.0000024,6.6369
+2012,2,"2012-T2","Mulher","Superior incompleto ou equivalente",3532575.81080239,93569987.0000024,3.7753
+2012,3,"2012-T3","Homem","Fundamental incompleto ou equivalente",38269660.6000847,89069925.0000013,42.9659
+2012,3,"2012-T3","Homem","Medio completo ou equivalente",18084792.997767,89069925.0000013,20.304
+2012,3,"2012-T3","Homem","Fundamental completo ou equivalente",8972262.29831178,89069925.0000013,10.0733
+2012,3,"2012-T3","Homem","Sem instrucao e menos de 1 ano de estudo",8284752.61105094,89069925.0000013,9.3014
+2012,3,"2012-T3","Homem","Superior completo",6537319.35675585,89069925.0000013,7.3395
+2012,3,"2012-T3","Homem","Medio incompleto ou equivalente",5744387.83230841,89069925.0000013,6.4493
+2012,3,"2012-T3","Homem","Superior incompleto ou equivalente",3176749.30372265,89069925.0000013,3.5666
+2012,3,"2012-T3","Mulher","Fundamental incompleto ou equivalente",36904251.0895385,93791537.9999988,39.3471
+2012,3,"2012-T3","Mulher","Medio completo ou equivalente",20587776.2008689,93791537.9999988,21.9506
+2012,3,"2012-T3","Mulher","Superior completo",9253638.39615596,93791537.9999988,9.8662
+2012,3,"2012-T3","Mulher","Fundamental completo ou equivalente",8784086.13445481,93791537.9999988,9.3655
+2012,3,"2012-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",8567148.35055279,93791537.9999988,9.1342
+2012,3,"2012-T3","Mulher","Medio incompleto ou equivalente",6085011.08324811,93791537.9999988,6.4878
+2012,3,"2012-T3","Mulher","Superior incompleto ou equivalente",3609626.74517977,93791537.9999988,3.8486
+2012,4,"2012-T4","Homem","Fundamental incompleto ou equivalente",38217900.605539,89271662.0000013,42.8108
+2012,4,"2012-T4","Homem","Medio completo ou equivalente",18323741.9627754,89271662.0000013,20.5258
+2012,4,"2012-T4","Homem","Fundamental completo ou equivalente",8842372.85538533,89271662.0000013,9.905
+2012,4,"2012-T4","Homem","Sem instrucao e menos de 1 ano de estudo",8401434.0366419,89271662.0000013,9.4111
+2012,4,"2012-T4","Homem","Superior completo",6755610.61332145,89271662.0000013,7.5675
+2012,4,"2012-T4","Homem","Medio incompleto ou equivalente",5616687.18861278,89271662.0000013,6.2917
+2012,4,"2012-T4","Homem","Superior incompleto ou equivalente",3113914.73772538,89271662.0000013,3.4881
+2012,4,"2012-T4","Mulher","Fundamental incompleto ou equivalente",36974720.1483575,94008780.0000017,39.3311
+2012,4,"2012-T4","Mulher","Medio completo ou equivalente",20790509.9797606,94008780.0000017,22.1155
+2012,4,"2012-T4","Mulher","Superior completo",9316685.01512607,94008780.0000017,9.9104
+2012,4,"2012-T4","Mulher","Fundamental completo ou equivalente",8759443.30735507,94008780.0000017,9.3177
+2012,4,"2012-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",8625565.00866545,94008780.0000017,9.1753
+2012,4,"2012-T4","Mulher","Medio incompleto ou equivalente",6007449.91051492,94008780.0000017,6.3903
+2012,4,"2012-T4","Mulher","Superior incompleto ou equivalente",3534406.63022209,94008780.0000017,3.7597
+2013,1,"2013-T1","Homem","Fundamental incompleto ou equivalente",37904184.9949717,89471316.0000043,42.3646
+2013,1,"2013-T1","Homem","Medio completo ou equivalente",18952838.2722271,89471316.0000043,21.1831
+2013,1,"2013-T1","Homem","Fundamental completo ou equivalente",9059509.47646578,89471316.0000043,10.1256
+2013,1,"2013-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7696410.1079801,89471316.0000043,8.6021
+2013,1,"2013-T1","Homem","Superior completo",6840427.05921607,89471316.0000043,7.6454
+2013,1,"2013-T1","Homem","Medio incompleto ou equivalente",5764573.45467748,89471316.0000043,6.4429
+2013,1,"2013-T1","Homem","Superior incompleto ou equivalente",3253372.6344661,89471316.0000043,3.6362
+2013,1,"2013-T1","Mulher","Fundamental incompleto ou equivalente",36462414.2265233,94223826.0000025,38.6977
+2013,1,"2013-T1","Mulher","Medio completo ou equivalente",21547288.7133622,94223826.0000025,22.8682
+2013,1,"2013-T1","Mulher","Superior completo",9488397.01815372,94223826.0000025,10.0701
+2013,1,"2013-T1","Mulher","Fundamental completo ou equivalente",8938647.05717234,94223826.0000025,9.4866
+2013,1,"2013-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7924876.5006327,94223826.0000025,8.4107
+2013,1,"2013-T1","Mulher","Medio incompleto ou equivalente",6121074.97533912,94223826.0000025,6.4963
+2013,1,"2013-T1","Mulher","Superior incompleto ou equivalente",3741127.5088191,94223826.0000025,3.9705
+2013,2,"2013-T2","Homem","Fundamental incompleto ou equivalente",37795793.2813813,89662560.0000024,42.1534
+2013,2,"2013-T2","Homem","Medio completo ou equivalente",18869248.2872397,89662560.0000024,21.0447
+2013,2,"2013-T2","Homem","Fundamental completo ou equivalente",9055827.09739469,89662560.0000024,10.0999
+2013,2,"2013-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7975824.71810556,89662560.0000024,8.8954
+2013,2,"2013-T2","Homem","Superior completo",6923533.79442724,89662560.0000024,7.7218
+2013,2,"2013-T2","Homem","Medio incompleto ou equivalente",5829929.20475481,89662560.0000024,6.5021
+2013,2,"2013-T2","Homem","Superior incompleto ou equivalente",3212403.61669904,89662560.0000024,3.5828
+2013,2,"2013-T2","Mulher","Fundamental incompleto ou equivalente",36317889.6316255,94429866.0000004,38.4602
+2013,2,"2013-T2","Mulher","Medio completo ou equivalente",21550415.8608586,94429866.0000004,22.8216
+2013,2,"2013-T2","Mulher","Superior completo",9511284.19995416,94429866.0000004,10.0723
+2013,2,"2013-T2","Mulher","Fundamental completo ou equivalente",8874597.52726643,94429866.0000004,9.3981
+2013,2,"2013-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",8124807.93252939,94429866.0000004,8.6041
+2013,2,"2013-T2","Mulher","Medio incompleto ou equivalente",6241269.88862485,94429866.0000004,6.6094
+2013,2,"2013-T2","Mulher","Superior incompleto ou equivalente",3809600.95914152,94429866.0000004,4.0343
+2013,3,"2013-T3","Homem","Fundamental incompleto ou equivalente",37521009.9150886,89855375.0000018,41.7571
+2013,3,"2013-T3","Homem","Medio completo ou equivalente",18768456.9228498,89855375.0000018,20.8874
+2013,3,"2013-T3","Homem","Fundamental completo ou equivalente",9180942.40731642,89855375.0000018,10.2175
+2013,3,"2013-T3","Homem","Sem instrucao e menos de 1 ano de estudo",8427101.95847897,89855375.0000018,9.3785
+2013,3,"2013-T3","Homem","Superior completo",6963372.31158348,89855375.0000018,7.7495
+2013,3,"2013-T3","Homem","Medio incompleto ou equivalente",5783989.10702932,89855375.0000018,6.437
+2013,3,"2013-T3","Homem","Superior incompleto ou equivalente",3210502.37765512,89855375.0000018,3.573
+2013,3,"2013-T3","Mulher","Fundamental incompleto ou equivalente",36142524.2224846,94637378.0000013,38.1905
+2013,3,"2013-T3","Mulher","Medio completo ou equivalente",21538256.770242,94637378.0000013,22.7587
+2013,3,"2013-T3","Mulher","Superior completo",9559730.4265225,94637378.0000013,10.1014
+2013,3,"2013-T3","Mulher","Fundamental completo ou equivalente",9018008.51831387,94637378.0000013,9.529
+2013,3,"2013-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",8435342.6072386,94637378.0000013,8.9133
+2013,3,"2013-T3","Mulher","Medio incompleto ou equivalente",6184859.0843871,94637378.0000013,6.5353
+2013,3,"2013-T3","Mulher","Superior incompleto ou equivalente",3758656.37081261,94637378.0000013,3.9716
+2013,4,"2013-T4","Homem","Fundamental incompleto ou equivalente",37488104.1836221,90043151.0000058,41.6335
+2013,4,"2013-T4","Homem","Medio completo ou equivalente",18874803.2748818,90043151.0000058,20.962
+2013,4,"2013-T4","Homem","Fundamental completo ou equivalente",9183156.50896738,90043151.0000058,10.1986
+2013,4,"2013-T4","Homem","Sem instrucao e menos de 1 ano de estudo",8405021.48606361,90043151.0000058,9.3344
+2013,4,"2013-T4","Homem","Superior completo",7017651.70177297,90043151.0000058,7.7937
+2013,4,"2013-T4","Homem","Medio incompleto ou equivalente",5850260.98118337,90043151.0000058,6.4972
+2013,4,"2013-T4","Homem","Superior incompleto ou equivalente",3224152.86351449,90043151.0000058,3.5807
+2013,4,"2013-T4","Mulher","Fundamental incompleto ou equivalente",36084678.0102659,94839234.000005,38.0483
+2013,4,"2013-T4","Mulher","Medio completo ou equivalente",21790770.1289582,94839234.000005,22.9765
+2013,4,"2013-T4","Mulher","Superior completo",9649187.7195603,94839234.000005,10.1743
+2013,4,"2013-T4","Mulher","Fundamental completo ou equivalente",8888124.04941382,94839234.000005,9.3718
+2013,4,"2013-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",8624260.23285016,94839234.000005,9.0936
+2013,4,"2013-T4","Mulher","Medio incompleto ou equivalente",6096923.92128509,94839234.000005,6.4287
+2013,4,"2013-T4","Mulher","Superior incompleto ou equivalente",3705289.93767149,94839234.000005,3.9069
+2014,1,"2014-T1","Homem","Fundamental incompleto ou equivalente",37009279.2149045,90228952.0001097,41.0171
+2014,1,"2014-T1","Homem","Medio completo ou equivalente",19496113.9035301,90228952.0001097,21.6074
+2014,1,"2014-T1","Homem","Fundamental completo ou equivalente",9433068.02404097,90228952.0001097,10.4546
+2014,1,"2014-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7676983.38603135,90228952.0001097,8.5083
+2014,1,"2014-T1","Homem","Superior completo",7209404.39476832,90228952.0001097,7.9901
+2014,1,"2014-T1","Homem","Medio incompleto ou equivalente",6091911.24177499,90228952.0001097,6.7516
+2014,1,"2014-T1","Homem","Superior incompleto ou equivalente",3312191.83505948,90228952.0001097,3.6709
+2014,1,"2014-T1","Mulher","Fundamental incompleto ou equivalente",35520667.313193,95039016.0001142,37.3748
+2014,1,"2014-T1","Mulher","Medio completo ou equivalente",22330553.0025959,95039016.0001142,23.4962
+2014,1,"2014-T1","Mulher","Superior completo",9886155.72039148,95039016.0001142,10.4022
+2014,1,"2014-T1","Mulher","Fundamental completo ou equivalente",9225226.36477232,95039016.0001142,9.7068
+2014,1,"2014-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7842497.37416431,95039016.0001142,8.2519
+2014,1,"2014-T1","Mulher","Medio incompleto ou equivalente",6316257.58662969,95039016.0001142,6.646
+2014,1,"2014-T1","Mulher","Superior incompleto ou equivalente",3917658.63836754,95039016.0001142,4.1222
+2014,2,"2014-T2","Homem","Fundamental incompleto ou equivalente",36972408.9386699,90406776.0000516,40.8956
+2014,2,"2014-T2","Homem","Medio completo ou equivalente",19653322.8614326,90406776.0000516,21.7388
+2014,2,"2014-T2","Homem","Fundamental completo ou equivalente",9386992.90549868,90406776.0000516,10.3831
+2014,2,"2014-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7732503.71015482,90406776.0000516,8.553
+2014,2,"2014-T2","Homem","Superior completo",7312347.6399749,90406776.0000516,8.0883
+2014,2,"2014-T2","Homem","Medio incompleto ou equivalente",6025039.35116797,90406776.0000516,6.6644
+2014,2,"2014-T2","Homem","Superior incompleto ou equivalente",3324160.59315277,90406776.0000516,3.6769
+2014,2,"2014-T2","Mulher","Fundamental incompleto ou equivalente",35473975.1303145,95230256.0000526,37.2507
+2014,2,"2014-T2","Mulher","Medio completo ou equivalente",22405637.7636151,95230256.0000526,23.5279
+2014,2,"2014-T2","Mulher","Superior completo",9994720.69329174,95230256.0000526,10.4953
+2014,2,"2014-T2","Mulher","Fundamental completo ou equivalente",9156846.72328927,95230256.0000526,9.6155
+2014,2,"2014-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7994367.27730103,95230256.0000526,8.3948
+2014,2,"2014-T2","Mulher","Medio incompleto ou equivalente",6285430.43976344,95230256.0000526,6.6002
+2014,2,"2014-T2","Mulher","Superior incompleto ou equivalente",3919277.97247756,95230256.0000526,4.1156
+2014,3,"2014-T3","Homem","Fundamental incompleto ou equivalente",37054813.8423399,90581821.0000443,40.9076
+2014,3,"2014-T3","Homem","Medio completo ou equivalente",19405567.3714231,90581821.0000443,21.4232
+2014,3,"2014-T3","Homem","Fundamental completo ou equivalente",9203493.8538625,90581821.0000443,10.1604
+2014,3,"2014-T3","Homem","Sem instrucao e menos de 1 ano de estudo",8012363.073234,90581821.0000443,8.8454
+2014,3,"2014-T3","Homem","Superior completo",7352307.16862949,90581821.0000443,8.1168
+2014,3,"2014-T3","Homem","Medio incompleto ou equivalente",6143547.69984632,90581821.0000443,6.7823
+2014,3,"2014-T3","Homem","Superior incompleto ou equivalente",3409727.99070898,90581821.0000443,3.7643
+2014,3,"2014-T3","Mulher","Fundamental incompleto ou equivalente",35458671.9509686,95419227.0000436,37.1609
+2014,3,"2014-T3","Mulher","Medio completo ou equivalente",22313909.2262883,95419227.0000436,23.3851
+2014,3,"2014-T3","Mulher","Superior completo",10115345.5608098,95419227.0000436,10.601
+2014,3,"2014-T3","Mulher","Fundamental completo ou equivalente",9049492.32420098,95419227.0000436,9.4839
+2014,3,"2014-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",8292669.0846214,95419227.0000436,8.6908
+2014,3,"2014-T3","Mulher","Medio incompleto ou equivalente",6191895.68293512,95419227.0000436,6.4891
+2014,3,"2014-T3","Mulher","Superior incompleto ou equivalente",3997243.17021936,95419227.0000436,4.1891
+2014,4,"2014-T4","Homem","Fundamental incompleto ou equivalente",37079507.7623234,90747787.0000629,40.86
+2014,4,"2014-T4","Homem","Medio completo ou equivalente",19505616.2982003,90747787.0000629,21.4943
+2014,4,"2014-T4","Homem","Fundamental completo ou equivalente",9221942.92112275,90747787.0000629,10.1622
+2014,4,"2014-T4","Homem","Sem instrucao e menos de 1 ano de estudo",8087980.65205535,90747787.0000629,8.9126
+2014,4,"2014-T4","Homem","Superior completo",7460181.71736425,90747787.0000629,8.2208
+2014,4,"2014-T4","Homem","Medio incompleto ou equivalente",5929997.71845541,90747787.0000629,6.5346
+2014,4,"2014-T4","Homem","Superior incompleto ou equivalente",3462559.93054142,90747787.0000629,3.8156
+2014,4,"2014-T4","Mulher","Fundamental incompleto ou equivalente",35491487.4369425,95599180.0000608,37.1253
+2014,4,"2014-T4","Mulher","Medio completo ou equivalente",22355043.2272161,95599180.0000608,23.3841
+2014,4,"2014-T4","Mulher","Superior completo",10421842.9704202,95599180.0000608,10.9016
+2014,4,"2014-T4","Mulher","Fundamental completo ou equivalente",8975804.5624834,95599180.0000608,9.389
+2014,4,"2014-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",8222647.16664979,95599180.0000608,8.6012
+2014,4,"2014-T4","Mulher","Medio incompleto ou equivalente",6136767.14728726,95599180.0000608,6.4193
+2014,4,"2014-T4","Mulher","Superior incompleto ou equivalente",3995587.48906164,95599180.0000608,4.1795
+2015,1,"2015-T1","Homem","Fundamental incompleto ou equivalente",36907796.5795752,90911767.0001156,40.5974
+2015,1,"2015-T1","Homem","Medio completo ou equivalente",19767401.1035123,90911767.0001156,21.7435
+2015,1,"2015-T1","Homem","Fundamental completo ou equivalente",9341256.6592396,90911767.0001156,10.2751
+2015,1,"2015-T1","Homem","Superior completo",7783101.8504268,90911767.0001156,8.5612
+2015,1,"2015-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7316304.66353229,90911767.0001156,8.0477
+2015,1,"2015-T1","Homem","Medio incompleto ou equivalente",6147600.79447765,90911767.0001156,6.7622
+2015,1,"2015-T1","Homem","Superior incompleto ou equivalente",3648305.34935177,90911767.0001156,4.013
+2015,1,"2015-T1","Mulher","Fundamental incompleto ou equivalente",35120859.0854766,95777030.0001174,36.6694
+2015,1,"2015-T1","Mulher","Medio completo ou equivalente",22885253.7156081,95777030.0001174,23.8943
+2015,1,"2015-T1","Mulher","Superior completo",10781191.4926572,95777030.0001174,11.2566
+2015,1,"2015-T1","Mulher","Fundamental completo ou equivalente",9065047.60793998,95777030.0001174,9.4647
+2015,1,"2015-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7454205.20009144,95777030.0001174,7.7829
+2015,1,"2015-T1","Mulher","Medio incompleto ou equivalente",6271693.4427462,95777030.0001174,6.5482
+2015,1,"2015-T1","Mulher","Superior incompleto ou equivalente",4198779.45559788,95777030.0001174,4.3839
+2015,2,"2015-T2","Homem","Fundamental incompleto ou equivalente",36876292.1744218,91068534.0000423,40.4929
+2015,2,"2015-T2","Homem","Medio completo ou equivalente",19692806.9933632,91068534.0000423,21.6242
+2015,2,"2015-T2","Homem","Fundamental completo ou equivalente",9147980.88040673,91068534.0000423,10.0452
+2015,2,"2015-T2","Homem","Superior completo",7920284.73432974,91068534.0000423,8.6971
+2015,2,"2015-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7435416.04798143,91068534.0000423,8.1646
+2015,2,"2015-T2","Homem","Medio incompleto ou equivalente",6349226.63166287,91068534.0000423,6.9719
+2015,2,"2015-T2","Homem","Superior incompleto ou equivalente",3646526.53787655,91068534.0000423,4.0042
+2015,2,"2015-T2","Mulher","Fundamental incompleto ou equivalente",35061998.5726586,95947120.000044,36.543
+2015,2,"2015-T2","Mulher","Medio completo ou equivalente",22787946.0966257,95947120.000044,23.7505
+2015,2,"2015-T2","Mulher","Superior completo",10922479.2799143,95947120.000044,11.3839
+2015,2,"2015-T2","Mulher","Fundamental completo ou equivalente",8981134.70207758,95947120.000044,9.3605
+2015,2,"2015-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7581323.2472913,95947120.000044,7.9016
+2015,2,"2015-T2","Mulher","Medio incompleto ou equivalente",6364607.16786797,95947120.000044,6.6335
+2015,2,"2015-T2","Mulher","Superior incompleto ou equivalente",4247630.93360864,95947120.000044,4.4271
+2015,3,"2015-T3","Homem","Fundamental incompleto ou equivalente",36519780.1630958,91232435.0000449,40.0294
+2015,3,"2015-T3","Homem","Medio completo ou equivalente",19726295.4983361,91232435.0000449,21.622
+2015,3,"2015-T3","Homem","Fundamental completo ou equivalente",9110778.4469675,91232435.0000449,9.9863
+2015,3,"2015-T3","Homem","Superior completo",8106294.09972473,91232435.0000449,8.8853
+2015,3,"2015-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7779354.26975566,91232435.0000449,8.527
+2015,3,"2015-T3","Homem","Medio incompleto ou equivalente",6277319.38042114,91232435.0000449,6.8806
+2015,3,"2015-T3","Homem","Superior incompleto ou equivalente",3712613.14174404,91232435.0000449,4.0694
+2015,3,"2015-T3","Mulher","Fundamental incompleto ou equivalente",34940824.5338409,96125489.0000443,36.3492
+2015,3,"2015-T3","Mulher","Medio completo ou equivalente",22804539.0897736,96125489.0000443,23.7237
+2015,3,"2015-T3","Mulher","Superior completo",11163746.9627156,96125489.0000443,11.6137
+2015,3,"2015-T3","Mulher","Fundamental completo ou equivalente",8818067.40944449,96125489.0000443,9.1735
+2015,3,"2015-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7874815.10512144,96125489.0000443,8.1922
+2015,3,"2015-T3","Mulher","Medio incompleto ou equivalente",6221485.68738917,96125489.0000443,6.4723
+2015,3,"2015-T3","Mulher","Superior incompleto ou equivalente",4302010.21175919,96125489.0000443,4.4754
+2015,4,"2015-T4","Homem","Fundamental incompleto ou equivalente",36400811.9281805,91398303.0000444,39.8266
+2015,4,"2015-T4","Homem","Medio completo ou equivalente",20371138.8245228,91398303.0000444,22.2883
+2015,4,"2015-T4","Homem","Fundamental completo ou equivalente",8460570.91410377,91398303.0000444,9.2568
+2015,4,"2015-T4","Homem","Sem instrucao e menos de 1 ano de estudo",8348490.21288592,91398303.0000444,9.1342
+2015,4,"2015-T4","Homem","Superior completo",8207267.59426192,91398303.0000444,8.9797
+2015,4,"2015-T4","Homem","Medio incompleto ou equivalente",6171932.44497554,91398303.0000444,6.7528
+2015,4,"2015-T4","Homem","Superior incompleto ou equivalente",3438091.08111393,91398303.0000444,3.7617
+2015,4,"2015-T4","Mulher","Fundamental incompleto ou equivalente",34884839.1579716,96306556.0000468,36.2227
+2015,4,"2015-T4","Mulher","Medio completo ou equivalente",23265661.7771181,96306556.0000468,24.1579
+2015,4,"2015-T4","Mulher","Superior completo",11379020.3750924,96306556.0000468,11.8154
+2015,4,"2015-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",8415140.23981172,96306556.0000468,8.7379
+2015,4,"2015-T4","Mulher","Fundamental completo ou equivalente",8218911.17334717,96306556.0000468,8.5341
+2015,4,"2015-T4","Mulher","Medio incompleto ou equivalente",6145989.0343135,96306556.0000468,6.3817
+2015,4,"2015-T4","Mulher","Superior incompleto ou equivalente",3996994.24239233,96306556.0000468,4.1503
+2016,1,"2016-T1","Homem","Fundamental incompleto ou equivalente",36140186.5784562,91562243.0000991,39.4706
+2016,1,"2016-T1","Homem","Medio completo ou equivalente",20811416.7595373,91562243.0000991,22.7293
+2016,1,"2016-T1","Homem","Fundamental completo ou equivalente",8698986.10970675,91562243.0000991,9.5006
+2016,1,"2016-T1","Homem","Superior completo",8546208.87918033,91562243.0000991,9.3338
+2016,1,"2016-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7395091.50607343,91562243.0000991,8.0766
+2016,1,"2016-T1","Homem","Medio incompleto ou equivalente",6393858.9192948,91562243.0000991,6.9831
+2016,1,"2016-T1","Homem","Superior incompleto ou equivalente",3576494.24785027,91562243.0000991,3.9061
+2016,1,"2016-T1","Mulher","Fundamental incompleto ou equivalente",34725072.1718036,96485594.0001024,35.9899
+2016,1,"2016-T1","Mulher","Medio completo ou equivalente",23685566.8270465,96485594.0001024,24.5483
+2016,1,"2016-T1","Mulher","Superior completo",11630490.048663,96485594.0001024,12.0541
+2016,1,"2016-T1","Mulher","Fundamental completo ou equivalente",8520679.91384511,96485594.0001024,8.831
+2016,1,"2016-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7378856.72064061,96485594.0001024,7.6476
+2016,1,"2016-T1","Mulher","Medio incompleto ou equivalente",6350357.49148798,96485594.0001024,6.5817
+2016,1,"2016-T1","Mulher","Superior incompleto ou equivalente",4194570.82661564,96485594.0001024,4.3474
+2016,2,"2016-T2","Homem","Fundamental incompleto ou equivalente",36156894.9124842,91720784.0000504,39.4206
+2016,2,"2016-T2","Homem","Medio completo ou equivalente",20714000.5403732,91720784.0000504,22.5838
+2016,2,"2016-T2","Homem","Fundamental completo ou equivalente",8519029.9575018,91720784.0000504,9.288
+2016,2,"2016-T2","Homem","Superior completo",8454613.81323309,91720784.0000504,9.2178
+2016,2,"2016-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7850459.68288383,91720784.0000504,8.5591
+2016,2,"2016-T2","Homem","Medio incompleto ou equivalente",6397502.10958084,91720784.0000504,6.975
+2016,2,"2016-T2","Homem","Superior incompleto ou equivalente",3628282.98399343,91720784.0000504,3.9558
+2016,2,"2016-T2","Mulher","Fundamental incompleto ou equivalente",34602088.8674157,96658800.0000528,35.7982
+2016,2,"2016-T2","Mulher","Medio completo ou equivalente",23400689.6009461,96658800.0000528,24.2096
+2016,2,"2016-T2","Mulher","Superior completo",11618106.6950924,96658800.0000528,12.0197
+2016,2,"2016-T2","Mulher","Fundamental completo ou equivalente",8430499.58340318,96658800.0000528,8.7219
+2016,2,"2016-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7895056.48111081,96658800.0000528,8.168
+2016,2,"2016-T2","Mulher","Medio incompleto ou equivalente",6447243.15891512,96658800.0000528,6.6701
+2016,2,"2016-T2","Mulher","Superior incompleto ou equivalente",4265115.61316941,96658800.0000528,4.4125
+2016,3,"2016-T3","Homem","Fundamental incompleto ou equivalente",35895978.3635397,91885213.0000327,39.0661
+2016,3,"2016-T3","Homem","Medio completo ou equivalente",20948717.0164132,91885213.0000327,22.7988
+2016,3,"2016-T3","Homem","Superior completo",8534325.7379987,91885213.0000327,9.288
+2016,3,"2016-T3","Homem","Fundamental completo ou equivalente",8304561.50007747,91885213.0000327,9.038
+2016,3,"2016-T3","Homem","Sem instrucao e menos de 1 ano de estudo",8041074.17224693,91885213.0000327,8.7512
+2016,3,"2016-T3","Homem","Medio incompleto ou equivalente",6592661.18704852,91885213.0000327,7.1749
+2016,3,"2016-T3","Homem","Superior incompleto ou equivalente",3567895.0227082,91885213.0000327,3.883
+2016,3,"2016-T3","Mulher","Fundamental incompleto ou equivalente",34543949.3636966,96838726.0000367,35.6716
+2016,3,"2016-T3","Mulher","Medio completo ou equivalente",23651974.582908,96838726.0000367,24.4241
+2016,3,"2016-T3","Mulher","Superior completo",11803505.9208615,96838726.0000367,12.1888
+2016,3,"2016-T3","Mulher","Fundamental completo ou equivalente",8183105.42673554,96838726.0000367,8.4502
+2016,3,"2016-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",8022400.42032543,96838726.0000367,8.2843
+2016,3,"2016-T3","Mulher","Medio incompleto ou equivalente",6430728.75939682,96838726.0000367,6.6407
+2016,3,"2016-T3","Mulher","Superior incompleto ou equivalente",4203061.52611278,96838726.0000367,4.3403
+2016,4,"2016-T4","Homem","Fundamental incompleto ou equivalente",35908772.3773511,92052190.0000516,39.0091
+2016,4,"2016-T4","Homem","Medio completo ou equivalente",21006046.3576378,92052190.0000516,22.8197
+2016,4,"2016-T4","Homem","Superior completo",8652228.50641029,92052190.0000516,9.3993
+2016,4,"2016-T4","Homem","Fundamental completo ou equivalente",8188324.49195822,92052190.0000516,8.8953
+2016,4,"2016-T4","Homem","Sem instrucao e menos de 1 ano de estudo",8155902.7203981,92052190.0000516,8.8601
+2016,4,"2016-T4","Homem","Medio incompleto ou equivalente",6607456.30212535,92052190.0000516,7.1779
+2016,4,"2016-T4","Homem","Superior incompleto ou equivalente",3533459.24417077,92052190.0000516,3.8385
+2016,4,"2016-T4","Mulher","Fundamental incompleto ou equivalente",34445023.4398976,97021736.0000529,35.5024
+2016,4,"2016-T4","Mulher","Medio completo ou equivalente",23679693.4840744,97021736.0000529,24.4066
+2016,4,"2016-T4","Mulher","Superior completo",11905668.2743973,97021736.0000529,12.2711
+2016,4,"2016-T4","Mulher","Fundamental completo ou equivalente",8171003.04613393,97021736.0000529,8.4218
+2016,4,"2016-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",8151724.17054797,97021736.0000529,8.402
+2016,4,"2016-T4","Mulher","Medio incompleto ou equivalente",6523725.75241824,97021736.0000529,6.724
+2016,4,"2016-T4","Mulher","Superior incompleto ou equivalente",4144897.83258335,97021736.0000529,4.2721
+2017,1,"2017-T1","Homem","Fundamental incompleto ou equivalente",36019781.1187751,92217287.0000546,39.0597
+2017,1,"2017-T1","Homem","Medio completo ou equivalente",21486481.1128709,92217287.0000546,23.2998
+2017,1,"2017-T1","Homem","Superior completo",8695841.44810643,92217287.0000546,9.4297
+2017,1,"2017-T1","Homem","Fundamental completo ou equivalente",8426440.4841772,92217287.0000546,9.1376
+2017,1,"2017-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7276586.70466806,92217287.0000546,7.8907
+2017,1,"2017-T1","Homem","Medio incompleto ou equivalente",6578676.10217255,92217287.0000546,7.1339
+2017,1,"2017-T1","Homem","Superior incompleto ou equivalente",3733480.0292843,92217287.0000546,4.0486
+2017,1,"2017-T1","Mulher","Fundamental incompleto ou equivalente",34312547.8934525,97202763.0000535,35.3
+2017,1,"2017-T1","Mulher","Medio completo ou equivalente",24164540.1581113,97202763.0000535,24.8599
+2017,1,"2017-T1","Mulher","Superior completo",12295784.6003152,97202763.0000535,12.6496
+2017,1,"2017-T1","Mulher","Fundamental completo ou equivalente",8320427.24550219,97202763.0000535,8.5599
+2017,1,"2017-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7355323.98257424,97202763.0000535,7.567
+2017,1,"2017-T1","Mulher","Medio incompleto ou equivalente",6531700.66611701,97202763.0000535,6.7197
+2017,1,"2017-T1","Mulher","Superior incompleto ou equivalente",4222438.45398108,97202763.0000535,4.3439
+2017,2,"2017-T2","Homem","Fundamental incompleto ou equivalente",36260681.3856278,92375213.0000733,39.2537
+2017,2,"2017-T2","Homem","Medio completo ou equivalente",21313872.2834956,92375213.0000733,23.0732
+2017,2,"2017-T2","Homem","Superior completo",8667043.2400737,92375213.0000733,9.3824
+2017,2,"2017-T2","Homem","Fundamental completo ou equivalente",8076122.15702314,92375213.0000733,8.7427
+2017,2,"2017-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7346719.09590229,92375213.0000733,7.9531
+2017,2,"2017-T2","Homem","Medio incompleto ou equivalente",6877232.97443232,92375213.0000733,7.4449
+2017,2,"2017-T2","Homem","Superior incompleto ou equivalente",3833541.86351844,92375213.0000733,4.15
+2017,2,"2017-T2","Mulher","Fundamental incompleto ou equivalente",34575598.060129,97376000.0000806,35.5073
+2017,2,"2017-T2","Mulher","Medio completo ou equivalente",24082447.2942817,97376000.0000806,24.7314
+2017,2,"2017-T2","Mulher","Superior completo",12221530.2952527,97376000.0000806,12.5509
+2017,2,"2017-T2","Mulher","Fundamental completo ou equivalente",7928157.47821911,97376000.0000806,8.1418
+2017,2,"2017-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7495480.86542716,97376000.0000806,7.6975
+2017,2,"2017-T2","Mulher","Medio incompleto ou equivalente",6707846.09654917,97376000.0000806,6.8886
+2017,2,"2017-T2","Mulher","Superior incompleto ou equivalente",4364939.91022177,97376000.0000806,4.4826
+2017,3,"2017-T3","Homem","Fundamental incompleto ou equivalente",36095928.9775911,92533725.0001097,39.0084
+2017,3,"2017-T3","Homem","Medio completo ou equivalente",21257042.8175647,92533725.0001097,22.9722
+2017,3,"2017-T3","Homem","Superior completo",8899772.27422846,92533725.0001097,9.6179
+2017,3,"2017-T3","Homem","Fundamental completo ou equivalente",7978685.4816407,92533725.0001097,8.6225
+2017,3,"2017-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7553505.25198773,92533725.0001097,8.163
+2017,3,"2017-T3","Homem","Medio incompleto ou equivalente",6793269.53881382,92533725.0001097,7.3414
+2017,3,"2017-T3","Homem","Superior incompleto ou equivalente",3955520.6582831,92533725.0001097,4.2747
+2017,3,"2017-T3","Mulher","Fundamental incompleto ou equivalente",34333881.0681582,97550015.0001227,35.1962
+2017,3,"2017-T3","Mulher","Medio completo ou equivalente",24013616.9524279,97550015.0001227,24.6167
+2017,3,"2017-T3","Mulher","Superior completo",12400117.4410512,97550015.0001227,12.7115
+2017,3,"2017-T3","Mulher","Fundamental completo ou equivalente",7904733.51014749,97550015.0001227,8.1033
+2017,3,"2017-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7716044.85621873,97550015.0001227,7.9098
+2017,3,"2017-T3","Mulher","Medio incompleto ou equivalente",6756853.84931663,97550015.0001227,6.9266
+2017,3,"2017-T3","Mulher","Superior incompleto ou equivalente",4424767.32280261,97550015.0001227,4.5359
+2017,4,"2017-T4","Homem","Fundamental incompleto ou equivalente",36052498.0446207,92687396.0000955,38.8969
+2017,4,"2017-T4","Homem","Medio completo ou equivalente",21400521.1621675,92687396.0000955,23.0889
+2017,4,"2017-T4","Homem","Superior completo",8977779.11138969,92687396.0000955,9.6861
+2017,4,"2017-T4","Homem","Fundamental completo ou equivalente",7943109.62658641,92687396.0000955,8.5698
+2017,4,"2017-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7719065.85813273,92687396.0000955,8.3281
+2017,4,"2017-T4","Homem","Medio incompleto ou equivalente",6687012.27759391,92687396.0000955,7.2146
+2017,4,"2017-T4","Homem","Superior incompleto ou equivalente",3907409.91960454,92687396.0000955,4.2157
+2017,4,"2017-T4","Mulher","Fundamental incompleto ou equivalente",34314644.1964263,97718852.0000997,35.1157
+2017,4,"2017-T4","Mulher","Medio completo ou equivalente",24169675.253733,97718852.0000997,24.7339
+2017,4,"2017-T4","Mulher","Superior completo",12565185.7881283,97718852.0000997,12.8585
+2017,4,"2017-T4","Mulher","Fundamental completo ou equivalente",7844246.56166907,97718852.0000997,8.0274
+2017,4,"2017-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7755912.26844733,97718852.0000997,7.937
+2017,4,"2017-T4","Mulher","Medio incompleto ou equivalente",6627687.18811103,97718852.0000997,6.7824
+2017,4,"2017-T4","Mulher","Superior incompleto ou equivalente",4441500.74358466,97718852.0000997,4.5452
+2018,1,"2018-T1","Homem","Fundamental incompleto ou equivalente",35858487.6449668,92839200.0000975,38.6243
+2018,1,"2018-T1","Homem","Medio completo ou equivalente",21919302.5206984,92839200.0000975,23.61
+2018,1,"2018-T1","Homem","Superior completo",9233066.76227591,92839200.0000975,9.9452
+2018,1,"2018-T1","Homem","Fundamental completo ou equivalente",7948313.05022473,92839200.0000975,8.5614
+2018,1,"2018-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7016295.72668177,92839200.0000975,7.5575
+2018,1,"2018-T1","Homem","Medio incompleto ou equivalente",6782810.8200393,92839200.0000975,7.306
+2018,1,"2018-T1","Homem","Superior incompleto ou equivalente",4080923.47521056,92839200.0000975,4.3957
+2018,1,"2018-T1","Mulher","Fundamental incompleto ou equivalente",34257829.3859321,97885716.0000971,34.9978
+2018,1,"2018-T1","Mulher","Medio completo ou equivalente",24641261.5498586,97885716.0000971,25.1735
+2018,1,"2018-T1","Mulher","Superior completo",12845611.0472505,97885716.0000971,13.1231
+2018,1,"2018-T1","Mulher","Fundamental completo ou equivalente",7652670.86486565,97885716.0000971,7.818
+2018,1,"2018-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7130627.8831938,97885716.0000971,7.2846
+2018,1,"2018-T1","Mulher","Medio incompleto ou equivalente",6639872.46452515,97885716.0000971,6.7833
+2018,1,"2018-T1","Mulher","Superior incompleto ou equivalente",4717842.8044712,97885716.0000971,4.8197
+2018,2,"2018-T2","Homem","Fundamental incompleto ou equivalente",35874806.6640036,92984265.0001122,38.5816
+2018,2,"2018-T2","Homem","Medio completo ou equivalente",21678697.0670145,92984265.0001122,23.3144
+2018,2,"2018-T2","Homem","Superior completo",9318822.77542735,92984265.0001122,10.0219
+2018,2,"2018-T2","Homem","Fundamental completo ou equivalente",7818243.17794027,92984265.0001122,8.4081
+2018,2,"2018-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7233949.1998553,92984265.0001122,7.7798
+2018,2,"2018-T2","Homem","Medio incompleto ou equivalente",6834862.25228809,92984265.0001122,7.3506
+2018,2,"2018-T2","Homem","Superior incompleto ou equivalente",4224883.863583,92984265.0001122,4.5437
+2018,2,"2018-T2","Mulher","Fundamental incompleto ou equivalente",34126512.1200859,98045260.0001114,34.8069
+2018,2,"2018-T2","Mulher","Medio completo ou equivalente",24476158.054639,98045260.0001114,24.9641
+2018,2,"2018-T2","Mulher","Superior completo",12931099.1043654,98045260.0001114,13.1889
+2018,2,"2018-T2","Mulher","Fundamental completo ou equivalente",7597947.67117714,98045260.0001114,7.7494
+2018,2,"2018-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7347701.94290219,98045260.0001114,7.4942
+2018,2,"2018-T2","Mulher","Medio incompleto ou equivalente",6762566.68897403,98045260.0001114,6.8974
+2018,2,"2018-T2","Mulher","Superior incompleto ou equivalente",4803274.41796776,98045260.0001114,4.899
+2018,3,"2018-T3","Homem","Fundamental incompleto ou equivalente",35689298.7785895,93136443.0000868,38.3194
+2018,3,"2018-T3","Homem","Medio completo ou equivalente",21927319.1379702,93136443.0000868,23.5432
+2018,3,"2018-T3","Homem","Superior completo",9396272.66963082,93136443.0000868,10.0887
+2018,3,"2018-T3","Homem","Fundamental completo ou equivalente",7717180.66592843,93136443.0000868,8.2859
+2018,3,"2018-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7290501.50461514,93136443.0000868,7.8278
+2018,3,"2018-T3","Homem","Medio incompleto ou equivalente",6918048.28729518,93136443.0000868,7.4279
+2018,3,"2018-T3","Homem","Superior incompleto ou equivalente",4197821.95605753,93136443.0000868,4.5072
+2018,3,"2018-T3","Mulher","Fundamental incompleto ou equivalente",34055484.6150955,98211597.0000855,34.6756
+2018,3,"2018-T3","Mulher","Medio completo ou equivalente",24414730.2484361,98211597.0000855,24.8593
+2018,3,"2018-T3","Mulher","Superior completo",13275479.6940356,98211597.0000855,13.5172
+2018,3,"2018-T3","Mulher","Fundamental completo ou equivalente",7557088.25839356,98211597.0000855,7.6947
+2018,3,"2018-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7371543.10573073,98211597.0000855,7.5058
+2018,3,"2018-T3","Mulher","Medio incompleto ou equivalente",6727343.26329588,98211597.0000855,6.8498
+2018,3,"2018-T3","Mulher","Superior incompleto ou equivalente",4809927.81509822,98211597.0000855,4.8975
+2018,4,"2018-T4","Homem","Fundamental incompleto ou equivalente",35646283.7009814,93290916.0001222,38.2098
+2018,4,"2018-T4","Homem","Medio completo ou equivalente",22088445.0783164,93290916.0001222,23.677
+2018,4,"2018-T4","Homem","Superior completo",9626733.02732806,93290916.0001222,10.319
+2018,4,"2018-T4","Homem","Fundamental completo ou equivalente",7598654.3407734,93290916.0001222,8.1451
+2018,4,"2018-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7291193.06627876,93290916.0001222,7.8155
+2018,4,"2018-T4","Homem","Medio incompleto ou equivalente",6797792.65230385,93290916.0001222,7.2867
+2018,4,"2018-T4","Homem","Superior incompleto ou equivalente",4241814.1341403,93290916.0001222,4.5469
+2018,4,"2018-T4","Mulher","Fundamental incompleto ou equivalente",33804346.0049948,98379401.0001093,34.3612
+2018,4,"2018-T4","Mulher","Medio completo ou equivalente",24669704.9706324,98379401.0001093,25.0761
+2018,4,"2018-T4","Mulher","Superior completo",13626280.1137808,98379401.0001093,13.8507
+2018,4,"2018-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7483679.37207753,98379401.0001093,7.607
+2018,4,"2018-T4","Mulher","Fundamental completo ou equivalente",7461786.80082223,98379401.0001093,7.5847
+2018,4,"2018-T4","Mulher","Medio incompleto ou equivalente",6662656.45348247,98379401.0001093,6.7724
+2018,4,"2018-T4","Mulher","Superior incompleto ou equivalente",4670947.28431901,98379401.0001093,4.7479
+2019,1,"2019-T1","Homem","Fundamental incompleto ou equivalente",35207100.978189,93443592.0000941,37.6774
+2019,1,"2019-T1","Homem","Medio completo ou equivalente",22574122.1494879,93443592.0000941,24.158
+2019,1,"2019-T1","Homem","Superior completo",9916392.12784993,93443592.0000941,10.6122
+2019,1,"2019-T1","Homem","Fundamental completo ou equivalente",7744310.56493923,93443592.0000941,8.2877
+2019,1,"2019-T1","Homem","Medio incompleto ou equivalente",6987750.14086698,93443592.0000941,7.478
+2019,1,"2019-T1","Homem","Sem instrucao e menos de 1 ano de estudo",6717241.14097216,93443592.0000941,7.1886
+2019,1,"2019-T1","Homem","Superior incompleto ou equivalente",4296674.89778885,93443592.0000941,4.5981
+2019,1,"2019-T1","Mulher","Fundamental incompleto ou equivalente",33519131.4881271,98545301.0000876,34.0139
+2019,1,"2019-T1","Mulher","Medio completo ou equivalente",25174140.8225068,98545301.0000876,25.5458
+2019,1,"2019-T1","Mulher","Superior completo",13924256.8484288,98545301.0000876,14.1298
+2019,1,"2019-T1","Mulher","Fundamental completo ou equivalente",7641255.58152096,98545301.0000876,7.7541
+2019,1,"2019-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",6841887.03844282,98545301.0000876,6.9429
+2019,1,"2019-T1","Mulher","Medio incompleto ou equivalente",6636030.23046308,98545301.0000876,6.734
+2019,1,"2019-T1","Mulher","Superior incompleto ou equivalente",4808598.99059798,98545301.0000876,4.8796
+2019,2,"2019-T2","Homem","Fundamental incompleto ou equivalente",35264494.7639083,93589588.0001606,37.6799
+2019,2,"2019-T2","Homem","Medio completo ou equivalente",22450777.4111446,93589588.0001606,23.9885
+2019,2,"2019-T2","Homem","Superior completo",9880236.90216608,93589588.0001606,10.557
+2019,2,"2019-T2","Homem","Fundamental completo ou equivalente",7729485.28328577,93589588.0001606,8.2589
+2019,2,"2019-T2","Homem","Sem instrucao e menos de 1 ano de estudo",6969521.61939101,93589588.0001606,7.4469
+2019,2,"2019-T2","Homem","Medio incompleto ou equivalente",6941464.46044234,93589588.0001606,7.4169
+2019,2,"2019-T2","Homem","Superior incompleto ou equivalente",4353607.55982248,93589588.0001606,4.6518
+2019,2,"2019-T2","Mulher","Fundamental incompleto ou equivalente",33599217.2870832,98703999.0001571,34.0404
+2019,2,"2019-T2","Mulher","Medio completo ou equivalente",25094891.6765657,98703999.0001571,25.4244
+2019,2,"2019-T2","Mulher","Superior completo",13883347.2719469,98703999.0001571,14.0656
+2019,2,"2019-T2","Mulher","Fundamental completo ou equivalente",7560490.12485454,98703999.0001571,7.6598
+2019,2,"2019-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7015235.82533715,98703999.0001571,7.1073
+2019,2,"2019-T2","Mulher","Medio incompleto ou equivalente",6685565.29892465,98703999.0001571,6.7733
+2019,2,"2019-T2","Mulher","Superior incompleto ou equivalente",4865251.51544499,98703999.0001571,4.9291
+2019,3,"2019-T3","Homem","Fundamental incompleto ou equivalente",35099280.0259929,93746229.0002828,37.4407
+2019,3,"2019-T3","Homem","Medio completo ou equivalente",22586211.9135304,93746229.0002828,24.0929
+2019,3,"2019-T3","Homem","Superior completo",9903298.26458815,93746229.0002828,10.5639
+2019,3,"2019-T3","Homem","Fundamental completo ou equivalente",7663278.11704908,93746229.0002828,8.1745
+2019,3,"2019-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7261520.57094515,93746229.0002828,7.7459
+2019,3,"2019-T3","Homem","Medio incompleto ou equivalente",6983377.08907746,93746229.0002828,7.4492
+2019,3,"2019-T3","Homem","Superior incompleto ou equivalente",4249263.01909967,93746229.0002828,4.5327
+2019,3,"2019-T3","Mulher","Fundamental incompleto ou equivalente",33592610.5617518,98876645.0002864,33.9743
+2019,3,"2019-T3","Mulher","Medio completo ou equivalente",24990088.8096413,98876645.0002864,25.274
+2019,3,"2019-T3","Mulher","Superior completo",14044005.2809202,98876645.0002864,14.2036
+2019,3,"2019-T3","Mulher","Fundamental completo ou equivalente",7425938.42934237,98876645.0002864,7.5103
+2019,3,"2019-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7284714.66494528,98876645.0002864,7.3675
+2019,3,"2019-T3","Mulher","Medio incompleto ou equivalente",6831199.39859934,98876645.0002864,6.9088
+2019,3,"2019-T3","Mulher","Superior incompleto ou equivalente",4708087.85508615,98876645.0002864,4.7616
+2019,4,"2019-T4","Homem","Fundamental incompleto ou equivalente",34847099.812787,93908962.0003268,37.1073
+2019,4,"2019-T4","Homem","Medio completo ou equivalente",22843811.3488005,93908962.0003268,24.3255
+2019,4,"2019-T4","Homem","Superior completo",10090929.8067648,93908962.0003268,10.7454
+2019,4,"2019-T4","Homem","Fundamental completo ou equivalente",7661483.21129428,93908962.0003268,8.1584
+2019,4,"2019-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7465557.89428933,93908962.0003268,7.9498
+2019,4,"2019-T4","Homem","Medio incompleto ou equivalente",6770732.65684826,93908962.0003268,7.2099
+2019,4,"2019-T4","Homem","Superior incompleto ou equivalente",4229347.26954261,93908962.0003268,4.5037
+2019,4,"2019-T4","Mulher","Fundamental incompleto ou equivalente",33305957.3846569,99058397.0003194,33.6225
+2019,4,"2019-T4","Mulher","Medio completo ou equivalente",25383267.7018314,99058397.0003194,25.6245
+2019,4,"2019-T4","Mulher","Superior completo",14180953.2689456,99058397.0003194,14.3158
+2019,4,"2019-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7355574.64265735,99058397.0003194,7.4255
+2019,4,"2019-T4","Mulher","Fundamental completo ou equivalente",7345499.06645956,99058397.0003194,7.4153
+2019,4,"2019-T4","Mulher","Medio incompleto ou equivalente",6721030.1989791,99058397.0003194,6.7849
+2019,4,"2019-T4","Mulher","Superior incompleto ou equivalente",4766114.73678952,99058397.0003194,4.8114
+2020,1,"2020-T1","Homem","Fundamental incompleto ou equivalente",34512657.0208098,94069909.0003252,36.6883
+2020,1,"2020-T1","Homem","Medio completo ou equivalente",23420590.7464036,94069909.0003252,24.897
+2020,1,"2020-T1","Homem","Superior completo",10472357.8871051,94069909.0003252,11.1325
+2020,1,"2020-T1","Homem","Fundamental completo ou equivalente",7705868.72892932,94069909.0003252,8.1916
+2020,1,"2020-T1","Homem","Medio incompleto ou equivalente",6852569.19961723,94069909.0003252,7.2845
+2020,1,"2020-T1","Homem","Sem instrucao e menos de 1 ano de estudo",6674393.03804798,94069909.0003252,7.0951
+2020,1,"2020-T1","Homem","Superior incompleto ou equivalente",4431472.37941212,94069909.0003252,4.7108
+2020,1,"2020-T1","Mulher","Fundamental incompleto ou equivalente",32801818.0927343,99238255.0003041,33.0536
+2020,1,"2020-T1","Mulher","Medio completo ou equivalente",26098716.0341618,99238255.0003041,26.299
+2020,1,"2020-T1","Mulher","Superior completo",14609035.9767107,99238255.0003041,14.7212
+2020,1,"2020-T1","Mulher","Fundamental completo ou equivalente",7413688.7577106,99238255.0003041,7.4706
+2020,1,"2020-T1","Mulher","Medio incompleto ou equivalente",6708303.58030505,99238255.0003041,6.7598
+2020,1,"2020-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",6594775.11234005,99238255.0003041,6.6454
+2020,1,"2020-T1","Mulher","Superior incompleto ou equivalente",5011917.44634164,99238255.0003041,5.0504
+2020,2,"2020-T2","Homem","Fundamental incompleto ou equivalente",33692706.9112048,94225673.0002633,35.7575
+2020,2,"2020-T2","Homem","Medio completo ou equivalente",23818515.1475298,94225673.0002633,25.2782
+2020,2,"2020-T2","Homem","Superior completo",11045716.4523456,94225673.0002633,11.7226
+2020,2,"2020-T2","Homem","Fundamental completo ou equivalente",7678203.66684777,94225673.0002633,8.1487
+2020,2,"2020-T2","Homem","Medio incompleto ou equivalente",6760600.12362605,94225673.0002633,7.1749
+2020,2,"2020-T2","Homem","Sem instrucao e menos de 1 ano de estudo",6549647.6906295,94225673.0002633,6.951
+2020,2,"2020-T2","Homem","Superior incompleto ou equivalente",4680283.00807987,94225673.0002633,4.9671
+2020,2,"2020-T2","Mulher","Fundamental incompleto ou equivalente",32117710.3991162,99412430.0002291,32.3075
+2020,2,"2020-T2","Mulher","Medio completo ou equivalente",26303985.7168913,99412430.0002291,26.4595
+2020,2,"2020-T2","Mulher","Superior completo",15272932.9837313,99412430.0002291,15.3632
+2020,2,"2020-T2","Mulher","Fundamental completo ou equivalente",7415694.65865353,99412430.0002291,7.4595
+2020,2,"2020-T2","Mulher","Medio incompleto ou equivalente",6698225.24599846,99412430.0002291,6.7378
+2020,2,"2020-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",6528715.31901883,99412430.0002291,6.5673
+2020,2,"2020-T2","Mulher","Superior incompleto ou equivalente",5075165.67681948,99412430.0002291,5.1052
+2020,3,"2020-T3","Homem","Fundamental incompleto ou equivalente",33368122.0493254,94380835.0017119,35.3548
+2020,3,"2020-T3","Homem","Medio completo ou equivalente",23999238.6392455,94380835.0017119,25.4281
+2020,3,"2020-T3","Homem","Superior completo",11095933.6773002,94380835.0017119,11.7566
+2020,3,"2020-T3","Homem","Fundamental completo ou equivalente",7677728.39203,94380835.0017119,8.1348
+2020,3,"2020-T3","Homem","Sem instrucao e menos de 1 ano de estudo",6928533.26592854,94380835.0017119,7.341
+2020,3,"2020-T3","Homem","Medio incompleto ou equivalente",6653789.05849892,94380835.0017119,7.0499
+2020,3,"2020-T3","Homem","Superior incompleto ou equivalente",4657489.9193833,94380835.0017119,4.9348
+2020,3,"2020-T3","Mulher","Fundamental incompleto ou equivalente",32111996.2611008,99591352.0015165,32.2438
+2020,3,"2020-T3","Mulher","Medio completo ou equivalente",26205261.1215641,99591352.0015165,26.3128
+2020,3,"2020-T3","Mulher","Superior completo",15378590.4621881,99591352.0015165,15.4417
+2020,3,"2020-T3","Mulher","Fundamental completo ou equivalente",7383487.43523092,99591352.0015165,7.4138
+2020,3,"2020-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",6864125.79857581,99591352.0015165,6.8923
+2020,3,"2020-T3","Mulher","Medio incompleto ou equivalente",6620200.43736471,99591352.0015165,6.6474
+2020,3,"2020-T3","Mulher","Superior incompleto ou equivalente",5027690.485492,99591352.0015165,5.0483
+2020,4,"2020-T4","Homem","Fundamental incompleto ou equivalente",32772498.1867024,94531852.0075469,34.6682
+2020,4,"2020-T4","Homem","Medio completo ou equivalente",23870970.2072193,94531852.0075469,25.2518
+2020,4,"2020-T4","Homem","Superior completo",11640457.9920375,94531852.0075469,12.3138
+2020,4,"2020-T4","Homem","Fundamental completo ou equivalente",7682147.10699602,94531852.0075469,8.1265
+2020,4,"2020-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7150626.62340983,94531852.0075469,7.5643
+2020,4,"2020-T4","Homem","Medio incompleto ou equivalente",6740460.77050908,94531852.0075469,7.1304
+2020,4,"2020-T4","Homem","Superior incompleto ou equivalente",4674691.12067267,94531852.0075469,4.9451
+2020,4,"2020-T4","Mulher","Fundamental incompleto ou equivalente",31496596.1120775,99771306.0059482,31.5688
+2020,4,"2020-T4","Mulher","Medio completo ou equivalente",26087814.6534314,99771306.0059482,26.1476
+2020,4,"2020-T4","Mulher","Superior completo",15764558.6468884,99771306.0059482,15.8007
+2020,4,"2020-T4","Mulher","Fundamental completo ou equivalente",7485010.98337884,99771306.0059482,7.5022
+2020,4,"2020-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7211982.62395828,99771306.0059482,7.2285
+2020,4,"2020-T4","Mulher","Medio incompleto ou equivalente",6640445.01896332,99771306.0059482,6.6557
+2020,4,"2020-T4","Mulher","Superior incompleto ou equivalente",5084897.96725048,99771306.0059482,5.0966
+2021,1,"2021-T1","Homem","Fundamental incompleto ou equivalente",32383007.9420024,94681142.0188394,34.2022
+2021,1,"2021-T1","Homem","Medio completo ou equivalente",23936117.4393561,94681142.0188394,25.2808
+2021,1,"2021-T1","Homem","Superior completo",11831435.3675888,94681142.0188394,12.4961
+2021,1,"2021-T1","Homem","Fundamental completo ou equivalente",7946153.60624833,94681142.0188394,8.3925
+2021,1,"2021-T1","Homem","Medio incompleto ou equivalente",7017109.99189668,94681142.0188394,7.4113
+2021,1,"2021-T1","Homem","Sem instrucao e menos de 1 ano de estudo",6792493.261644,94681142.0188394,7.1741
+2021,1,"2021-T1","Homem","Superior incompleto ou equivalente",4774824.41010315,94681142.0188394,5.0431
+2021,1,"2021-T1","Mulher","Fundamental incompleto ou equivalente",31239108.3826956,99949442.0147118,31.2549
+2021,1,"2021-T1","Mulher","Medio completo ou equivalente",26369834.8517222,99949442.0147118,26.3832
+2021,1,"2021-T1","Mulher","Superior completo",16035800.6579367,99949442.0147118,16.0439
+2021,1,"2021-T1","Mulher","Fundamental completo ou equivalente",7556211.11541537,99949442.0147118,7.56
+2021,1,"2021-T1","Mulher","Medio incompleto ou equivalente",6845885.05256059,99949442.0147118,6.8493
+2021,1,"2021-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",6837270.37815723,99949442.0147118,6.8407
+2021,1,"2021-T1","Mulher","Superior incompleto ou equivalente",5065331.57622411,99949442.0147118,5.0679
+2021,2,"2021-T2","Homem","Fundamental incompleto ou equivalente",32577647.7397365,94823935.029921,34.3559
+2021,2,"2021-T2","Homem","Medio completo ou equivalente",24065632.9102795,94823935.029921,25.3793
+2021,2,"2021-T2","Homem","Superior completo",11714494.9367217,94823935.029921,12.3539
+2021,2,"2021-T2","Homem","Fundamental completo ou equivalente",7673941.58521629,94823935.029921,8.0928
+2021,2,"2021-T2","Homem","Medio incompleto ou equivalente",7229901.02176854,94823935.029921,7.6246
+2021,2,"2021-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7064246.05232535,94823935.029921,7.4499
+2021,2,"2021-T2","Homem","Superior incompleto ou equivalente",4498070.78387306,94823935.029921,4.7436
+2021,2,"2021-T2","Mulher","Fundamental incompleto ou equivalente",31447771.277596,100120058.026835,31.4101
+2021,2,"2021-T2","Mulher","Medio completo ou equivalente",26519496.780029,100120058.026835,26.4877
+2021,2,"2021-T2","Mulher","Superior completo",15789869.5751811,100120058.026835,15.7709
+2021,2,"2021-T2","Mulher","Fundamental completo ou equivalente",7533534.5303266,100120058.026835,7.5245
+2021,2,"2021-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7097876.59790503,100120058.026835,7.0894
+2021,2,"2021-T2","Mulher","Medio incompleto ou equivalente",6863306.80871865,100120058.026835,6.8551
+2021,2,"2021-T2","Mulher","Superior incompleto ou equivalente",4868202.45707853,100120058.026835,4.8624
+2021,3,"2021-T3","Homem","Fundamental incompleto ou equivalente",33079262.3953132,94971627.0169087,34.8307
+2021,3,"2021-T3","Homem","Medio completo ou equivalente",24075791.4713295,94971627.0169087,25.3505
+2021,3,"2021-T3","Homem","Superior completo",11029661.064747,94971627.0169087,11.6136
+2021,3,"2021-T3","Homem","Fundamental completo ou equivalente",7645908.08349509,94971627.0169087,8.0507
+2021,3,"2021-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7595850.6302149,94971627.0169087,7.998
+2021,3,"2021-T3","Homem","Medio incompleto ou equivalente",7255282.90335006,94971627.0169087,7.6394
+2021,3,"2021-T3","Homem","Superior incompleto ou equivalente",4289870.46845896,94971627.0169087,4.517
+2021,3,"2021-T3","Mulher","Fundamental incompleto ou equivalente",31819340.5405927,100295803.016246,31.7255
+2021,3,"2021-T3","Mulher","Medio completo ou equivalente",26379577.8944204,100295803.016246,26.3018
+2021,3,"2021-T3","Mulher","Superior completo",15299478.5811538,100295803.016246,15.2544
+2021,3,"2021-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7636350.6601904,100295803.016246,7.6138
+2021,3,"2021-T3","Mulher","Fundamental completo ou equivalente",7522352.99180245,100295803.016246,7.5002
+2021,3,"2021-T3","Mulher","Medio incompleto ou equivalente",6897278.81061271,100295803.016246,6.8769
+2021,3,"2021-T3","Mulher","Superior incompleto ou equivalente",4741423.53747377,100295803.016246,4.7274
+2021,4,"2021-T4","Homem","Fundamental incompleto ou equivalente",33231053.3921329,95119450.0052592,34.9361
+2021,4,"2021-T4","Homem","Medio completo ou equivalente",24222604.0607687,95119450.0052592,25.4655
+2021,4,"2021-T4","Homem","Superior completo",10955193.7556075,95119450.0052592,11.5173
+2021,4,"2021-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7776952.0803846,95119450.0052592,8.176
+2021,4,"2021-T4","Homem","Fundamental completo ou equivalente",7545982.11321175,95119450.0052592,7.9332
+2021,4,"2021-T4","Homem","Medio incompleto ou equivalente",7251589.96998341,95119450.0052592,7.6237
+2021,4,"2021-T4","Homem","Superior incompleto ou equivalente",4136074.63317038,95119450.0052592,4.3483
+2021,4,"2021-T4","Mulher","Fundamental incompleto ou equivalente",31796386.5301626,100470947.004579,31.6473
+2021,4,"2021-T4","Mulher","Medio completo ou equivalente",26373944.492723,100470947.004579,26.2503
+2021,4,"2021-T4","Mulher","Superior completo",15403272.5859861,100470947.004579,15.3311
+2021,4,"2021-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7865558.24256011,100470947.004579,7.8287
+2021,4,"2021-T4","Mulher","Fundamental completo ou equivalente",7539502.42670046,100470947.004579,7.5042
+2021,4,"2021-T4","Mulher","Medio incompleto ou equivalente",6884621.45459072,100470947.004579,6.8524
+2021,4,"2021-T4","Mulher","Superior incompleto ou equivalente",4607661.27185568,100470947.004579,4.5861
+2022,1,"2022-T1","Homem","Fundamental incompleto ou equivalente",33020787.6086282,95265594.0041581,34.6618
+2022,1,"2022-T1","Homem","Medio completo ou equivalente",24734998.139588,95265594.0041581,25.9643
+2022,1,"2022-T1","Homem","Superior completo",11115406.5701221,95265594.0041581,11.6678
+2022,1,"2022-T1","Homem","Fundamental completo ou equivalente",7644574.88111597,95265594.0041581,8.0245
+2022,1,"2022-T1","Homem","Medio incompleto ou equivalente",7388574.64640333,95265594.0041581,7.7558
+2022,1,"2022-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7171811.92039017,95265594.0041581,7.5282
+2022,1,"2022-T1","Homem","Superior incompleto ou equivalente",4189440.23791037,95265594.0041581,4.3976
+2022,1,"2022-T1","Mulher","Fundamental incompleto ou equivalente",31614489.7425351,100644329.003021,31.4121
+2022,1,"2022-T1","Mulher","Medio completo ou equivalente",27000234.8313959,100644329.003021,26.8274
+2022,1,"2022-T1","Mulher","Superior completo",15653230.8326474,100644329.003021,15.553
+2022,1,"2022-T1","Mulher","Fundamental completo ou equivalente",7526622.09661698,100644329.003021,7.4784
+2022,1,"2022-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7229060.1367152,100644329.003021,7.1828
+2022,1,"2022-T1","Mulher","Medio incompleto ou equivalente",6915608.757965,100644329.003021,6.8713
+2022,1,"2022-T1","Mulher","Superior incompleto ou equivalente",4705082.6051458,100644329.003021,4.675
+2022,2,"2022-T2","Homem","Fundamental incompleto ou equivalente",32934771.6016964,95405385.0038901,34.5209
+2022,2,"2022-T2","Homem","Medio completo ou equivalente",24855127.2613296,95405385.0038901,26.0521
+2022,2,"2022-T2","Homem","Superior completo",11183987.4831678,95405385.0038901,11.7226
+2022,2,"2022-T2","Homem","Fundamental completo ou equivalente",7552579.12097158,95405385.0038901,7.9163
+2022,2,"2022-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7391688.76326792,95405385.0038901,7.7477
+2022,2,"2022-T2","Homem","Medio incompleto ou equivalente",7301212.72360788,95405385.0038901,7.6528
+2022,2,"2022-T2","Homem","Superior incompleto ou equivalente",4186018.04984898,95405385.0038901,4.3876
+2022,2,"2022-T2","Mulher","Fundamental incompleto ou equivalente",31476564.9354023,100810393.002727,31.2235
+2022,2,"2022-T2","Mulher","Medio completo ou equivalente",27003444.4273932,100810393.002727,26.7864
+2022,2,"2022-T2","Mulher","Superior completo",15773161.371824,100810393.002727,15.6464
+2022,2,"2022-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7482056.64168398,100810393.002727,7.4219
+2022,2,"2022-T2","Mulher","Fundamental completo ou equivalente",7381073.90962758,100810393.002727,7.3217
+2022,2,"2022-T2","Mulher","Medio incompleto ou equivalente",6944319.82312838,100810393.002727,6.8885
+2022,2,"2022-T2","Mulher","Superior incompleto ou equivalente",4749771.89366783,100810393.002727,4.7116
+2022,3,"2022-T3","Homem","Fundamental incompleto ou equivalente",32793237.6758606,95558008.0040143,34.3176
+2022,3,"2022-T3","Homem","Medio completo ou equivalente",24901789.60918,95558008.0040143,26.0593
+2022,3,"2022-T3","Homem","Superior completo",11199162.4126876,95558008.0040143,11.7198
+2022,3,"2022-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7799040.37883226,95558008.0040143,8.1616
+2022,3,"2022-T3","Homem","Fundamental completo ou equivalente",7429208.49496724,95558008.0040143,7.7746
+2022,3,"2022-T3","Homem","Medio incompleto ou equivalente",7146403.04663973,95558008.0040143,7.4786
+2022,3,"2022-T3","Homem","Superior incompleto ou equivalente",4289166.38584686,95558008.0040143,4.4885
+2022,3,"2022-T3","Mulher","Fundamental incompleto ou equivalente",31413707.7345292,100985773.003094,31.1071
+2022,3,"2022-T3","Mulher","Medio completo ou equivalente",26800084.5710312,100985773.003094,26.5385
+2022,3,"2022-T3","Mulher","Superior completo",15976142.1152728,100985773.003094,15.8202
+2022,3,"2022-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7743528.95122429,100985773.003094,7.6679
+2022,3,"2022-T3","Mulher","Fundamental completo ou equivalente",7186407.47625891,100985773.003094,7.1163
+2022,3,"2022-T3","Mulher","Medio incompleto ou equivalente",6978983.70760219,100985773.003094,6.9109
+2022,3,"2022-T3","Mulher","Superior incompleto ou equivalente",4886918.44717494,100985773.003094,4.8392
+2022,4,"2022-T4","Homem","Fundamental incompleto ou equivalente",32559653.7314642,95719409.005895,34.0157
+2022,4,"2022-T4","Homem","Medio completo ou equivalente",24884138.0152348,95719409.005895,25.997
+2022,4,"2022-T4","Homem","Superior completo",11541502.3817964,95719409.005895,12.0576
+2022,4,"2022-T4","Homem","Sem instrucao e menos de 1 ano de estudo",8045271.88128353,95719409.005895,8.4051
+2022,4,"2022-T4","Homem","Fundamental completo ou equivalente",7313731.00171716,95719409.005895,7.6408
+2022,4,"2022-T4","Homem","Medio incompleto ou equivalente",7231974.8511823,95719409.005895,7.5554
+2022,4,"2022-T4","Homem","Superior incompleto ou equivalente",4143137.14321667,95719409.005895,4.3284
+2022,4,"2022-T4","Mulher","Fundamental incompleto ou equivalente",31381296.6007339,101165354.004426,31.0198
+2022,4,"2022-T4","Mulher","Medio completo ou equivalente",26871653.3290833,101165354.004426,26.5621
+2022,4,"2022-T4","Mulher","Superior completo",16160746.11127,101165354.004426,15.9746
+2022,4,"2022-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7864085.07660783,101165354.004426,7.7735
+2022,4,"2022-T4","Mulher","Fundamental completo ou equivalente",7200725.83803917,101165354.004426,7.1178
+2022,4,"2022-T4","Mulher","Medio incompleto ou equivalente",7013178.80947288,101165354.004426,6.9324
+2022,4,"2022-T4","Mulher","Superior incompleto ou equivalente",4673668.23921853,101165354.004426,4.6198
+2023,1,"2023-T1","Homem","Fundamental incompleto ou equivalente",32293540.2888933,95879195.0095134,33.6815
+2023,1,"2023-T1","Homem","Medio completo ou equivalente",25476854.7413046,95879195.0095134,26.5718
+2023,1,"2023-T1","Homem","Superior completo",11629404.011607,95879195.0095134,12.1292
+2023,1,"2023-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7496958.58159058,95879195.0095134,7.8192
+2023,1,"2023-T1","Homem","Fundamental completo ou equivalente",7416285.96660264,95879195.0095134,7.735
+2023,1,"2023-T1","Homem","Medio incompleto ou equivalente",7302299.14434464,95879195.0095134,7.6161
+2023,1,"2023-T1","Homem","Superior incompleto ou equivalente",4263852.27517065,95879195.0095134,4.4471
+2023,1,"2023-T1","Mulher","Fundamental incompleto ou equivalente",31141721.7966919,101343226.007501,30.729
+2023,1,"2023-T1","Mulher","Medio completo ou equivalente",27446737.2124453,101343226.007501,27.083
+2023,1,"2023-T1","Mulher","Superior completo",16167219.6957151,101343226.007501,15.9529
+2023,1,"2023-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7435083.15723452,101343226.007501,7.3365
+2023,1,"2023-T1","Mulher","Fundamental completo ou equivalente",7275226.54909805,101343226.007501,7.1788
+2023,1,"2023-T1","Mulher","Medio incompleto ou equivalente",7097650.7994151,101343226.007501,7.0036
+2023,1,"2023-T1","Mulher","Superior incompleto ou equivalente",4779586.79690089,101343226.007501,4.7162
+2023,2,"2023-T2","Homem","Fundamental incompleto ou equivalente",32205299.3198082,96032160.005785,33.536
+2023,2,"2023-T2","Homem","Medio completo ou equivalente",25671460.4272861,96032160.005785,26.7321
+2023,2,"2023-T2","Homem","Superior completo",11692355.0374641,96032160.005785,12.1755
+2023,2,"2023-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7554535.64426528,96032160.005785,7.8667
+2023,2,"2023-T2","Homem","Fundamental completo ou equivalente",7412310.46439981,96032160.005785,7.7186
+2023,2,"2023-T2","Homem","Medio incompleto ou equivalente",7234834.32574812,96032160.005785,7.5338
+2023,2,"2023-T2","Homem","Superior incompleto ou equivalente",4261364.78681339,96032160.005785,4.4374
+2023,2,"2023-T2","Mulher","Fundamental incompleto ou equivalente",31093968.7365139,101513598.004129,30.6303
+2023,2,"2023-T2","Mulher","Medio completo ou equivalente",27543490.6274917,101513598.004129,27.1328
+2023,2,"2023-T2","Mulher","Superior completo",16287165.4978763,101513598.004129,16.0443
+2023,2,"2023-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7530760.65743368,101513598.004129,7.4185
+2023,2,"2023-T2","Mulher","Fundamental completo ou equivalente",7290557.20576853,101513598.004129,7.1819
+2023,2,"2023-T2","Mulher","Medio incompleto ou equivalente",6959396.49279762,101513598.004129,6.8556
+2023,2,"2023-T2","Mulher","Superior incompleto ou equivalente",4808258.78624703,101513598.004129,4.7366
+2023,3,"2023-T3","Homem","Fundamental incompleto ou equivalente",31911834.1172056,96189856.007869,33.1759
+2023,3,"2023-T3","Homem","Medio completo ou equivalente",25687593.2747944,96189856.007869,26.7051
+2023,3,"2023-T3","Homem","Superior completo",12000103.0392131,96189856.007869,12.4754
+2023,3,"2023-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7816694.00305607,96189856.007869,8.1263
+2023,3,"2023-T3","Homem","Fundamental completo ou equivalente",7360502.95680526,96189856.007869,7.6521
+2023,3,"2023-T3","Homem","Medio incompleto ou equivalente",7207460.28539862,96189856.007869,7.493
+2023,3,"2023-T3","Homem","Superior incompleto ou equivalente",4205668.33139598,96189856.007869,4.3723
+2023,3,"2023-T3","Mulher","Fundamental incompleto ou equivalente",30872141.1344546,101687654.005179,30.3598
+2023,3,"2023-T3","Mulher","Medio completo ou equivalente",27636082.4911301,101687654.005179,27.1774
+2023,3,"2023-T3","Mulher","Superior completo",16437028.0693053,101687654.005179,16.1642
+2023,3,"2023-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7707785.55279806,101687654.005179,7.5799
+2023,3,"2023-T3","Mulher","Fundamental completo ou equivalente",7210528.20791388,101687654.005179,7.0909
+2023,3,"2023-T3","Mulher","Medio incompleto ou equivalente",6941829.47413793,101687654.005179,6.8266
+2023,3,"2023-T3","Mulher","Superior incompleto ou equivalente",4882259.07543963,101687654.005179,4.8012
+2023,4,"2023-T4","Homem","Fundamental incompleto ou equivalente",31895056.3986701,96347126.0060875,33.1043
+2023,4,"2023-T4","Homem","Medio completo ou equivalente",25850979.2877082,96347126.0060875,26.8311
+2023,4,"2023-T4","Homem","Superior completo",12167032.565438,96347126.0060875,12.6283
+2023,4,"2023-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7867582.33608967,96347126.0060875,8.1659
+2023,4,"2023-T4","Homem","Fundamental completo ou equivalente",7361776.81457362,96347126.0060875,7.6409
+2023,4,"2023-T4","Homem","Medio incompleto ou equivalente",7064566.73497844,96347126.0060875,7.3324
+2023,4,"2023-T4","Homem","Superior incompleto ou equivalente",4140131.86862942,96347126.0060875,4.2971
+2023,4,"2023-T4","Mulher","Fundamental incompleto ou equivalente",30842729.4569211,101859573.003466,30.2797
+2023,4,"2023-T4","Mulher","Medio completo ou equivalente",27700993.1160367,101859573.003466,27.1953
+2023,4,"2023-T4","Mulher","Superior completo",16714762.0277439,101859573.003466,16.4096
+2023,4,"2023-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7788122.61308221,101859573.003466,7.6459
+2023,4,"2023-T4","Mulher","Fundamental completo ou equivalente",7223971.07800401,101859573.003466,7.0921
+2023,4,"2023-T4","Mulher","Medio incompleto ou equivalente",6829693.72408268,101859573.003466,6.705
+2023,4,"2023-T4","Mulher","Superior incompleto ou equivalente",4759300.98759532,101859573.003466,4.6724
+2024,1,"2024-T1","Homem","Fundamental incompleto ou equivalente",31747719.7247222,96502772.0022898,32.8982
+2024,1,"2024-T1","Homem","Medio completo ou equivalente",26156656.041672,96502772.0022898,27.1046
+2024,1,"2024-T1","Homem","Superior completo",12386314.3895383,96502772.0022898,12.8352
+2024,1,"2024-T1","Homem","Fundamental completo ou equivalente",7477079.82379298,96502772.0022898,7.748
+2024,1,"2024-T1","Homem","Medio incompleto ou equivalente",7353100.29077884,96502772.0022898,7.6196
+2024,1,"2024-T1","Homem","Sem instrucao e menos de 1 ano de estudo",7043190.21739333,96502772.0022898,7.2984
+2024,1,"2024-T1","Homem","Superior incompleto ou equivalente",4338711.51439213,96502772.0022898,4.4959
+2024,1,"2024-T1","Mulher","Fundamental incompleto ou equivalente",30696063.0133247,102029768.001224,30.0854
+2024,1,"2024-T1","Mulher","Medio completo ou equivalente",28134384.6743413,102029768.001224,27.5747
+2024,1,"2024-T1","Mulher","Superior completo",16989610.1371173,102029768.001224,16.6516
+2024,1,"2024-T1","Mulher","Fundamental completo ou equivalente",7292084.21802116,102029768.001224,7.147
+2024,1,"2024-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",7160236.42498651,102029768.001224,7.0178
+2024,1,"2024-T1","Mulher","Medio incompleto ou equivalente",6801200.01475532,102029768.001224,6.6659
+2024,1,"2024-T1","Mulher","Superior incompleto ou equivalente",4956189.51867816,102029768.001224,4.8576
+2024,2,"2024-T2","Homem","Fundamental incompleto ou equivalente",31636328.7851517,96653459.0018816,32.7317
+2024,2,"2024-T2","Homem","Medio completo ou equivalente",26303172.9182808,96653459.0018816,27.2139
+2024,2,"2024-T2","Homem","Superior completo",12422512.8380714,96653459.0018816,12.8526
+2024,2,"2024-T2","Homem","Fundamental completo ou equivalente",7410065.45456501,96653459.0018816,7.6666
+2024,2,"2024-T2","Homem","Sem instrucao e menos de 1 ano de estudo",7308239.67652738,96653459.0018816,7.5613
+2024,2,"2024-T2","Homem","Medio incompleto ou equivalente",7263045.15035083,96653459.0018816,7.5145
+2024,2,"2024-T2","Homem","Superior incompleto ou equivalente",4310094.17893453,96653459.0018816,4.4593
+2024,2,"2024-T2","Mulher","Fundamental incompleto ou equivalente",30505801.3761003,102194605.000953,29.8507
+2024,2,"2024-T2","Mulher","Medio completo ou equivalente",28186696.5855448,102194605.000953,27.5814
+2024,2,"2024-T2","Mulher","Superior completo",17159153.9091788,102194605.000953,16.7907
+2024,2,"2024-T2","Mulher","Fundamental completo ou equivalente",7310344.64045471,102194605.000953,7.1534
+2024,2,"2024-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",7282367.66220147,102194605.000953,7.126
+2024,2,"2024-T2","Mulher","Medio incompleto ou equivalente",6799915.9222495,102194605.000953,6.6539
+2024,2,"2024-T2","Mulher","Superior incompleto ou equivalente",4950324.9052239,102194605.000953,4.844
+2024,3,"2024-T3","Homem","Fundamental incompleto ou equivalente",31652531.6947488,96801867.0012923,32.6983
+2024,3,"2024-T3","Homem","Medio completo ou equivalente",26290438.4861465,96801867.0012923,27.159
+2024,3,"2024-T3","Homem","Superior completo",12458072.8435266,96801867.0012923,12.8697
+2024,3,"2024-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7540369.99474387,96801867.0012923,7.7895
+2024,3,"2024-T3","Homem","Fundamental completo ou equivalente",7383388.32939852,96801867.0012923,7.6273
+2024,3,"2024-T3","Homem","Medio incompleto ou equivalente",7286405.40674428,96801867.0012923,7.5271
+2024,3,"2024-T3","Homem","Superior incompleto ou equivalente",4190660.24598375,96801867.0012923,4.3291
+2024,3,"2024-T3","Mulher","Fundamental incompleto ou equivalente",30317090.9978682,102357921.000662,29.6187
+2024,3,"2024-T3","Mulher","Medio completo ou equivalente",28311244.0503319,102357921.000662,27.6591
+2024,3,"2024-T3","Mulher","Superior completo",17210685.1503592,102357921.000662,16.8142
+2024,3,"2024-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",7513979.76316263,102357921.000662,7.3409
+2024,3,"2024-T3","Mulher","Fundamental completo ou equivalente",7199082.97099832,102357921.000662,7.0332
+2024,3,"2024-T3","Mulher","Medio incompleto ou equivalente",6851001.6048071,102357921.000662,6.6932
+2024,3,"2024-T3","Mulher","Superior incompleto ou equivalente",4954836.4631351,102357921.000662,4.8407
+2024,4,"2024-T4","Homem","Fundamental incompleto ou equivalente",31427754.3205367,96944425.0014195,32.4183
+2024,4,"2024-T4","Homem","Medio completo ou equivalente",26804322.159892,96944425.0014195,27.6492
+2024,4,"2024-T4","Homem","Superior completo",12770501.0879017,96944425.0014195,13.173
+2024,4,"2024-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7417159.17591901,96944425.0014195,7.6509
+2024,4,"2024-T4","Homem","Fundamental completo ou equivalente",7217480.41871901,96944425.0014195,7.445
+2024,4,"2024-T4","Homem","Medio incompleto ou equivalente",7199052.05364622,96944425.0014195,7.426
+2024,4,"2024-T4","Homem","Superior incompleto ou equivalente",4108155.78480483,96944425.0014195,4.2376
+2024,4,"2024-T4","Mulher","Fundamental incompleto ou equivalente",30146694.4706511,102515861.000741,29.4069
+2024,4,"2024-T4","Mulher","Medio completo ou equivalente",29070017.9844268,102515861.000741,28.3566
+2024,4,"2024-T4","Mulher","Superior completo",17560573.9141673,102515861.000741,17.1296
+2024,4,"2024-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7373204.30750487,102515861.000741,7.1923
+2024,4,"2024-T4","Mulher","Fundamental completo ou equivalente",7003785.69200205,102515861.000741,6.8319
+2024,4,"2024-T4","Mulher","Medio incompleto ou equivalente",6589254.76254185,102515861.000741,6.4275
+2024,4,"2024-T4","Mulher","Superior incompleto ou equivalente",4772329.86944751,102515861.000741,4.6552
+2025,1,"2025-T1","Homem","Fundamental incompleto ou equivalente",31203269.3200939,97085409.0013659,32.14
+2025,1,"2025-T1","Homem","Medio completo ou equivalente",27713352.7856998,97085409.0013659,28.5453
+2025,1,"2025-T1","Homem","Superior completo",13015309.2816753,97085409.0013659,13.406
+2025,1,"2025-T1","Homem","Fundamental completo ou equivalente",7228639.73348062,97085409.0013659,7.4456
+2025,1,"2025-T1","Homem","Medio incompleto ou equivalente",7054255.47529317,97085409.0013659,7.266
+2025,1,"2025-T1","Homem","Sem instrucao e menos de 1 ano de estudo",6574017.2108625,97085409.0013659,6.7714
+2025,1,"2025-T1","Homem","Superior incompleto ou equivalente",4296565.19426053,97085409.0013659,4.4256
+2025,1,"2025-T1","Mulher","Fundamental incompleto ou equivalente",29871530.7209635,102672136.000814,29.0941
+2025,1,"2025-T1","Mulher","Medio completo ou equivalente",29470765.4968776,102672136.000814,28.7038
+2025,1,"2025-T1","Mulher","Superior completo",17974783.8235435,102672136.000814,17.507
+2025,1,"2025-T1","Mulher","Fundamental completo ou equivalente",7093761.97071169,102672136.000814,6.9091
+2025,1,"2025-T1","Mulher","Medio incompleto ou equivalente",6637316.27229921,102672136.000814,6.4646
+2025,1,"2025-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",6634653.85050645,102672136.000814,6.462
+2025,1,"2025-T1","Mulher","Superior incompleto ou equivalente",4989323.86591186,102672136.000814,4.8595
+2025,2,"2025-T2","Homem","Fundamental incompleto ou equivalente",31100944.0674622,97220302.0007875,31.9902
+2025,2,"2025-T2","Homem","Medio completo ou equivalente",27228322.9404694,97220302.0007875,28.0068
+2025,2,"2025-T2","Homem","Superior completo",13216326.8955373,97220302.0007875,13.5942
+2025,2,"2025-T2","Homem","Medio incompleto ou equivalente",7271282.26944105,97220302.0007875,7.4792
+2025,2,"2025-T2","Homem","Fundamental completo ou equivalente",7162884.2557222,97220302.0007875,7.3677
+2025,2,"2025-T2","Homem","Sem instrucao e menos de 1 ano de estudo",6868056.81715743,97220302.0007875,7.0644
+2025,2,"2025-T2","Homem","Superior incompleto ou equivalente",4372484.75499786,97220302.0007875,4.4975
+2025,2,"2025-T2","Mulher","Fundamental incompleto ou equivalente",29875669.8808384,102821735.000445,29.0558
+2025,2,"2025-T2","Mulher","Medio completo ou equivalente",29027614.0178486,102821735.000445,28.231
+2025,2,"2025-T2","Mulher","Superior completo",18117450.3203861,102821735.000445,17.6203
+2025,2,"2025-T2","Mulher","Fundamental completo ou equivalente",7071247.6435292,102821735.000445,6.8772
+2025,2,"2025-T2","Mulher","Sem instrucao e menos de 1 ano de estudo",6815154.34217935,102821735.000445,6.6281
+2025,2,"2025-T2","Mulher","Medio incompleto ou equivalente",6735000.77464839,102821735.000445,6.5502
+2025,2,"2025-T2","Mulher","Superior incompleto ou equivalente",5179598.02101461,102821735.000445,5.0375
+2025,3,"2025-T3","Homem","Fundamental incompleto ou equivalente",31130616.4570001,97354768.004669,31.9765
+2025,3,"2025-T3","Homem","Medio completo ou equivalente",27103887.7335973,97354768.004669,27.8403
+2025,3,"2025-T3","Homem","Superior completo",13299914.7109707,97354768.004669,13.6613
+2025,3,"2025-T3","Homem","Medio incompleto ou equivalente",7316067.57498672,97354768.004669,7.5149
+2025,3,"2025-T3","Homem","Sem instrucao e menos de 1 ano de estudo",7089655.6925149,97354768.004669,7.2823
+2025,3,"2025-T3","Homem","Fundamental completo ou equivalente",7036912.02171442,97354768.004669,7.2281
+2025,3,"2025-T3","Homem","Superior incompleto ou equivalente",4377713.81388496,97354768.004669,4.4967
+2025,3,"2025-T3","Mulher","Fundamental incompleto ou equivalente",29896577.5202551,102971761.003932,29.0338
+2025,3,"2025-T3","Mulher","Medio completo ou equivalente",29010404.2279054,102971761.003932,28.1732
+2025,3,"2025-T3","Mulher","Superior completo",18367021.5398359,102971761.003932,17.837
+2025,3,"2025-T3","Mulher","Fundamental completo ou equivalente",6995270.82462632,102971761.003932,6.7934
+2025,3,"2025-T3","Mulher","Sem instrucao e menos de 1 ano de estudo",6960336.20086572,102971761.003932,6.7595
+2025,3,"2025-T3","Mulher","Medio incompleto ou equivalente",6647318.93045288,102971761.003932,6.4555
+2025,3,"2025-T3","Mulher","Superior incompleto ou equivalente",5094831.75999035,102971761.003932,4.9478
+2025,4,"2025-T4","Homem","Fundamental incompleto ou equivalente",31108597.4925078,97484107.000002,31.9115
+2025,4,"2025-T4","Homem","Medio completo ou equivalente",27157161.736892,97484107.000002,27.858
+2025,4,"2025-T4","Homem","Superior completo",13568513.3670391,97484107.000002,13.9187
+2025,4,"2025-T4","Homem","Sem instrucao e menos de 1 ano de estudo",7190618.20346256,97484107.000002,7.3762
+2025,4,"2025-T4","Homem","Medio incompleto ou equivalente",7068966.64639843,97484107.000002,7.2514
+2025,4,"2025-T4","Homem","Fundamental completo ou equivalente",6907497.25609684,97484107.000002,7.0858
+2025,4,"2025-T4","Homem","Superior incompleto ou equivalente",4482752.29760525,97484107.000002,4.5984
+2025,4,"2025-T4","Mulher","Fundamental incompleto ou equivalente",29792875.6429959,103117031,28.8923
+2025,4,"2025-T4","Mulher","Medio completo ou equivalente",29068015.6355543,103117031,28.1893
+2025,4,"2025-T4","Mulher","Superior completo",18756515.7091744,103117031,18.1895
+2025,4,"2025-T4","Mulher","Sem instrucao e menos de 1 ano de estudo",7112530.89075354,103117031,6.8975
+2025,4,"2025-T4","Mulher","Fundamental completo ou equivalente",6798907.31767767,103117031,6.5934
+2025,4,"2025-T4","Mulher","Medio incompleto ou equivalente",6462100.12456534,103117031,6.2668
+2025,4,"2025-T4","Mulher","Superior incompleto ou equivalente",5126085.67927933,103117031,4.9711
+2026,1,"2026-T1","Homem","Fundamental incompleto ou equivalente",30990283.1044091,97611888.0004956,31.7485
+2026,1,"2026-T1","Homem","Medio completo ou equivalente",27664281.0958734,97611888.0004956,28.3411
+2026,1,"2026-T1","Homem","Superior completo",13668104.6873953,97611888.0004956,14.0025
+2026,1,"2026-T1","Homem","Medio incompleto ou equivalente",7208028.2279202,97611888.0004956,7.3844
+2026,1,"2026-T1","Homem","Fundamental completo ou equivalente",7142935.69497976,97611888.0004956,7.3177
+2026,1,"2026-T1","Homem","Sem instrucao e menos de 1 ano de estudo",6340663.79055197,97611888.0004956,6.4958
+2026,1,"2026-T1","Homem","Superior incompleto ou equivalente",4597591.39936585,97611888.0004956,4.7101
+2026,1,"2026-T1","Mulher","Fundamental incompleto ou equivalente",29670858.5881995,103260656.000458,28.7339
+2026,1,"2026-T1","Mulher","Medio completo ou equivalente",29336214.7762851,103260656.000458,28.4099
+2026,1,"2026-T1","Mulher","Superior completo",18905961.7758478,103260656.000458,18.309
+2026,1,"2026-T1","Mulher","Fundamental completo ou equivalente",6871965.35238532,103260656.000458,6.655
+2026,1,"2026-T1","Mulher","Medio incompleto ou equivalente",6780089.22544271,103260656.000458,6.566
+2026,1,"2026-T1","Mulher","Sem instrucao e menos de 1 ano de estudo",6250372.48741948,103260656.000458,6.053
+2026,1,"2026-T1","Mulher","Superior incompleto ou equivalente",5445193.7948779,103260656.000458,5.2733

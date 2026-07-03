@@ -2,7 +2,7 @@
   "metadata": {
     "nome_analise": "Ultimo periodo: remuneracao media por sexo",
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por sexo (VD4019 e VD4020).",
-    "gerado_em": "2026-07-02 21:29:34 -0300",
+    "gerado_em": "2026-07-03 14:20:17 -0300",
     "fuso_horario": "America/Sao_Paulo",
     "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
@@ -15,24 +15,24 @@
   "tabela": [
     {
       "sexo": "Homem",
-      "registros_com_ocupacao_e_peso_valido": 127630,
-      "registros_com_rendimento_habitual": 125997,
-      "rendimento_habitual_medio_ponderado": 3977.03498808,
-      "registros_com_rendimento_efetivo": 122839,
-      "rendimento_efetivo_medio_ponderado": 4164.36726672
+      "registros_com_ocupacao_e_peso_valido": 129907,
+      "registros_com_rendimento_habitual": 128259,
+      "rendimento_habitual_medio_ponderado": 4088.34652864,
+      "registros_com_rendimento_efetivo": 124371,
+      "rendimento_efetivo_medio_ponderado": 4474.25467974
     },
     {
       "sexo": "Mulher",
-      "registros_com_ocupacao_e_peso_valido": 97351,
-      "registros_com_rendimento_habitual": 94422,
-      "rendimento_habitual_medio_ponderado": 3136.80348242,
-      "registros_com_rendimento_efetivo": 92789,
-      "rendimento_efetivo_medio_ponderado": 3295.05926064
+      "registros_com_ocupacao_e_peso_valido": 98450,
+      "registros_com_rendimento_habitual": 95534,
+      "rendimento_habitual_medio_ponderado": 3240.15879248,
+      "registros_com_rendimento_efetivo": 93128,
+      "rendimento_efetivo_medio_ponderado": 3602.81312405
     }
   ],
   "ultimo_periodo": {
-    "ano": 2025,
-    "trimestre": 4,
-    "periodo": "2025-T4"
+    "ano": 2026,
+    "trimestre": 1,
+    "periodo": "2026-T1"
   }
 }

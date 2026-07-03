@@ -67,7 +67,7 @@
 2264;Fisioterapeutas;1
 2265;Dietistas e nutricionistas;1
 2266;Fonoaudiólogos e logopedistas;1
-2267;Optometristas;2
+2267;Optometristas;1
 2269;Profissionais da saúde não classificados anteriormente;2
 2310;Professores de universidades e do ensino superior;1
 2320;Professores de formação profissional;2
@@ -131,9 +131,9 @@
 3117;Técnicos em engenharia de minas e metalurgia;0
 3118;Desenhistas e projetistas técnicos;0
 3119;Técnicos em ciências físicas e da engenharia não classificados anteriormente;0
-3121;Supervisores da mineração;0
-3122;Supervisores de indústrias de transformação;0
-3123;Supervisores da construção;0
+3121;Supervisores da mineração;2
+3122;Supervisores de indústrias de transformação;2
+3123;Supervisores da construção;2
 3131;Operadores de instalações de produção de energia;0
 3132;Operadores de incineradores, instalações de tratamento de água e afins;0
 3133;Controladores de instalações de processamento de produtos químicos;0
@@ -170,16 +170,16 @@
 3313;Contabilistas e guarda livros;0
 3314;Profissionais de nível médio de serviços estatísticos, matemáticos e afins;0
 3315;Avaliadores;2
-3321;Agentes de seguros;0
-3322;Representantes comerciais;0
-3323;Agentes de compras;0
+3321;Agentes de seguros;2
+3322;Representantes comerciais;2
+3323;Agentes de compras;2
 3324;Corretores de comercialização;0
-3331;Despachantes aduaneiros;0
+3331;Despachantes aduaneiros;2
 3332;Organizadores de conferências e eventos;2
-3333;Agentes de emprego e agenciadores de mão de obra;0
-3334;Agentes imobiliários;0
+3333;Agentes de emprego e agenciadores de mão de obra;2
+3334;Agentes imobiliários;2
 3339;Agentes de serviços comerciais não classificados anteriormente;0
-3341;Supervisores de secretaria;0
+3341;Supervisores de secretaria;2
 3342;Secretários jurídicos;0
 3343;Secretários executivos e administrativos;2
 3344;Secretários de medicina;0
@@ -192,13 +192,13 @@
 3411;Profissionais de nível médio do direito e serviços legais e afins;0
 3412;Trabalhadores e assistentes sociais de nível médio;0
 3413;Auxiliares leigos de religião;0
-3421;Atletas e esportistas;2
+3421;Atletas e esportistas;0
 3422;Treinadores, instrutores e árbitros de atividades esportivas;2
 3423;Instrutores de educação física e atividades recreativas;2
-3431;Fotógrafos;0
-3432;Desenhistas e decoradores de interiores;0
+3431;Fotógrafos;2
+3432;Desenhistas e decoradores de interiores;2
 3433;Técnicos em galerias de arte, museus e bibliotecas;0
-3434;Chefes de cozinha;0
+3434;Chefes de cozinha;2
 3435;Outros profissionais de nível médio em atividades culturais e artísticas;0
 3511;Técnicos em operações de tecnologia da informação e das comunicações;0
 3512;Técnicos em assistência ao usuário de tecnologia da informação e das comunicações;0
@@ -243,7 +243,7 @@
 5132;atendentes de bar;0
 5141;Cabeleireiros;0
 5142;Especialistas em tratamento de beleza e afins;0
-5151;Supervisores de manutenção e limpeza de edifícios em escritórios, hotéis e estabelecimentos;0
+5151;Supervisores de manutenção e limpeza de edifícios em escritórios, hotéis e estabelecimentos;2
 5152;Governantas e mordomos domésticos;0
 5153;Porteiros e zeladores;0
 5161;Astrólogos, adivinhos e afins;0
@@ -256,7 +256,7 @@
 5211;Vendedores de quiosques e postos de mercados;0
 5212;Vendedores ambulantes de serviços de alimentação;0
 5221;Comerciantes de lojas;0
-5222;Supervisores de lojas;0
+5222;Supervisores de lojas;2
 5223;Balconistas e vendedores de lojas;0
 5230;Caixas e expedidores de bilhetes;0
 5241;Modelos de moda, arte e publicidade;0

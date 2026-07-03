@@ -9,3 +9,6 @@ saida/pnadc*.rds
 
 # Cache RDS de base consolidada
 saida/base_pnadc_sobreeducacao.rds
+
+# Logs brutos de execucao
+saida/*.log
