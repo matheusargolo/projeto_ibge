@@ -4,7 +4,7 @@
     "descricao": "Para o ultimo ano/trimestre disponivel, calcula remuneracao media ponderada por regiao (VD4019 e VD4020).",
     "gerado_em": "2026-07-03 14:19:46 -0300",
     "fuso_horario": "America/Sao_Paulo",
-    "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
+    "periodo_analisado": "Todos os periodos trimestrais disponiveis localmente em dados_pnadc/PNADC_0TAAAA.txt.",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
     "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario. Ocupacoes com nivel_superior=2 sao ambiguas e ficam fora do universo das analises de sobreeducacao.",
     "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",

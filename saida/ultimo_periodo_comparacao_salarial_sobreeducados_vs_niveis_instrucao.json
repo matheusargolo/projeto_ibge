@@ -4,7 +4,7 @@
     "descricao": "Compara a remuneracao media ponderada dos sobreeducados com grupos de referencia por nivel de instrucao no ultimo periodo disponivel. Por ser analise relacionada a sobreeducacao, restringe o universo a ocupacoes classificadas como 0 ou 1, excluindo ocupacoes ambiguas (nivel_superior=2). Inclui diferencas absolutas (R$), razoes e diferencas percentuais para VD4019 e VD4020.",
     "gerado_em": "2026-07-03 14:17:35 -0300",
     "fuso_horario": "America/Sao_Paulo",
-    "periodo_analisado": "Todos os periodos disponiveis localmente (por ora apenas T4 por ano, conforme pedido do usuario).",
+    "periodo_analisado": "Todos os periodos trimestrais disponiveis localmente em dados_pnadc/PNADC_0TAAAA.txt.",
     "definicao_sobreeducado": "Pessoa com nivel de instrucao 'Superior completo' (VD3004=7) trabalhando em ocupacao classificada como nao exigente de nivel superior (nivel_superior=0).",
     "classificacao_ocupacoes": "Arquivo saida/ocupacoes_cod2010_classificadas.csv, definido previamente pelo usuario. Ocupacoes com nivel_superior=2 sao ambiguas e ficam fora do universo das analises de sobreeducacao.",
     "pesos": "Todas as estimativas ponderadas usam V1028 e ignoram pesos invalidos (NA, nao finito, <=0).",

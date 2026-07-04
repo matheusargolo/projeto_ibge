@@ -3,7 +3,7 @@
 ## Visão geral
 Este repositório reúne scripts em R para:
 - baixar microdados da PNAD Contínua;
-- gerar recortes padronizados;
+- consolidar uma base local a partir dos microdados brutos trimestrais;
 - calcular distribuição de nível de instrução;
 - medir sobreeducação ao longo do tempo;
 - comparar remuneração entre grupos, com foco em sobreeducados.
@@ -24,7 +24,8 @@ Na classificação de ocupações (`saida/ocupacoes_cod2010_classificadas.csv`),
 
 ### Arquivos principais
 - `utils_analises_sobreeducacao.R`: funções utilitárias compartilhadas (carregamento de base, cálculos e exportação).
-- `executa_lote_analises_sobreeducacao_t4.R`: executor em lote das análises de sobreeducação.
+- `executa_todas_analises_pnadc.R`: executor em lote das análises sobre todos os microdados trimestrais disponíveis localmente.
+- `executa_lote_analises_sobreeducacao_t4.R`: executor legado das análises de sobreeducação.
 - `README.md`: documentação do projeto.
 - `.gitignore`: regras de versionamento.
 
@@ -38,7 +39,8 @@ Na classificação de ocupações (`saida/ocupacoes_cod2010_classificadas.csv`),
 | Script | Função resumida |
 |---|---|
 | `baixar_pnadc_bruto_periodo.R` | Baixa microdados brutos da PNAD Contínua por intervalo de anos e trimestres (parametrizável). |
-| `pnadcibge_starter.R` | Exemplo inicial: baixa 2025-T4, cria recorte com variáveis selecionadas e salva em CSV/RDS. |
+| `executa_todas_analises_pnadc.R` | Executa todas as análises usando os microdados locais `dados_pnadc/PNADC_0TAAAA.txt` e reescreve as saídas CSV/JSON. |
+| `pnadcibge_starter.R` | Exemplo legado de uso do pacote `PNADcIBGE`; não é usado no pipeline atual. |
 | `processa_sobreeducacao_brasil_por_ano_trimestre.R` | Calcula número ponderado de sobreeducados no Brasil por ano/trimestre e a taxa entre pessoas com superior completo. |
 | `processa_nivel_instrucao_brasil.R` | Calcula a distribuição percentual ponderada do nível de instrução no Brasil por período. |
 | `processa_nivel_instrucao_por_uf.R` | Calcula a distribuição percentual ponderada do nível de instrução por UF e período. |
@@ -75,10 +77,12 @@ As saídas ficam na pasta `saida/`, em geral em dois formatos:
 - JSON (tabelas + metadados metodológicos).
 
 Também são gerados:
-- `saida/log_execucao_analises_sobreeducacao_t4.csv`;
-- `saida/documentacao_analises_sobreeducacao_t4.md`.
+- `saida/log_execucao_todas_analises_pnadc.csv`;
+- `saida/status_execucao_todas_analises_pnadc.csv`.
 
 ## Execução sugerida
 1. Rodar o download bruto (quando necessário): `baixar_pnadc_bruto_periodo.R`.
 2. Garantir a classificação de ocupações em `saida/ocupacoes_cod2010_classificadas.csv`.
-3. Rodar os scripts analíticos individualmente ou em lote com `executa_lote_analises_sobreeducacao_t4.R`.
+3. Rodar os scripts analíticos individualmente ou em lote com `executa_todas_analises_pnadc.R`.
+
+O pipeline atual não depende dos antigos arquivos `saida/pnadc_*_recorte.rds`; esses recortes foram removidos por serem um artefato legado restrito a T4.
